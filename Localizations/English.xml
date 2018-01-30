@@ -1,0 +1,1249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<localization name="English" extension="" typeface="Georgia">
+	<namespace id ="menu">	
+		<namespace id ="general">
+			<namespace id ="create_game">
+				<translation id = "map_seed" 					value = "Map seed"/>		
+				<translation id = "map_width" 					value = "Map width"/>
+				<translation id = "map_height" 					value = "Map height"/>
+				<translation id = "map_size_unit" 				value = "blocks"/>
+				<translation id = "num_portals" 				value = "Number of portals"/>
+				<translation id = "dark_mother_location_x" 		value = "Dark Mother location X"/>
+				<translation id = "dark_mother_location_y" 		value = "Dark Mother location Y"/>
+				<translation id = "dark_mother_location_height" value = "Dark Mother location height"/>
+
+				<translation id = "no_creatures" 				value = "No creatures"/>
+				<translation id = "game_difficulty" 			value = "Game difficulty"/>
+				<translation id = "new_creative_game" 			value = "Creative game"/>
+				<translation id = "new_easy_game" 				value = "Easy game"/>
+				<translation id = "new_normal_game" 			value = "Normal game"/>
+				<translation id = "new_hard_game" 				value = "Hard game"/>
+				<translation id = "new_impossible_game" 		value = "Impossible game"/>
+				<translation id = "enable_endless_flow_mode" 	value = "Enable endless flow mode"/>
+				<translation id = "enable_pause" 				value = "Enable pause"/>
+				<translation id = "enable_progression_mode" 	value = "Enable progression mode"/>
+				<translation id = "enable_cyclotaur_maze" 		value = "Enable cyclotaur maze"/>
+				<translation id = "cheating_mode_enabled" 		value = "Cheating mode enabled"/>
+
+				<translation id = "creature_level_min" 			value = "Minimum creature level"/>
+				<translation id = "creature_level_max" 			value = "Maximum creature level"/>
+				<translation id = "water_amount" 				value = "Water amount"/>
+				<translation id = "lava_amount" 				value = "Lava amount"/>
+				<translation id = "make_plain_level" 			value = "Make plain level"/>
+			</namespace>
+			
+			<translation id = "leave_level" 					value = "Leave this level"/>
+			<translation id = "leave_level_confirm" 			value = "Yes, I want to leave this level!"/>
+			<translation id = "main_menu" 						value = "Main menu"/>
+			<translation id = "start_game" 						value = "Start game"/>
+			<translation id = "resume_game" 					value = "Resume game"/>
+			<translation id = "quit_game" 						value = "Quit game"/>
+			<translation id = "confirm_quit_game" 				value = "Yes, I want to quit!"/>
+		</namespace>
+		
+		<namespace id ="main">
+			<translation id = "load_game_editor" 	value = "Load editor map"/>
+			<translation id = "load_game" 			value = "Load game"/>
+			<translation id = "load_game_demo" 		value = "Load game (Unavalible in demo)"/>
+			<translation id = "save_game_editor" 	value = "Save editor map"/>
+			<translation id = "save_game" 			value = "Save game"/>
+			<translation id = "save_game_demo" 		value = "Save game (Unavalible in demo)"/>
+		</namespace>
+		
+		<namespace id ="save_game">
+			<translation id = "create_new" 						value = "--- Create new savegame ---"/>
+			<translation id = "create_new_editor" 				value = "--- Create new editor map ---"/>
+			<translation id = "name_savegame" 					value = "Name your savegame"/>
+			<translation id = "saving_game"						value = "Saving game..."/>
+			<translation id = "loading_game" 					value = "Loading game..."/> 
+			<translation id = "couldnt_save_game" 				value = "Game could not be saved!"/>
+			<translation id = "confirm_delete_save_game" 		value = "Yes, I want to delete this savegame!"/>
+			<translation id = "delete_save_game" 				value = "Delete savegames"/>
+			<translation id = "confirm_load_game"	 			value = "Yes, I want to load a previous saved game!"/>
+		</namespace>
+		
+		<namespace id ="editor">
+			<translation id = "title" 				value = "Editor"/>
+			<namespace id ="new_map">
+				<translation id = "title" 			value = "Create new map"/>
+				<translation id = "create_map" 		value = "Create map"/>
+			</namespace>
+			
+			<namespace id ="load_map">
+				<translation id = "title" 			value = "Load map"/>
+			</namespace>
+		</namespace>
+		
+		<namespace id = "set_keys">
+			<translation id = "scroll_camera_forward" 			value = "Scroll camera forward"/>
+			<translation id = "scroll_camera_backward" 			value = "Scroll camera backward"/>
+			<translation id = "scroll_camera_left" 				value = "Scroll camera left"/>
+			<translation id = "scroll_camera_right" 			value = "Scroll camera right"/>
+			<translation id = "rotate_camera_left" 				value = "Rotate camera left"/>
+			<translation id = "rotate_camera_right" 			value = "Rotate camera right"/>
+			<translation id = "tilt_camera_forward" 			value = "Tilt camera forward"/>
+			<translation id = "tilt_camera_backward" 			value = "Tilt camera backward"/>
+			<translation id = "zoom_in_on_headquarter" 			value = "Zoom in on headquarter"/>
+			<translation id = "zoom_in_camera" 					value = "Zoom in camera"/>
+			<translation id = "zoom_out_camera" 				value = "Zoom out camera"/>
+			<translation id = "open_radial_menu" 				value = "Open radial menu"/>
+			<translation id = "toggle_map_view" 				value = "Toggle map view"/>
+			<translation id = "increase_game_speed" 			value = "Increase game speed"/>
+			<translation id = "decrease_game_speed" 			value = "Decrease game speed"/>
+			<translation id = "editor_switch_owner" 			value = "Editor switch owner"/>
+			<translation id = "editor_change_creature_level" 	value = "Editor change creature level"/>
+		</namespace>
+		
+		<namespace id ="sound">
+			<translation id = "soundfx_enabled" 			value = "SoundFX"/>
+			<translation id = "soundfx_volume" 				value = "SoundFX volume"/>
+			<translation id = "soundfx_volume_unit" 		value = "%"/>
+			<translation id = "music_enabled" 				value = "Music"/>
+			<translation id = "music_volume" 				value = "Music volume"/>
+			<translation id = "music_volume_unit" 			value = "%"/>
+			<translation id = "dark_mother_enabled" 		value = "Dark Mother voice"/>
+			<translation id = "dark_mother_volume" 			value = "Dark Mother voice volume"/>
+			<translation id = "dark_mother_volume_unit" 	value = "%"/>
+		</namespace>
+
+		<namespace id ="graphics">
+			<translation id = "shadows_environment_enabled" value = "Environment shadows"/>
+			<translation id = "shadows_creature_enabled" 	value = "Creature shadows"/>
+			<translation id = "viewing_distance" 			value = "Viewing distance"/>
+			<translation id = "viewing_distance_unit" 		value = "blocks"/>
+			<translation id = "fps_limit" 					value = "FPS limit"/>
+			<translation id = "fps_limit_unfocused" 		value = "FPS limit when game is not in focus"/>
+			<translation id = "brightness" 					value = "Brightness"/>
+			<translation id = "brightness_unit" 			value = "%"/>
+			<translation id = "particles" 					value = "Particles"/>
+			<translation id = "particles_unit" 				value = "%"/>
+		</namespace>
+
+		<namespace id ="set_keys">
+			<translation id = "key_already_assigned" 				value = "Key has already been assigned"/>
+		</namespace>	
+		
+		<namespace id ="achievements">
+			<translation id = "title" 								value = "Achievements"/>
+			<translation id = "new_achievement_unlocked" 			value = "Achievement unlocked"/>
+			<translation id = "difficulty_easy" 					value = "Difficulty: Easy"/>
+			<translation id = "difficulty_medium" 					value = "Difficulty: Medium"/>
+			<translation id = "difficulty_hard" 					value = "Difficulty: Hard"/>
+			<translation id = "lock_all_achievements" 				value = "Lock all achievements"/>
+			<translation id = "lock_all_achievements_confirm" 		value = "Yes, lock all achievements!"/>
+		</namespace>
+		
+		<namespace id = "options">
+			<translation id = "headline" 							value = "Options"/>
+			<translation id = "graphics" 							value = "Graphics"/>
+			<translation id = "sounds" 								value = "Sounds"/>
+			<translation id = "controls" 							value = "Controls"/>
+			<translation id = "misc" 								value = "Misc"/>
+			<translation id = "set_keys" 							value = "Set keys"/>
+			<translation id = "reset_keys"	 						value = "Reset keys"/>
+			<translation id = "enter_key" 							value = "Enter a key"/>
+			<translation id = "map_scroll_speed" 					value = "Keyboard map scrolling speed"/>
+			<translation id = "keyboard_map_rotation_speed" 		value = "Keyboard map rotation speed"/>
+			<translation id = "keyboard_rotation_hand_axis" 		value = "Keyboard rotation around hand axis"/>
+			<translation id = "mouse_rotation_hand_axis" 			value = "Mouse rotation around hand axis"/>
+			<translation id = "invert_mouse_x" 						value = "Invert mouse look X-axis"/>
+			<translation id = "invert_mouse_y" 						value = "Invert mouse look Y-axis"/>
+			<translation id = "screen_edge_map_scroll" 				value = "Screen-edge map scrolling"/>
+			<translation id = "screen_edge_map_scroll_speed" 		value = "Screen-edge map scrolling speed"/>
+			<translation id = "lock_camera_rotation" 				value = "Lock camera rotation"/>
+			<translation id = "possession_turn_sensitivity" 		value = "Possession turning sensitivity"/>
+			<translation id = "possession_invert_mouse_x" 			value = "Possession invert mouse X-axis"/>
+		</namespace>
+		
+		
+		<namespace id ="misc">
+			<translation id = "enable_cursor_clipping" 				value = "Enable cursor clipping (only available in windowed mode)"/>
+			<translation id = "enter_menu_when_game_not_in_focus" 	value = "Enter menu when game is not in focus"/>
+			<translation id = "show_full_creature_health_bars" 		value = "Show full creature health bars"/>
+		</namespace>
+	</namespace>
+	  
+	<namespace id = "info_bar">
+		<namespace id = "creature">
+			<translation id = "enemy" 						value = "This is an enemy creature, details are unknown."/>
+			<translation id = "health" 						value = "Health"/>
+			<translation id = "job" 						value = "Job"/>
+			<translation id = "efficency" 					value = "Efficency"/>
+			<translation id = "mood" 						value = "Mood"/>
+			<translation id = "mood_angry" 					value = "Is angry"/>
+			<translation id = "mood_unhappy" 				value = "Is annoyed"/>
+			<translation id = "mood_happy" 					value = "Is happy"/>
+			<translation id = "mood_super_happy" 			value = "Is super happy"/>
+			<translation id = "mood_unconscious" 			value = "Is unconscious"/>
+			<translation id = "mood_dead" 					value = "Is dead"/>
+			<translation id = "mood_explain_sleepy" 		value = "Your creature is sleepy, make sure you have enough beds available."/>
+			<translation id = "mood_explain_hungry" 		value = "Your creature is hungry, make sure you have enough food at the bar."/>
+			<translation id = "mood_explain_thirsty" 		value = "Your creature is thirsy, make sure you have enough beer at the bar."/>
+			<translation id = "mood_explain_unconscious" 	value = "Make sure there is an empty bed available for him to be transported too and regain his consciousness."/>
+			<translation id = "mood_explain_dead" 			value = "This creature is dead!"/>
+		 </namespace>
+		 
+		 <namespace id = "building">
+			<translation id = "enemy" 						value = "This is an enemy building, details are unknown."/>
+		 </namespace>
+		 
+		 <namespace id = "job">
+			<namespace id = "build">
+				<translation id = "name" 			value = "Building site"/>
+				<translation id = "building" 		value = "Building"/>
+				<translation id = "items_delivered" value = "Items delivered"/>
+			</namespace>
+			
+			<translation id = "repairing" 			value = "Repairing"/>
+			<translation id = "guarding" 			value = "Guarding"/>
+			
+			<namespace id = "drop_fluid">
+				<translation id = "name_water" 		value = "Deliver water block"/>
+				<translation id = "name_lava" 		value = "Deliver lava block"/>
+			</namespace>
+			
+			<namespace id = "fetch_fluid">
+				<translation id = "name_water" 		value = "Fetching water block"/>
+				<translation id = "name_lava" 		value = "Fetching lava block"/>
+			</namespace>
+
+			<namespace id = "deliver_fluid">
+				<translation id = "name_water" 		value = "Delivering water block"/>
+				<translation id = "name_lava" 		value = "Delivering lava block"/>
+			</namespace>
+			
+			<translation id = "walk_to_portal" 		value = "Walking towards portal"/>
+			<translation id = "barbecuing" 			value = "Barbecuing"/>
+			<translation id = "fishing" 			value = "Fishing"/>
+			<translation id = "going_to_bed" 		value = "Going to bed"/>
+			<translation id = "baking" 				value = "Baking"/>
+			<translation id = "brewing" 			value = "Brewing"/>
+			<translation id = "farming" 			value = "Farming"/>
+			<translation id = "grinding" 			value = "Grinding"/>
+			<translation id = "feeding" 			value = "Feeding"/>
+			<translation id = "fetching_water" 		value = "Fetching water"/>
+			<translation id = "crafting" 			value = "Crafting"/>
+			<translation id = "fleeing" 			value = "Fleeing"/>
+			<translation id = "engage_battle" 		value = "Engaging in battle"/>
+			<translation id = "extracting" 			value = "Extracting"/>
+			<translation id = "fetching_trade_cart" value = "Fetching trading cart"/>
+			<translation id = "preparing_trade" 	value = "Preparing trade"/>
+			<translation id = "building" 			value = "Building"/>
+			<translation id = "resting" 			value = "Resting"/>
+			<translation id = "eating_and_drinking" value = "Eating and drinking"/>
+			<translation id = "training" 			value = "Training"/>
+			<translation id = "transporting_cart" 	value = "Transporting cart"/>
+			<translation id = "returning_to_room" 	value = "Returning to room"/>
+			<translation id = "reinforcing_walls" 	value = "Reinforcing walls"/>
+			<translation id = "idle" 				value = "Idle"/>
+			<translation id = "expanding_territory" value = "Expanding territory"/>
+			<translation id = "fetching_item" 		value = "Fetching Item"/>
+			<translation id = "digging" 			value = "Digging"/>
+			<translation id = "imprison_enemies" 	value = "Imprison enemies"/>
+			<translation id = "bury_enemies" 		value = "Bury enemies"/>
+			<translation id = "open_chest" 			value = "Open chest"/>
+			<translation id = "sewing" 				value = "Sewing"/>
+			<translation id = "set_bait" 			value = "Setting bait"/>
+			<translation id = "rally_flag" 			value = "Rally Flag"/>
+		 </namespace>
+		 
+		 <namespace id ="fluid">
+			<translation id = "explain" 			value = "You can either fetch the fluid or build a bridge over it."/>
+			<translation id = "fetch_not_possible" 	value = "You can't fetch fluid here."/>
+			<translation id = "fetch_possible" 		value = "Click on the fluid to order your imps to fetch it."/>
+		 </namespace>
+		 
+		 <namespace id ="minerals">
+			<translation id = "contains" 			value = "Containing minerals"/>
+			<translation id = "explain" 			value = "Either build a mine or dig in this area to get the minerals."/>
+		 </namespace>	
+		 
+		 <namespace id ="trade">	
+			<translation id = "preparing" 			value = "Preparing trade: "/>
+			<translation id = "in_progress" 		value = "Trade in progress: "/>
+		 </namespace>
+	</namespace>  
+	
+	<namespace id = "radial_menu">
+		<translation id = "build" 							value = "Builds a %s1"/>
+		<translation id = "reinforce_walls_headline" 		value = "Reinforce walls"/>
+		<translation id = "reinforce_walls" 				value = "Reinforce your walls to make it harder for enemies to dig through them."/>
+		<translation id = "rotate_headline" 				value = "Rotate"/>
+		<translation id = "rotate" 							value = "Rotates a building."/>
+		<translation id = "sell_headline" 					value = "Sell"/>
+		<translation id = "sell" 							value = "Sells a building. You will only get a part of the building materials back."/>
+		<translation id = "wall_constructions_headline" 	value = "Wall constructions"/>
+		<translation id = "wall_constructions" 				value = "Opens a menu with wall constructions to build."/>
+		<translation id = "floor_constructions_headline" 	value = "Floor constructions"/>
+		<translation id = "floor_constructions" 			value = "Opens a menu with floor constructions to build."/>
+		<translation id = "nature_objects_headline" 		value = "Nature objects"/>
+		<translation id = "nature_objects" 					value = "Opens a menu with nature objects to build."/>
+		<translation id = "add_minerals_headline" 			value = "Adds minerals"/>
+		<translation id = "add_minerals" 					value = "Opens a menu with minerals to add."/>
+		<translation id = "remove_minerals_headline" 		value = "Removes minerals"/>
+		<translation id = "remove_minerals" 				value = "Opens a menu with minerals to remove."/>
+		<translation id = "add_creature_headline" 			value = "Adds creatures"/>
+		<translation id = "add_creature" 					value = "Opens a menu with creatures to add."/>
+		<translation id = "remove_creature_headline" 		value = "Remove creature"/>
+		<translation id = "remove_creature" 				value = "Removes a creature."/>
+		<translation id = "room_flag_headline" 				value = "Room flag"/>
+		<translation id = "room_flag" 						value = "Set the room's dropping point."/>
+		<translation id = "link_rooms_headline" 			value = "Link rooms"/>
+		<translation id = "link_rooms" 						value = "Link or unlink rooms to alter their delivery paths."/>
+		<translation id = "activate_headline" 				value = "Toggle activation"/>
+		<translation id = "activate" 						value = "Manually activates or deactivates a building."/>
+
+		<namespace id = "rooms">
+			<translation id = "rooms_headline" 				value = "Build rooms menu"/>
+			<translation id = "rooms" 						value = "Opens a menu with rooms to build."/>
+			<translation id = "bar_room_headline" 			value = "Bar room menu"/>
+			<translation id = "bar_room" 					value = "Opens a menu with bar room buildings."/>
+			<translation id = "bed_room_headline" 			value = "Bed room menu"/>
+			<translation id = "bed_room" 					value = "Opens a menu with bed room buildings."/>
+			<translation id = "cookery_room_headline" 		value = "Cookery room menu"/>
+			<translation id = "cookery_room" 				value = "Opens a menu with cookery room buildings."/>
+			<translation id = "catacombs_room_headline" 	value = "Catacombs room menu"/>
+			<translation id = "catacombs_room" 				value = "Opens a menu with catacombs room buildings."/>
+			<translation id = "farm_room_headline" 			value = "Farm room menu"/>
+			<translation id = "farm_room" 					value = "Opens a menu with farm room buildings."/>
+			<translation id = "metalworks_room_headline" 	value = "Metalworks room menu"/>
+			<translation id = "metalworks_room" 			value = "Opens a menu with metalworks room buildings."/>
+			<translation id = "prison_room_headline" 		value = "Prison room menu"/>
+			<translation id = "prison_room" 				value = "Opens a menu with prison room buildings."/>
+			<translation id = "storage_room_headline" 		value = "Storage room menu"/>
+			<translation id = "storage_room" 				value = "Opens a menu with storage room buildings."/>
+			<translation id = "training_room_headline" 		value = "Training room menu"/>
+			<translation id = "training_room" 				value = "Opens a menu with training room buildings."/>
+			<translation id = "trading_room_headline" 		value = "Trading room menu"/>
+			<translation id = "trading_room" 				value = "Opens a menu with trading room buildings."/>
+		</namespace>
+		
+		<namespace id = "spells">
+			<translation id = "spells_headline" 	value = "Spells menu"/>
+			<translation id = "spells" 				value = "Opens a menu with spells to cast."/>
+			<translation id = "possess_headline" 	value = "Possess"/>
+			<translation id = "possess" 			value = "Possess a creature and make him do your bidings."/>
+			<translation id = "reveal_headline" 	value = "Reveal"/>
+			<translation id = "reveal" 				value = "Reveals a hidden area of land to you."/>
+		</namespace>
+		
+		<namespace id = "fluid">
+			<translation id = "fluid_headline" 			value = "Fluids menu"/>
+			<translation id = "fluid" 					value = "Opens a menu with actions to do with fluids."/>
+			<translation id = "drop_water_headline" 	value = "Drop water"/>
+			<translation id = "drop_water" 				value = "Order your imps to drop a water block on a tile."/>
+			<translation id = "drop_lava_headline" 		value = "Drop lava"/>
+			<translation id = "drop_lava" 				value = "Order your imps to drop a lava block on a tile."/>
+			<translation id = "fetch_fluid_headline" 	value = "Fetch fluids"/>
+			<translation id = "fetch_fluid" 			value = "Fetch a water or lava block for future storage."/>
+		</namespace>
+		
+		<namespace id = "road">
+			<translation id = "build_headline" 		value = "Build road"/>
+			<translation id = "build" 				value = "Build a road to connect your rooms and decrease your creatures travel time."/>
+			<translation id = "upgrade_headline" 	value = "Upgrade road"/>
+			<translation id = "upgrade" 			value = "Upgrade a road to decrease your creatures travel time."/>
+		</namespace>
+		
+		<namespace id = "menu">
+			<translation id = "creature_headline" 	value = "Creature details"/>
+			<translation id = "creature" 			value = "Show details about the selected creature."/>
+			<translation id = "room_headline" 		value = "Room details"/>
+			<translation id = "room" 				value = "Show details about the selected room."/>
+		</namespace>		
+		
+		<namespace id = "hydraulics">
+			<translation id = "hydraulics_headline" value = "Hydraulics"/>
+			<translation id = "hydraulics" 			value = "Opens a menu with hydraulics to build."/>
+			<translation id = "switches_headline" 	value = "Hydraulics switches"/>
+			<translation id = "switches" 			value = "Opens a menu with hydraulic switches to build."/>
+			<translation id = "traps_headline" 		value = "Hydraulics traps"/>
+			<translation id = "traps" 				value = "Opens a menu with hydraulic traps to build."/>
+		</namespace>
+		
+		<namespace id = "editor">
+			<translation id = "creating_player_owned_objects" 	value = "Owner of created objects (%s1): Player"/>
+			<translation id = "creating_enemy_owned_objects" 	value = "Owner of created objects (%s1): Enemy"/>
+			<translation id = "creating_creature_level" 		value = "Creating creatures with level (%s1): %s2"/>
+			<translation id = "selector_location" 				value = "Selector location: %s1;%s2;%s3"/>
+		</namespace>
+	</namespace>
+
+	<namespace id = "top_bar">
+		<namespace id = "categories">
+			<translation id = "basic_items" 								value = "Basic items"/>
+			<translation id = "basic_items_description" 					value = "Lists items that can be found naturally in the dungeon and don't need to be crafted in a production chain."/>
+			<translation id = "advanced_items" 								value = "Advanced items"/>
+			<translation id = "advanced_items_description" 					value = "Lists items that can only be produced by combining other items in a production chain."/>
+			<translation id = "consumable_items" 							value = "Consumables"/>
+			<translation id = "consumable_items_description" 				value = "Lists items that can be consumed by creatures."/>
+			<translation id = "weapon_items" 								value = "Weapons"/>
+			<translation id = "weapon_items_description" 					value = "Lists equipable weapons and other items that can be crafted and used for inflicting damage on enemies."/>
+			<translation id = "armor_items" 								value = "Armors"/>
+			<translation id = "armor_items_description" 					value = "Lists equipable armors and other items that can be crafted and used for defending against enemy attacks."/>
+			<translation id = "trading" 									value = "Trades"/>
+			<translation id = "trading_description" 						value = "Lists available trades that can be made in exchange of gold."/>
+			<translation id = "room_buildings" 								value = "Rooms"/>
+			<translation id = "room_buildings_description" 					value = "Lists owned rooms."/>
+			<translation id = "floor_construction_buildings" 				value = "Floor constructions"/>
+			<translation id = "floor_construction_buildings_description" 	value = "Lists owned floor constructions."/>
+			<translation id = "wall_construction_buildings" 				value = "Wall constructions"/>
+			<translation id = "wall_construction_buildings_description" 	value = "Lists owned wall constructions."/>
+			<translation id = "hydraulics_buildings" 						value = "Hydraulics"/>
+			<translation id = "hydraulics_buildings_description" 			value = "Lists owned hydraulics."/>
+			<translation id = "fluid_buildings" 							value = "Fluid related buildings"/>
+			<translation id = "fluid_buildings_description" 				value = "Lists building that can be built on different types of fluids."/>
+		</namespace>
+		
+		<namespace id = "items">
+			<translation id = "left_click_to_zoom_in" 		value = "(Left-click to zoom in)"/>
+			<translation id = "crafting_change_amount" 		value = "(Click the +/- buttons to craft)"/>
+			<translation id = "trading_headline" 			value = "Trading %s1"/>
+			<translation id = "trading_description" 		value = "Trading will take place between trading rooms and claimed portals. The more portals owned the more trading options will be available."/>
+			<translation id = "trading_explain_buy_sell" 	value = "Click the (+/-) button to set the trading condition."/>
+			<translation id = "trading_explain_zoom_in" 	value = "Left-click to zoom in on active trades."/>
+			<translation id = "trading_locked_headline" 	value = "Trade locked"/>
+			<translation id = "trading_locked_description" 	value = "This trade is locked! Unlock trades by claiming portals to the surface world."/>
+			<translation id = "trading_condition_headline" 	value = "Current trading condition"/>
+			<translation id = "trading_condition_sell" 		value = "If more than %s2 units of %s1 are stored then start selling %s1 for gold."/>
+			<translation id = "trading_condition_buy" 		value = "If less than %s2 units of %s1 are stored then start buying %s1 for gold."/>
+			<translation id = "trading_condition_none" 		value = "No trading condition have been set for %s1."/>		
+			<translation id = "trading_current_buy_if" 		value = "Buy if less than %s1"/>
+			<translation id = "trading_current_sell_if" 	value = "Sell if more or equal than %s1"/>
+			<translation id = "trading_current_no_if" 		value = "No trade"/>
+		</namespace>
+	</namespace>
+	
+	<namespace id = "achievements">
+		<translation id = "first_cyclotaur" 				value = "First cyclotaur"/>
+		<translation id = "first_cyclotaur_description" 	value = "Create a cyclotaur creature."/>
+
+		<translation id = "conquer_all_portals"				value = "Conquer all portals"/>
+		<translation id = "conquer_all_portals_description" value = "Conquer all the human spawning portals in the dungeon."/>
+
+		<translation id = "catch_first_fish" 				value = "Catch first fish"/>
+		<translation id = "catch_first_fish_description" 	value = "Catch a fish by building a bridge out to a school of fish."/>
+
+		<translation id = "build_all_rooms" 				value = "Build all rooms"/>
+		<translation id = "build_all_rooms_description" 	value = "Unlock and build all rooms types."/>
+
+		<translation id = "first_trade" 					value = "First trade"/>
+		<translation id = "first_trade_description" 		value = "Make a trade with other collonizations."/>
+
+		<translation id = "imp_army" 						value = "Imp army"/>
+		<translation id = "imp_army_description" 			value = "Own 50 or more imp creatures."/>
+		
+		<namespace id = "learn_creature_skills">
+			<translation id = "barrel_roll" 				value = "Learn barrel roll"/>
+			<translation id = "barrel_roll_description" 	value = "Level up an impanzee to learn the creature skill barrel roll."/>
+			
+			<translation id = "bull_rush" 					value = "Learn bull rush"/>
+			<translation id = "bull_rush_description" 		value = "Level up an cyclotaur to learn the creature skill bull rush."/>
+			
+			<translation id = "butchering" 					value = "Learn butchering"/>
+			<translation id = "butchering_description" 		value = "Level up an piggeh to learn the creature skill butchering."/>
+			
+			<translation id = "frog_tongue" 				value = "Learn frog tongue"/>
+			<translation id = "frog_tongue_description" 	value = "Level up an fishman to learn the creature skill frog tongue."/>
+			
+			<translation id = "hurricane" 					value = "Learn hurricane"/>
+			<translation id = "hurricane_description" 		value = "Level up an knight to learn the creature skill hurricane."/>
+	
+			<translation id = "skill_steal" 				value = "Learn steal"/>
+			<translation id = "skill_steal_description" 	value = "Level up an rogue to learn the creature skill steal."/>
+	
+			<translation id = "stunning_block" 				value = "Learn stunning block"/>
+			<translation id = "stunning_block_description" 	value = "Level up an orc to learn the creature skill stunning block."/>
+	
+			<translation id = "teleport" 					value = "Learn teleport"/>
+			<translation id = "teleport_description" 		value = "Level up an imp to learn the creature skill teleport."/>
+		</namespace>
+	</namespace>
+	
+	<namespace id = "rally_flag">
+		<translation id = "set_squads" 				value = "You can edit the squads from the creature menu."/>
+		<translation id = "remove" 					value = "Click to remove the flag from the dungeon."/>
+		<translation id = "headline_rally_flag" 	value = "Rally flag."/>
+		<translation id = "tooltip_rally_flag" 		value = "Pressing '%d' or left clicking on this icon will give you the option to put down a rally flag in the dungeon that all battle ready creatures will go to. This is the least prioritized flag."/>
+		<translation id = "headline_squad_flag" 	value = "Squad flag."/>
+		<translation id = "tooltip_squad_flag" 		value = "Pressing '%d' or left clicking on this icon will give you the option to put down a squad flag in the dungeon. Any creature that are bound to this squad will prioritize this flag before any other."/>
+		<translation id = "headline_creature_flag" 	value = "Creature flag."/>
+		<translation id = "tooltip_creature_flag" 	value = "Left clicking on this icon will give you the option to put down a creature flag in the dungeon that any creature of this type will go to. This flag is more prioritized than the rally flag but less than the squad flag."/>
+	</namespace>
+  
+	<namespace id = "creature_equipment">
+		<translation id = "right_hand" 				value = "Right hand"/>
+		<translation id = "left_hand" 				value = "Left hand"/>
+		<translation id = "helmet" 					value = "Helmet"/>
+		<translation id = "body_armor" 				value = "Body armor"/>
+		<translation id = "pants" 					value = "Pants"/>
+		<translation id = "shoes" 					value = "Shoes"/>
+		<translation id = "shield" 					value = "Shield"/>
+		
+		<translation id = "one_hand_weapon" value = "One handed weapon"/>
+		<translation id = "two_hand_weapon" value = "Two handed weapon"/>
+		
+		<translation id = "cant_equip" 				value = "Can't equip"/>
+		<translation id = "left_hand_equip" 		value = "Equip left hand"/>
+		<translation id = "head_equip" 				value = "Equip head"/>
+		<translation id = "body_equip" 				value = "Equip body"/>
+		<translation id = "legs_equip" 				value = "Equip legs"/>
+		<translation id = "feet_equip" 				value = "Equip feet"/>
+		<translation id = "right_hand_equip" 		value = "Equip right hand"/>
+	</namespace>
+
+	<namespace id = "menu_production">
+		<namespace id = "options">
+			<namespace id = "reinforce_walls">
+				<translation id = "title" 			value = "Reinforce walls"/>
+				<translation id = "disabled" 		value = "Disabled"/>
+				<translation id = "rooms" 			value = "Next to rooms"/>
+				<translation id = "roads_and_rooms" value = "Next to roads and rooms"/>
+				<translation id = "all" 			value = "Next to all player owned territory"/>
+			</namespace>
+			
+			<namespace id = "expand_territory">
+				<translation id = "title" 			value = "Expand territory"/>
+				<translation id = "num_blocks" 		value = "block(s)"/>
+				<translation id = "disabled" 		value = "Disabled"/>
+			</namespace>
+		</namespace>
+		
+		<namespace id = "crafting">
+			<translation id = "click_to_add_or_remove" 		value = "Click below to add or remove crafting orders."/>
+			<translation id = "missing_forge_and_anvil"		value = "Not craftable without the 'Forge and Anvil'!"/>
+			<translation id = "missing_sewing_machine" 		value = "Not craftable without the 'Sewingmachine'!"/>
+		</namespace>
+		
+		<translation id = "items_quick_choice_info" 		value = "(Click the upper bar to switch quick-item)"/>
+		<translation id = "items_graph_history" 			value = "History"/>
+	</namespace>
+	
+	
+	<namespace id = "creature">
+		<namespace id = "skills">
+			<translation id = "required_level" 			value = "Req. level: "/>
+		</namespace>
+		
+		<namespace id = "menu_stats">
+			<namespace id = "race">
+				<translation id = "headline" 			value = "Race"/>
+				<translation id = "desc" 				value = "Shows what race this creature belongs to."/>
+				<translation id = "value" 				value = "Race: %s1"/>
+			</namespace>	
+				
+			<namespace id = "level">	
+				<translation id = "headline" 			value = "Level"/>
+				<translation id = "desc" 				value = "Shows the level of this creature and how much experience is needed before the creature reaches the next level."/>
+				<translation id = "value" 				value = "Level: %s1"/>
+				<translation id = "experience" 			value = "Experience: %s1"/>
+			</namespace>	
+				
+			<namespace id = "efficiency">	
+				<translation id = "headline" 			value = "Efficency"/>
+				<translation id = "desc" 				value = "Shows the efficency this creature currently have. A low efficency will lower the creature's damage, defense and resistance. The efficency is affected by if the creature's needs get saticfied."/>
+				<translation id = "value" 				value = "Efficency: %s1"/>
+			</namespace>
+			
+			<namespace id = "damage">
+				<translation id = "headline" 			value = "Damage per second"/>
+				<translation id = "desc" 				value = "Show the damage this creature can do per second. The value shown is the attackspeed multiplied with the damage."/>
+				<translation id = "value" 				value = "Damage: %s1"/>
+				<translation id = "attacks_per_second"  value = "Attacks per second"/>
+			</namespace>
+			
+			<namespace id = "defense">
+				<translation id = "headline" 			value = "Defense"/>
+				<translation id = "desc" 				value = "Shows the defense this creature currently have. A high defense will help the creature withstand physical attacks."/>
+				<translation id = "value" 				value = "Defense: %s1"/>
+			</namespace>
+			
+			<namespace id = "resistance">
+				<translation id = "headline" 			value = "Resistance"/>
+				<translation id = "desc" 				value = "Shows the resistance this creature currently have. A high resistance will help the creature withstand elemental attacks."/>
+				<translation id = "value" 				value = "Resistance: %s1"/>
+			</namespace>
+			
+			<namespace id = "health">
+				<translation id = "headline" 			value = "Health"/>
+				<translation id = "desc" 				value = "Shows the health this creature currently have. If the health goes down to zero the creature will die."/>
+				<translation id = "value" 				value = "Health: %s1"/>
+			</namespace>
+			
+			<namespace id = "rest">
+				<translation id = "headline" 			value = "Rest"/>
+				<translation id = "desc" 				value = "Shows how well rested this creature currently is. If rest value gets too low it will affect the creature's efficency and finally make the creature turn against you."/>
+				<translation id = "value" 				value = "Rest: %s1"/>
+			</namespace>
+			
+			<namespace id = "food">
+				<translation id = "headline" 			value = "Food"/>
+				<translation id = "desc" 				value = "Shows how full the creature is. If the creature gets too hungery it will affect the creature's efficency and finally make the creature turn against you. Giving the creature its favourite food will increase the creature's efficency."/>
+				<translation id = "favorite_none" 		value = "This creature don't have any favourite food."/>
+				<translation id = "favorite" 			value = "Favourite food"/>
+				<translation id = "value" 				value = "Food: %s1"/>
+			</namespace>
+			
+			<namespace id = "drink">
+				<translation id = "headline" 			value = "Drink"/>
+				<translation id = "desc" 				value = "Shows how drunk this creature currently is. If the creature starts sobering up it will affect the creature's efficency and finally make the creature turn against you."/>
+				<translation id = "value" 				value = "Drink: %s1"/>
+			</namespace>
+			
+			<namespace id = "doing">
+				<translation id = "headline" 			value = "Doing"/>
+				<translation id = "desc" 				value = "Shows what the creature currently is doing."/>
+				<translation id = "value" 				value = "Doing: %s1"/>
+			</namespace>
+		</namespace>
+	</namespace>
+
+	<namespace id = "evil_meter">
+		<translation id = "headline" 				value = "Evilmeter"/>
+		<translation id = "desc" 					value = "Destroying human buildings on the surface world will feed the evil meter."/>
+		<translation id = "human_aggression" 		value = "Human aggression: "/>
+		<translation id = "experience_multiplier" 	value = "Experience multiplier: "/>
+		<translation id = "next_wave_endless_flow" 	value = "Time left until wave (%d):"/>
+		<translation id = "next_wave_limited_flow" 	value = "Time left until wave (%d / %d):"/>
+	</namespace>
+	
+	<namespace id = "skills">
+		<translation id = "passive_skill_desc" 		value = "Passive skill"/>
+		<translation id = "active_skill_desc" 		value = "Active skill"/>
+		<translation id = "cooldown_time_desc" 		value = "Cooldown: %.2f sec"/>
+	</namespace>
+
+	<namespace id = "menuTab">
+		<namespace id = "items">
+			<translation id = "headline" 	value = "Items"/>
+			<translation id = "crafting" 	value = "Crafting"/>
+			<translation id = "options" 	value = "Options"/>
+		</namespace>
+
+		<namespace id = "skills"> 
+			<translation id = "headline" 	value = "Skills"/>
+			<translation id = "passive" 	value = "Passive skills"/>
+			<translation id = "active" 		value = "Active skills"/> 
+		</namespace>
+		
+		<translation id = "character" 		value = "Char"/>
+		<translation id = "task_order" 		value = "Tasks"/>
+		<translation id = "squads" 			value = "Squads"/>
+		<translation id = "history" 		value = "Hist"/>
+		<translation id = "equipment" 		value = "Inv"/>
+		<translation id = "auto_equip" 		value = "Equip"/>
+	</namespace>
+	
+	<namespace id = "messages">
+		<namespace id = "demo">
+			<translation id = "message_1" 						value = "Your demo time is out!"/>
+			<translation id = "message_2" 						value = "I hope you liked playing Dwelvers."/>
+			<translation id = "message_3" 						value = "If you want to support the development of this game and"/>
+			<translation id = "message_4" 						value = "be able to play the full version you can visit www.dwelvers.com"/>
+			<translation id = "message_5" 						value = "and become a pre-orderer."/>
+			<translation id = "message_6" 						value = "Dwelvers is a game that is being continuous updated, by pre-ordering the game you receive all"/>
+			<translation id = "message_7" 						value = "future updates and help us reach our goal to make Dwelvers the game it deserves to be!"/>
+			<translation id = "demo_timer" 						value = "Demo game time remaining"/>
+		</namespace>
+		
+		<namespace id = "game">
+			<translation id = "speed_increased" 				value = "Gamespeed increased"/>
+			<translation id = "speed_decreased" 				value = "Gamespeed decreased"/>
+			<translation id = "mission_complete" 				value = "Mission completed..."/>
+			<translation id = "mission_failed" 					value = "Mission failed..."/>
+			<translation id = "defeat_enemies" 					value = "Your have defeated your enemies!"/>
+			<translation id = "dark_mother_killed" 				value = "Your Dark Mother was killed!"/>
+			<translation id = "creation_boost_increased" 		value = "Creature creation boost timer increased."/>
+			<translation id = "reach_level" 					value = "has reached level"/>
+			<translation id = "screenshot_saved" 				value = "Screenshot saved to:"/>
+			<translation id = "room_doesnt_need_workers" 		value = "This room does not need workers."/>
+			<translation id = "nonplayable_preview_surface" 	value = "This is a non-playable preview of the upcomming surface world!"/>
+			<translation id = "new_item_available" 				value = "A new item has become available for production"/>
+			<translation id = "area_unexplored" 				value = "This area is unexplored, details are unknown."/>
+			<translation id = "click_to_feed_dark_mother" 		value = "Click on creature to feed to the Dark Mother:"/>
+			<translation id = "click_swap_quickicon" 			value = "Click on quickicon to make a swap."/>
+			<translation id = "trigger_cave-in" 				value = "A cave-in was triggered"/>
+		</namespace>	
+	</namespace>	
+
+		
+	<namespace id = "credits">	
+		<translation id = "lead_programmer_and_game_designer" 	value = "Lead programmer and game designer"/>
+		<translation id = "presents" 							value = "Presents"/>
+		<translation id = "co-executive_producers" 				value = "Co-Executive Producers"/>
+		<translation id = "game_and_graphics_designer" 			value = "Game and graphics designer"/>
+		<translation id = "creatures_3D_artist" 				value = "Creatures 3D artist"/>
+		<translation id = "music" 								value = "Music"/>
+		<translation id = "contributor" 						value = "Contributors"/>
+		<translation id = "special_thanks" 						value = "Special thanks"/>
+		<translation id = "lead_voice_actor" 					value = "Lead voice actor"/>
+	</namespace>	
+		
+	<namespace id = "ui">	
+		<translation id = "storage" 							value = "Storage"/>
+		<translation id = "production" 							value = "Production"/>
+		<translation id = "feeding_queue" 						value = "Feeding queue:"/>
+		<translation id = "item_prio" 							value = "Prio"/>
+		<translation id = "auto" 								value = "Auto"/>
+		<translation id = "manual" 								value = "Manual"/>
+		<translation id = "cost" 								value = "Cost"/>
+		<translation id = "true" 								value = "True"/>
+		<translation id = "false" 								value = "False"/>
+		<translation id = "objectives" 							value = "Objectives"/>
+		<translation id = "battles" 							value = "Battles"/>
+		<translation id = "productions" 						value = "Productions"/>
+		<translation id = "damage" 								value = "Damage: %s1"/>
+		<translation id = "attacks_per_second" 					value = "Attacks per second: %s1"/>
+		<translation id = "defense" 							value = "Defense: %s1"/>
+		<translation id = "resistance" 							value = "Resistance: %1"/>
+		<translation id = "health" 								value = "Health: %1"/>
+		<translation id = "timeShort-m-" 						value = "m"/>
+		<translation id = "time" 								value = "Time"/>
+		<translation id = "creatures" 							value = "Creatures"/>
+		<translation id = "items" 								value = "Items"/>
+		<translation id = "substitutes" 						value = "Substitutes"/>
+		<translation id = "workers" 							value = "Workers"/>
+		<translation id = "available" 							value = "Available"/>
+		<translation id = "miscellaneous" 						value = "Miscellaneous"/>
+		<translation id = "hydraulics" 							value = "Hydraulics"/>
+		<translation id = "consumable" 							value = "Consumable"/>
+		<translation id = "units" 								value = "units"/>
+		<translation id = "workload" 							value = "Workload:"/>
+		<translation id = "preparing" 							value = "(Preparing)"/>
+		<translation id = "in_progress" 						value = "(In progress)"/>
+		<translation id = "attracts" 							value = "Attracts"/>
+		<translation id = "creature_produced" 					value = "Creature produced:"/>
+		<translation id = "selector_location" 					value = "Selector location"/>
+		<translation id = "feed_enemies_to_dark_mother" 		value = "Feed enemies to the Dark Mother"/>
+		<translation id = "block_chance" 						value = "blockchance"/>
+		<translation id = "OK" 									value = "OK"/>
+	</namespace>	
+		
+	<namespace id = "loading">	
+		<translation id = "game_textures" 						value = "Loading game textures..."/>
+		<translation id = "sound_manager" 						value = "Loading sound manager..."/>
+		<translation id = "drawables" 							value = "Loading drawables..."/>
+		<translation id = "plain_models" 						value = "Loading plain models..."/>
+		<translation id = "lockhandler" 						value = "Loading lockhandler..."/>
+		<translation id = "deferred_models" 					value = "Loading deferred models..."/>
+		<translation id = "skinned_models" 						value = "Loading skinned models..."/>
+		<translation id = "particle_manager" 					value = "Loading particle manager..."/>
+		<translation id = "dungeon_noise" 						value = "Loading dungeon noise..."/>
+		<translation id = "game_title_texture" 					value = "Loading game tile texture..."/>
+		<translation id = "items" 								value = "Loading items..."/>
+		<translation id = "players" 							value = "Loading players..."/>
+		<translation id = "game_buildings" 						value = "Loading game buildings..."/>
+		<translation id = "static_rendering" 					value = "Loading game level static rendering..."/>
+		<translation id = "hydraulics" 							value = "Loading hydraulics..."/>
+		<translation id = "add-on_buildings" 					value = "Loading game add-on buildings..."/>
+		<translation id = "minerals" 							value = "Loading game minerals..."/>
+		<translation id = "fluids" 								value = "Loading game fluids..."/>
+		<translation id = "delivery_services" 					value = "Loading delivery services..."/>
+		<translation id = "projectiles" 						value = "Loading projectiles..."/>
+		<translation id = "jobs" 								value = "Loading jobs..."/>
+		<translation id = "creatures" 							value = "Loading game creatures..."/>
+		<translation id = "critters" 							value = "Loading game critters..."/>
+		<translation id = "creature_skills" 					value = "Loading creature skills..."/>
+		<translation id = "level_data" 							value = "Loading game level data..."/>
+		<translation id = "carts" 								value = "Loading game carts..."/>
+		<translation id = "rooms" 								value = "Loading game rooms data..."/>
+		<translation id = "flags" 								value = "Loading game level flags..."/>
+		<translation id = "atlas_textures" 						value = "Loading atlas textures..."/>
+		<translation id = "achievements" 						value = "Loading achievements..."/>
+		<translation id = "misc" 								value = "Loading misc..."/>
+		<translation id = "menu_system" 						value = "Loading menu system..."/>
+		<translation id = "creating_game" 						value = "Creating game..."/>
+		<translation id = "initializing" 						value = "Initializing..."/>
+		<translation id = "precalculate_font_data" 				value = "Precalculating font data (one time only!)"/>
+	</namespace>	
+		
+	<namespace id = "mouse">	
+		<translation id = "LEFT_MOUSE_BUTTON" 					value = "LEFT MOUSE BUTTON"/>
+		<translation id = "RIGHT_MOUSE_BUTTON" 					value = "RIGHT MOUSE BUTTON"/>
+		<translation id = "MIDDLE_MOUSE_BUTTON" 				value = "MIDDLE MOUSE BUTTON"/>
+	</namespace>	
+		
+	<namespace id = "keys">	
+		<translation id = "CONTROL_BREAK" 						value = "CONTROL-BREAK"/>
+		<translation id = "BACKSPACE" 							value = "BACKSPACE"/>
+		<translation id = "TAB" 								value = "TAB"/>
+		<translation id = "CLEAR" 								value = "CLEAR"/>
+		<translation id = "ENTER" 								value = "ENTER"/>
+		<translation id = "SHIFT" 								value = "SHIFT"/>
+		<translation id = "CTRL" 								value = "CTRL"/>
+		<translation id = "ALT" 								value = "ALT"/>
+		<translation id = "PAUSE" 								value = "PAUSE"/>
+		<translation id = "CAPS_LOCK" 							value = "CAPS LOCK"/>
+		<translation id = "ESC" 								value = "ESC"/>
+		<translation id = "SPACEBAR" 							value = "SPACEBAR"/>
+		<translation id = "PAGE_UP" 							value = "PAGE UP"/>
+		<translation id = "PAGE_DOWN" 							value = "PAGE DOWN"/>
+		<translation id = "END" 								value = "END"/>
+		<translation id = "HOME" 								value = "HOME"/>
+		<translation id = "LEFT_ARROW" 							value = "LEFT ARROW"/>
+		<translation id = "UP_ARROW" 							value = "UP ARROW"/>
+		<translation id = "RIGHT_ARROW" 						value = "RIGHT ARROW"/>
+		<translation id = "DOWN_ARROW" 							value = "DOWN ARROW"/>
+		<translation id = "SELECT" 								value = "SELECT"/>
+		<translation id = "PRINT" 								value = "PRINT"/>
+		<translation id = "EXECUTE" 							value = "EXECUTE"/>
+		<translation id = "PRINT_SCREEN" 						value = "PRINT SCREEN"/>
+		<translation id = "INS" 								value = "INS"/>
+		<translation id = "DEL" 								value = "DEL"/>
+		<translation id = "HELP" 								value = "HELP"/>
+		<translation id = "0" 									value = "0"/>
+		<translation id = "1" 									value = "1"/>
+		<translation id = "2" 									value = "2"/>
+		<translation id = "3" 									value = "3"/>
+		<translation id = "4" 									value = "4"/>
+		<translation id = "5" 									value = "5"/>
+		<translation id = "6" 									value = "6"/>
+		<translation id = "7" 									value = "7"/>
+		<translation id = "8" 									value = "8"/>
+		<translation id = "9" 									value = "9"/>
+		<translation id = "A" 									value = "A"/>
+		<translation id = "B" 									value = "B"/>
+		<translation id = "C" 									value = "C"/>
+		<translation id = "D" 									value = "D"/>
+		<translation id = "E" 									value = "E"/>
+		<translation id = "F" 									value = "F"/>
+		<translation id = "G" 									value = "G"/>
+		<translation id = "H" 									value = "H"/>
+		<translation id = "I" 									value = "I"/>
+		<translation id = "J" 									value = "J"/>
+		<translation id = "K" 									value = "K"/>
+		<translation id = "L" 									value = "L"/>
+		<translation id = "M" 									value = "M"/>
+		<translation id = "N" 									value = "N"/>
+		<translation id = "O" 									value = "O"/>
+		<translation id = "P" 									value = "P"/>
+		<translation id = "Q" 									value = "Q"/>
+		<translation id = "R" 									value = "R"/>
+		<translation id = "S" 									value = "S"/>
+		<translation id = "T" 									value = "T"/>
+		<translation id = "U" 									value = "U"/>
+		<translation id = "V" 									value = "V"/>
+		<translation id = "W" 									value = "W"/>
+		<translation id = "X" 									value = "X"/>
+		<translation id = "Y" 									value = "Y"/>
+		<translation id = "Z" 									value = "Z"/>
+		<translation id = "+" 									value = "+"/>
+		<translation id = "-" 									value = "-"/>
+		<translation id = "," 									value = ","/>
+		<translation id = "/" 									value = "/"/>
+		<translation id = "NUMPAD_0" 							value = "NUMPAD 0"/>
+		<translation id = "NUMPAD_1" 							value = "NUMPAD 1"/>
+		<translation id = "NUMPAD_2" 							value = "NUMPAD 2"/>
+		<translation id = "NUMPAD_3" 							value = "NUMPAD 3"/>
+		<translation id = "NUMPAD_4" 							value = "NUMPAD 4"/>
+		<translation id = "NUMPAD_5" 							value = "NUMPAD 5"/>
+		<translation id = "NUMPAD_6" 							value = "NUMPAD 6"/>
+		<translation id = "NUMPAD_7" 							value = "NUMPAD 7"/>
+		<translation id = "NUMPAD_8" 							value = "NUMPAD 8"/>
+		<translation id = "NUMPAD_9" 							value = "NUMPAD 9"/>
+		<translation id = "SEPARATOR" 							value = "SEPARATOR"/>
+		<translation id = "F1" 									value = "F1"/>
+		<translation id = "F2" 									value = "F2"/>
+		<translation id = "F3" 									value = "F3"/>
+		<translation id = "F4" 									value = "F4"/>
+		<translation id = "F5" 									value = "F5"/>
+		<translation id = "F6" 									value = "F6"/>
+		<translation id = "F7" 									value = "F7"/>
+		<translation id = "F8" 									value = "F8"/>
+		<translation id = "F9" 									value = "F9"/>
+		<translation id = "F10" 								value = "F10"/>
+		<translation id = "F11" 								value = "F11"/>
+		<translation id = "F12" 								value = "F12"/>
+		<translation id = "NUM_LOCK" 							value = "NUM LOCK"/>
+		<translation id = "SCROLL_LOCK" 						value = "SCROLL LOCK"/>
+		<translation id = "LEFT_SHIFT" 							value = "LEFT SHIFT"/>
+		<translation id = "RIGHT_SHIFT" 						value = "RIGHT SHIFT"/>
+		<translation id = "LEFT_CONTROL" 						value = "LEFT CONTROL"/>
+		<translation id = "RIGHT_CONTROL" 						value = "RIGHT CONTROL"/>
+	</namespace>
+	
+	<namespace id = "menu_task_history">
+		<translation id = "final_task_message" 					value = "Final task message"/>
+		<translation id = "job_ID" 								value = "TaskID"/>
+		<translation id = "description_msg_translated" 			value = "Message translation"/>
+	</namespace>	
+		
+	<namespace id = "task_order">	
+		<translation id = "status_task_order" 					value = "Task prioritization #"/>
+		<translation id = "headline_working_in_room" 			value = "Working in rooms"/>
+		<translation id = "desc_working_in_room" 				value = "How prioritized it is for creatures to be assigned to rooms. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_training" 					value = "Training"/>
+		<translation id = "desc_training" 						value = "How prioritized it is for creatures to train. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_sleeping" 					value = "Sleeping"/>
+		<translation id = "desc_sleeping" 						value = "How prioritized it is for creatures to sleep. They will always want sleep when they are tired. But beware, a lower priority can make them do higher priority tasks first if they are available even when the creature is unhappy because of the lack of sleep. This prioritization is constant and is not affected by how many others are doing the same task."/>
+		<translation id = "headline_dig" 						value = "Digging"/>
+		<translation id = "desc_dig" 							value = "How prioritized it is for creatures to dig. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_building" 					value = "Build"/>
+		<translation id = "desc_building" 						value = "How prioritized it is for creatures to build and transport items to building-site. This prioritization is based upon how many creatures are building at the moment."/>
+		<translation id = "headline_claiming_paths" 			value = "Claim new territory"/>
+		<translation id = "desc_claiming_paths" 				value = "How prioritized it is for creatures to claim new territory. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_store_items" 				value = "Store items"/>
+		<translation id = "desc_store_items" 					value = "How prioritized it is for creatures to store items that is laying around outside the rooms. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_fetch_water_from_wells" 	value = "Fetch water from wells"/>
+		<translation id = "desc_fetch_water_from_wells" 		value = "How prioritized it is for creatures to fetch water from wells. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_fishing" 					value = "Fishing"/>
+		<translation id = "desc_fishing" 						value = "How prioritized it is for creatures to fish. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_transport_wounded" 			value = "Transport wounded"/>
+		<translation id = "desc_transport_wounded" 				value = "How prioritized it is for creatures to transport wounded allies. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_imprison_enemies" 			value = "Imprison enemies"/>
+		<translation id = "desc_imprison_enemies" 				value = "How prioritized it is for creatures to imprision enemies. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_feed_to_dark_mother" 		value = "Feed enemies to Dark Mother"/>
+		<translation id = "desc_feed_to_dark_mother" 			value = "How prioritized it is for creatures to feed enemies to the Dark Mother. This prioritization is constant and is not affected by how many others are doing the same task."/>
+		<translation id = "headline_eat_and_drink" 				value = "Eat and drink"/>
+		<translation id = "desc_eat_and_drink" 					value = "How prioritized it is for creatures to eat and drink. They will always want eat and drink when they are hungry or sober. But beware, a lower priority can make them do higher priority tasks first if they are available even when the creature is unhappy because of their starvation or low alcohol level. This prioritization is constant and is not affected by how many others are doing the same task."/>
+		<translation id = "headline_maintain_traps" 			value = "Maintain traps"/>
+		<translation id = "desc_maintain_traps" 				value = "How prioritized it is for creatures to maintain traps. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_equipping" 					value = "Equipping"/>
+		<translation id = "desc_equipping" 						value = "How prioritized it is for creatures to equip new weapons and armor. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_undefined" 					value = "Miscellaneous tasks"/>
+		<translation id = "desc_undefined" 						value = "How prioritized it is for creatures to do miscellaneous tasks that are not listed above. This will option will only be available in the early access version of the game."/>
+		<translation id = "desc_claim_walls" 					value = "How prioritized it is for creatures to reinforce walls. This prioritization is based upon how many creatures are involved in this task at the moment."/>
+		<translation id = "headline_rally_flag" 				value = "Rally flag"/>
+		<translation id = "desc_rally_flag" 					value = "How prioritized it is for creatures to gather at the rally flag. This prioritization is constant and is not affected by how many others are doing the same task."/>
+		<translation id = "headline_claim_walls" 				value = "Reinforce walls"/>
+	</namespace>
+
+	<namespace id = "game_messages">
+		<translation id = "creature_battle_headline" 			value = "A battle has broken out in the dungeon"/>
+		<translation id = "creature_battle" 					value = "One of your creatures have engaged in battle, zoom in on the location and use the rally flag to send reinforcements to help your creature out."/>
+		<translation id = "creature_hungry_headline" 			value = "One of your creatures is hungry"/>
+		<translation id = "creature_hungry" 					value = "Make sure that you have enough food to keep your creatures well feed. You'll also need a bar table with chairs built next to it so they have somewhere to eat. If you choose to ignore this your creatures will starve."/>
+		<translation id = "creature_tired_headline" 			value = "One of your creatures is tired"/>
+		<translation id = "creature_tired" 						value = "Make sure you have a bedroom with an appropriate bed for the creature. If your creatures don't get any rest they will get grumpy and turn against you."/>
+		<translation id = "creature_thirsty_headline" 			value = "One of your creatures is thirsty"/>
+		<translation id = "creature_thirsty" 					value = "Make sure that you have enough beer to keep your creatures drunk. Some of your creatures need beer to function, which you can produce with a brewery. You also need a bar table with chairs built next to it so that they have somewhere to sit. If you choose to ignore this your creatures will get grumpy and ignore your orders."/>
+		<translation id = "no_storage_headline" 				value = "No storage availible"/>
+		<translation id = "no_storage" 							value = "Your storage rooms are full, and to solve the problem you need to build more storage rooms with tables and shelves so that you have somewhere to store your items."/>
+		<translation id = "no_space_for_room_flag_headline" 	value = "No space for room flag"/>
+		<translation id = "no_space_for_room_flag" 				value = "One of your rooms has no open area for a room flag to be put down. Solve this by expaninding the room or selling a building in it."/>
+		<translation id = "building_attacked_headline" 			value = "One of your buildings have has attacked"/>
+		<translation id = "building_attacked" 					value = "One of your buildings have been attacked, zoom in on the location and use the rally flag to send reinforcements to protect the building."/>
+		<translation id = "building_blocked_headline" 			value = "Building Blocked"/>
+		<translation id = "building_blocked" 					value = "One of your buildings is blocked. Make sure that the building has enough room around it to be able to function properly."/>
+		<translation id = "no_path_to_portal_headline" 			value = "No path to a portal"/>
+		<translation id = "no_path_to_portal" 					value = "One of your buildings requires but cannot find a clear path to a portal. If this is not solved within one minute the trade that requires the free path will be canceled.XXXX"/>
+	</namespace>
+	
+	<namespace id = "items">
+		<translation id = "antroot_headline"					value = "Antroot"/>
+		<translation id = "antroot" 							value="This twisted root vegetable can be grown and harvested in the farm land in the farm room. It has the same properties as wheat and needs water to grow, but as an advantage it can survive without sunlight. It is perfect for underground farming and its main uses include making beer or flour."/>
+		<translation id = "barbarian_axe_headline"				value = "Barbarian axe"/>
+		<translation id = "barbarian_axe" 						value="A standard barbarian axe made from steel and wood. It is heavy to wield but has high damage."/>
+		<translation id = "barbarian_shield_headline"			value = "Barbarian shield"/>
+		<translation id = "barbarian_shield" 					value="A standard barbarian shield made from steel, wood and bones. Despite its small size it is very heavy, and for those that are able to wield it can enjoy its high block chance."/>
+		<translation id = "barbarian_sword_headline"			value = "Barbarian sword"/>
+		<translation id = "barbarian_sword" 					value="A standard barbarian sword made from steel and wood. This weapon is lighter than the axe but so is its damage because of its low quality."/>
+		<translation id = "beer_headline"						value = "Beer"/>
+		<translation id = "beer" 								value="This sweet beer is made out of water and antroots and brewed in the cookery room. Make your imps serve it at the bar so that you can raise the alcohol level of your dungeon drunks and make them happy."/>
+		<translation id = "bent_sword_headline"					value = "Bent sword"/>
+		<translation id = "bent_sword" 							value="A twisted sword that delivers unexpected attacks against even the most experienced fighters."/>
+		<translation id = "bone_headline"						value = "Bone"/>
+		<translation id = "bone" 								value="A piece of bone obtainable from enemies and butchered animals. It is mainly used as a crafting material."/>
+		<translation id = "bone_armor_headline"					value = "Bone armor"/>
+		<translation id = "bone_armor" 							value="This bone armor is made out of bone and rope and can resist strong attacks. It is a very popular armor when going into battle as its appearance brings fear into the enemy&apos;s eyes."/>
+		<translation id = "bone_axe_headline"					value = "Bone axe"/>
+		<translation id = "bone_axe" 							value="This bone axe is made out of bone and ropes. Its weak damage is the proof that bones should not be used in weapon making."/>
+		<translation id = "bread_headline"						value = "Bread"/>
+		<translation id = "bread" 								value="Food in its simplest form, a simple side dish for some, but down here in the darkness it is a delicacy. This bread is made out of flour and water and can be baked in the cookery room at the baking table. Serve it at the bar to still the hunger of your minions so that they can keep on working and do your biding."/>
+		<translation id = "cannonball_headline"					value = "Cannonball"/>
+		<translation id = "cannonball" 							value="Ammunition for your cannon traps, highly effective when not pointing your way!"/>
+		<translation id = "cleaver_headline"					value = "Cleaver"/>
+		<translation id = "cleaver" 							value="Once a useful tool for butchering animals, now a weapon that is used to practice the same skills on its enemies."/>
+		<translation id = "coal_headline"						value = "Coal"/>
+		<translation id = "coal" 								value="Coal, a mineral of fossilized carbon that is used primary in the metal works room as an energy source. This mineral is easy to find as it can be mined out of every layer in the dungeon."/>
+		<translation id = "fish_headline"						value = "Fish"/>
+		<translation id = "fish" 								value="Who does not love to eat a raw splattering fish taken right out of its watery homeland? Serve it as it is at the bar to still your minions hunger. It turns out that your imps are excellent fisherman as long as they have something steady to stand on. So build them a bridge out to a shoal of fishes and they will do the rest for you."/>
+		<translation id = "flour_headline"						value = "Flour"/>
+		<translation id = "flour" 								value="The flour is grinded from antroots in the mill in the farm room, its primary used for making bread in the cookery room."/>
+		<translation id = "gold_headline"						value = "Gold"/>
+		<translation id = "gold" 								value="It is a dense, soft, malleable, and ductile metal with an attractive, bright yellow color and luster that is maintained without tarnishing in air or water. To find gold you will need to dig deep and take advantage of the natural cliff formations in the dungeon."/>
+		<translation id = "hide_armor_headline"					value = "Hide armor"/>
+		<translation id = "hide_armor" 							value="A simple hide armor that hardly brings any protection at all. Can be worn by almost any creature."/>
+		<translation id = "iron_headline"						value = "Iron"/>
+		<translation id = "iron" 								value="Iron is one of the most common elements in the dungeon next to coal. It is rarely seen directly at the surface but is not hiding too many layers down either. As it is contaminated by dirt and rock it needs to be purified in the iron smelter in the metal works room before it can be used."/>
+		<translation id = "steel_armor_headline"				value = "Steel armor"/>
+		<translation id = "steel_armor" 						value="An armor made out of steel, rope and leather. It has a high defence but is very heavy. Only the strongest creatures are able to wear it and take advantage of its benefits."/>
+		<translation id = "steel_fist_headline"					value = "Steel fist"/>
+		<translation id = "steel_fist" 							value="A simple fistweapon made out of steel and wood that brings devastating punches to the enemies."/>
+		<translation id = "steel_ingot_headline"				value = "Steel ingot"/>
+		<translation id = "steel_ingot" 						value="A steel ingot is an item that has been cast into a suitable shape for further processing. It is made out of iron and coal in the iron smelter at the metal works room. It is mostly used as a building material and in the blacksmith."/>
+		<translation id = "knights_hammer_headline"				value = "Knights hammer"/>
+		<translation id = "knights_hammer" 						value="This mighty two handed weapon is primarly crafted for human knights and used to keep the threat of the underworld at bay."/>
+		<translation id = "lava_block_headline"					value = "Lava block"/>
+		<translation id = "lava_block" 							value="A block of lava."/>
+		<translation id = "leather_headline"					value = "Leather"/>
+		<translation id = "leather"  							value="A piece of leather obtainable from the butcher. It is mainly used as a crafting material."/>
+		<translation id = "leather_armor_headline"				value = "Leather armor"/>
+		<translation id = "leather_armor"  						value="A simple leather armor that brings some protection against enemy attacks. Can be worn by almost any creature."/>
+		<translation id = "mouse_headline"						value = "Mouse"/>
+		<translation id = "mouse"  								value="An alive mouse that can be used in the farm mill wheel."/>
+		<translation id = "pitchfork_headline"					value = "Pitchfork"/>
+		<translation id = "pitchfork"  							value="A tool used by peasants for harvesting the land. Can also be used as weapon as long as nothing better comes along."/>
+		<translation id = "roasted_fish_headline"				value = "Roasted fish"/>
+		<translation id = "roasted_fish"  						value="Serve it at the bar to still your minions hunger."/>
+		<translation id = "roasted_mouse_headline"				value = "Roasted mouse"/>
+		<translation id = "roasted_mouse"  						value="Serve it at the bar to still your minions hunger."/>
+		<translation id = "rock_headline"						value = "Rock"/>
+		<translation id = "rock"  								value="This is a resource you will get whether you want it or not. Just start digging in the dungeon and rocks will fall to the ground for your imps to pick up. Just make sure that you have the storage capacity for it. Rocks are just as common a building material as wood, but if you get enough rocks you may just be able to build something extra."/>
+		<translation id = "rope_headline"						value = "Rope"/>
+		<translation id = "rope"  								value="A simple rope that can be gained by chopping down roots. It is mainly used as a crafting material."/>
+		<translation id = "spiked_gauntlet_headline"			value = "Spiked gauntlet"/>
+		<translation id = "spiked_gauntlet"  					value="Despite its simple apparence it is a very dangerous weapon against those that makes its wearers angry. It is made out of wood, ropes and steel."/>
+		<translation id = "water_headline"						value = "Water"/>
+		<translation id = "water"  								value="For some reason water is the easiest resource to get in the dungeon, but that is lucky for you because the production chain would fail without it! Just build yourself a well and let your imps fetch water from it."/>
+		<translation id = "water_block_headline"				value = "Water block"/>
+		<translation id = "water_block"  						value="A block of water."/>
+		<translation id = "wood_headline"						value = "Wood"/>
+		<translation id = "wood"  								value="Not many thought that it would be possible to harvest wood in a dungeon. But as it turns out, great trees are growing on the surface and their roots stretch far down through the dungeon cracks. Order your minions to harvest the roots so that you get the invaluable wood and are able to construct useful buildings in your dungeon."/>
+		<translation id = "wooden_club_headline"				value = "Wooden club"/>
+		<translation id = "wooden_club"  						value="This wooden club is a stick with a rock on it. A simple and an effective killing tool, but don&apos;t expect it to knock down a troll!"/>
+		<translation id = "wooden_shield_headline"				value = "Wooden shield"/>
+		<translation id = "wooden_shield"  						value="This is a simple wooden shield which gives the wearer some block chance. It is very cheap to produce and can be life saving."/>	
+	</namespace>
+
+	<namespace id = "creatures">
+		<translation id = "bat_headline" 						value="Bat"/>
+		<translation id = "bat" 								value="Fwap fwap fwap"/>
+		<translation id = "trogosaur_headline" 					value="Trogosaur"/>
+		<translation id = "trogosaur" 							value="Drills and lives in the rock."/>
+		<translation id = "cyclotaur_headline" 					value="Cyclotaur"/>
+		<translation id = "cyclotaur" 							value="A legendary creature with the strength of a bull and the depth perception of a cyclops."/>
+		<translation id = "dwarf_headline" 						value="Dwarf"/>
+		<translation id = "dwarf" 								value="A Dwarf."/>
+		<translation id = "fishman_headline" 					value="Fishman"/>
+		<translation id = "fishman" 							value="Half man, half fish, half brain. A sneaky creature that fears nothing."/>
+		<translation id = "imp_headline" 						value="Imp"/>
+		<translation id = "imp" 								value="A little green tierless creature that keeps your dungeon up to order."/>
+		<translation id = "impanzee_headline" 					value="Impanzee"/>
+		<translation id = "impanzee" 							value="A territorial creature made from the unholy mixture of an imp and a chimpanzee."/>
+		<translation id = "knight_headline" 					value="Knight"/>
+		<translation id = "knight" 								value="A human front line warrior that are known for his high health and sweeping attacks."/>
+		<translation id = "orc_headline" 						value="Orc"/>
+		<translation id = "orc" 								value="A fierce warrior with a constant need to work."/>
+		<translation id = "peasant_headline" 					value="Peasant"/>
+		<translation id = "peasant" 							value="Human worker."/>
+		<translation id = "piggeh_headline" 					value="Piggeh"/>
+		<translation id = "piggeh" 								value="A strong creature with a passion for food."/>
+		<translation id = "rogue_headline" 						value="Rogue"/>
+		<translation id = "rogue" 								value="This is a greedy and sneaky being that no one ever should turn his back against."/>		
+	</namespace>
+	
+	<namespace id = "buildings">
+		<translation id="dark_mother_room_headline" 					value="Dark Mother Room"/>
+		<translation id="dark_mother_room"  							value="Dark Mother Room, also called Hellgate Room. This room works as a the head quarter for all your minions."/>
+		<translation id="portal_headline"  								value="Portal"/>
+		<translation id="portal"  			 							value="A portal that connects the surface world with the dungeon."/>
+		<translation id="well_headline"  								value="Well"/>
+		<translation id="well"  			 							value="A place where your workers can fetch water."/>
+		<translation id="bar_room_headline"  							value="Bar Room"/>
+		<translation id="bar_room"  			 						value="A place for your creatures to eat and drink."/>
+		<translation id="bed_room_headline"  				 			value="Bed Room"/>
+		<translation id="bed_room"  			 						value="Your minions needs their rest."/>
+		<translation id="catacombs_room_headline"  						value="Catacombs Room"/>
+		<translation id="catacombs_room"  								value="Restingplace for the undead."/>
+		<translation id="claimed_path_headline"  						value="Road"/>
+		<translation id="claimed_path"  								value="A road that enables quicker transportation. This road can be upgrade three times."/>
+		<translation id="claimed_wall_headline"  						value="Reinforced Wall"/>
+		<translation id="claimed_wall"  			 					value="A reinforced wall that takes long time to dig through."/>
+		<translation id="cookery_room_headline"  						value="Cookery Room"/>
+		<translation id="cookery_room"  								value="A room were food and drinks are being made."/>
+		<translation id="farm_room_headline"  							value="Farm Room"/>
+		<translation id="farm_room"  			 						value="Here is where the farming takes place."/>
+		<translation id="grass_headline"  			 					value="Grass"/>
+		<translation id="grass"  			 							value="Ordinary grass."/>
+		<translation id="graveyard_room_headline"  						value="Graveyard Room"/>
+		<translation id="graveyard_room"  								value="A resting place for the dead."/>
+		<translation id="guard_room_headline"  							value="Guard room"/>
+		<translation id="guard_room"  			 						value="Concentrate your defense by building guardrooms."/>
+		<translation id="house_room_headline"  							value="House Room"/>
+		<translation id="house_room"  			 						value="House foundation."/>
+		<translation id="impanzee_room_headline"  						value="Impanzee Room"/>
+		<translation id="impanzee_room"  			 					value="Remnants of a room that now have been taken over by impanzees."/>
+		<translation id="maze_floor_headline"  			 				value="Maze floor"/>
+		<translation id="maze_floor"  			 						value="A standard seamless floor used in mazes to confuse visitors."/>
+		<translation id="maze_wall_headline"  					 		value="Maze Wall"/>
+		<translation id="maze_wall"  			 						value="A solid maze wall that can not be dug out."/>
+		<translation id="metalworks_room_headline"  					value="Metalworks Room"/>
+		<translation id="metalworks_room"  								value="A room for all kind of metal constuctions."/>
+		<translation id="prison_room_headline"  						value="Prison Room"/>
+		<translation id="prison_room"  									value="Needed to keep your enemies in place."/>
+		<translation id="rock_headline"  			 					value="Rock"/>
+		<translation id="rock"  			 							value="An ordinary rock wall."/>
+		<translation id="solid_rock_headline"  							value="Solid Rock"/>
+		<translation id="solid_rock"  			 						value="A solid rock wall that can not be dug out."/>
+		<translation id="statue_impanzee_headline"  					value="Impanzee Statue"/>
+		<translation id="statue_impanzee"  					 			value="This Impanzee Statue is a tribute to the impanzees and rises their moral in the dungeon."/>
+		<translation id="statue_orc_headline"  							value="Orc Statue"/>
+		<translation id="statue_orc"  			 						value="This Orc Statue is a tribute to the orcs and rises their moral in the dungeon."/>
+		<translation id="storage_room_headline" 			 			value="Storage Room"/>
+		<translation id="storage_room"  					 			value="Items stored here will be claimed as yours."/>
+		<translation id="trading_room_headline"  						value="Trading Room"/>
+		<translation id="trading_room"  								value="Used for trading goods with other collonizations."/>
+		<translation id="arc_bridge_headline"  							value="Arc Bridge"/>
+		<translation id="arc_bridge"  									value="A bridge with a arc shaped apparence."/>
+		<translation id="bedroom_fireplace_headline"   		 			value="Bedroom Fireplace"/>
+		<translation id="bedroom_fireplace"   			 				value="A fireplace designed for the bedroom."/>
+		<translation id="chest_headline"   			 					value="Chest"/>
+		<translation id="chest"   			 							value="All chests are filled with items that your workers can claim."/>
+		<translation id="cookery_room_baking_table_headline"   			value="Baking Table"/>
+		<translation id="cookery_room_baking_table"   			 		value="A baking table used for making bread."/>
+		<translation id="cookery_room_barbeque_headline"   			 	value="Barbeque"/>
+		<translation id="cookery_room_barbeque"   			 			value="Used for barbecuing fish and delicious mouse meat."/>
+		<translation id="cookery_room_brewing_vat_headline"   			value="Brewing Vat"/>
+		<translation id="cookery_room_brewing_vat"   			 		value="Used for brewing beer."/>
+		<translation id="cookery_room_wall_barrels_headline"   			value="Wall Barrels"/>
+		<translation id="cookery_room_wall_barrels"   			 		value="Wall barrels designed for the cookery room."/>
+		<translation id="wall_torch_headline"   			 			value="Wall Torch"/>
+		<translation id="wall_torch"   			 						value="An ordinary wall torch that lights up your dungeon."/>
+		<translation id="maze_door_headline"   			 				value="Maze Door"/>
+		<translation id="maze_door"   			 						value="A maze door."/>
+		<translation id="wooden_door_headline"   			 			value="Wooden Door"/>
+		<translation id="wooden_door"   			 					value="This wooden door will somewhat protect your dungeon against intruders."/>
+		<translation id="farm_room_farm_land_headline"   				value="Farm Land"/>
+		<translation id="farm_room_farm_land"   			 			value="A farm land used for growing and harvesting antroots."/>
+		<translation id="farm_room_farm_land_gate_headline"   			value="Farm Land Gate"/>
+		<translation id="farm_room_farm_land_gate"   					value="A gate for the farm land."/>
+		<translation id="farm_room_mill_headline"   					value="Farm Room Mill"/>
+		<translation id="farm_room_mill"   			 					value="Grinds antroots into flour."/>
+		<translation id="fishes_headline"   			 				value="Fishes"/>
+		<translation id="fishes"   			 							value="Fishes that can be used as food if caught by your workers."/>
+		<translation id="metalworks_room_forge_and_anvil_headline"   	value="Forge and Anvil"/>
+		<translation id="metalworks_room_forge_and_anvil"   			value="Produces weapons and armors from iron and other resources."/>
+		<translation id="graveyard_room_land_headline"   			 	value="Graveyard room land"/>
+		<translation id="graveyard_room_land"   			 			value="The land in the graveyard."/>
+		<translation id="graveyard_room_land_gate_headline"   			value="Graveyard room gate"/>
+		<translation id="graveyard_room_land_gate"   			 		value="A gate that leads into the graveyard."/>
+		<translation id="dark_mother_room_barrel_headline"   			value="Barrel"/>
+		<translation id="dark_mother_room_barrel"   			 		value="A barrel used for storage in the Dark Mother room."/>
+		<translation id="dark_mother_room_grate_storage_headline"   	value="Grate Storage"/>
+		<translation id="dark_mother_room_grate_storage"   			 	value=""/>
+		<translation id="house_inside_door_headline"   			 		value="House Door"/>
+		<translation id="house_inside_door"   			 				value="A door."/>
+		<translation id="house_inside_window_headline"   			 	value="House Window"/>
+		<translation id="house_inside_window"   			 			value="A window."/>
+		<translation id="hydraulics_cannon_headline"   			 		value="Cannon"/>
+		<translation id="hydraulics_cannon"   			 				value="When it gets pressure it will fire a flaming cannonball in the direction the cannon is facing."/>
+		<translation id="hydraulics_counter_headline"   			 	value="Hydraulics Counter"/>
+		<translation id="hydraulics_counter"   			 				value="Every time pressure reaches the counter it will switch on and off allowing pressure to pass through or not."/>
+		<translation id="hydraulics_dynamite_headline"   			 	value="Hydraulics Dynamite"/>
+		<translation id="hydraulics_dynamite"   			 			value="Gives off a gigantic explosion destroying walls, foes and friends nearby when it gets pressure."/>
+		<translation id="hydraulics_inverter_headline"   			 	value="Hydraulics Inverter"/>
+		<translation id="hydraulics_inverter"   			 			value="Gives pressure in one direction unless it gets pressure from another."/>
+		<translation id="hydraulics_movable_wall_headline"   			value="Hydraulics Movable Wall"/>
+		<translation id="hydraulics_movable_wall"   			 		value="Excellent for trapping enemies and kill them off."/>
+		<translation id="hydraulics_pipes_headline"   			 		value="Hydraulics Pipes"/>
+		<translation id="hydraulics_pipes"   			 				value="Used to transport pressure between the different hydraulics constructions."/>
+		<translation id="hydraulics_pressure_pad_headline"   			value="Hydraulics Pressure Pad"/>
+		<translation id="hydraulics_pressure_pad"   			 		value="When steped on by an enemy it will deliver pressure to its surroundings."/>
+		<translation id="hydraulics_repeater_headline"   			 	value="Hydraulics Repeater"/>
+		<translation id="hydraulics_repeater"   			 			value="Only enables pressure in one direction, very good for creating loops."/>
+		<translation id="hydraulics_switch_headline"   			 		value="Hydraulics Switch"/>
+		<translation id="hydraulics_switch"   			 				value="An hydraulics that switches the pressure on and off."/>
+		<translation id="metalworks_room_iron_smelter_headline"   		value="Iron Smelter"/>
+		<translation id="metalworks_room_iron_smelter"   			 	value="Produces iron ingots from coal and iron ores."/>
+		<translation id="mouse_trap_headline"   			 			value="Mouse trap"/>
+		<translation id="mouse_trap"   			 						value="A trap for capturing mice."/>
+		<translation id="prison_room_prison_bars_headline"   			value="Prison Bars"/>
+		<translation id="prison_room_prison_bars"   			 		value="Prison bars made for keeping your enemies locked in."/>
+		<translation id="prison_room_prison_door_headline"   			value="Prison Door"/>
+		<translation id="prison_room_prison_door"   			 		value="A door for your prison."/>
+		<translation id="prison_room_hand_torch_headline"   			value="Prison Hand Torch"/>
+		<translation id="prison_room_hand_torch"   			 			value="A floor torch made out of a decapitated arm."/>
+		<translation id="prison_room_wall_skull_headline"   			value="Prison Wall Skull"/>
+		<translation id="prison_room_wall_skull"   			 			value="A wall torch made from a skull."/>
+		<translation id="training_room_punching_pig_headline"   		value="Punching Pig"/>
+		<translation id="training_room_punching_pig"   			 		value="A good practice pig for your melee fighters."/>
+		<translation id="metalworks_room_sewing_machine_headline"   	value="Sewing Machine"/>
+		<translation id="metalworks_room_sewing_machine"   			 	value="Produces clothing out of rope and leather."/>
+		<translation id="stone_bridge_headline"   			 			value="Stone Bridge"/>
+		<translation id="stone_bridge"   			 					value="A stone bridge that can resist lava."/>
+		<translation id="storage_room_corner_shelf_headline"   			value="Corner Shelf Storage"/>
+		<translation id="storage_room_corner_shelf"   			 		value="A corner shelf for storing items on."/>
+		<translation id="storage_room_cross_table_headline"   			value="Cross Table Storage"/>
+		<translation id="storage_room_cross_table"   			 		value="A crosstable for storing items on."/>
+		<translation id="storage_room_round_table_headline"   			value="Round Table Storage"/>
+		<translation id="storage_room_round_table"   			 		value="A round table for storing items on."/>
+		<translation id="storage_room_shelf_headline"   			 	value="Shelf Storage"/>
+		<translation id="storage_room_shelf"   			 				value="A shelf for storing items on."/>
+		<translation id="storage_room_square_table_headline"   			value="Square Table Storage"/>
+		<translation id="storage_room_square_table"   			 		value="A square table for storing items on."/>
+		<translation id="storage_room_wall_shelf_headline"   			value="Wall Shelf Storage"/>
+		<translation id="storage_room_wall_shelf"   			 		value="A wall shelf for storing items on."/>
+		<translation id="trading_room_loading_dock_headline"   			value="Loadingdock"/>
+		<translation id="trading_room_loading_dock"   			 		value="A loadingdock used for trading with other collonizations."/>
+		<translation id="water_lilies_headline"   			 			value="Water Lilies"/>
+		<translation id="water_lilies"   			 					value="Ordinary water lilies."/>
+		<translation id="wooden_bridge_headline"   			 			value="Wooden Bridge"/>
+		<translation id="wooden_bridge"   			 					value="An ordinary wooden bridge that keeps the creatures from falling into the water."/>
+		<translation id="wooden_ladder_headline"   			 			value="Wooden ladder"/>
+		<translation id="wooden_ladder"   			 					value="A ladder that enables your creatures to reach new heights."/>
+		<translation id="bar_room_chair_headline"   			 		value="Bar Chair"/>
+		<translation id="bar_room_chair"   			 					value="A place for you minions to sit down and drink."/>
+		<translation id="bar_room_round_table_headline"   			 	value="Round Bar Table"/>
+		<translation id="bar_room_round_table"   			 			value="A round bar table."/>
+		<translation id="bar_room_square_table_headline"   			 	value="Square Bar Table"/>
+		<translation id="bar_room_square_table"   			 			value="A square bar table."/>
+		<translation id="bedroom_cyclotaur_bed_headline"   			 	value="Cyclotaur Bed"/>
+		<translation id="bedroom_cyclotaur_bed"   			 			value="A bed designed for cyclotaurs only."/>
+		<translation id="bedroom_fishman_bed_headline"   			 	value="Fishman Bed"/>
+		<translation id="bedroom_fishman_bed"   			 			value="A bed designed for the fishman only."/>
+		<translation id="bedroom_imp_bed_headline"   			 		value="Imp Bed"/>
+		<translation id="bedroom_imp_bed"   			 				value="A bed designed for imps only."/>
+		<translation id="bedroom_impanzee_bed_headline"   			 	value="Impanzee Bed"/>
+		<translation id="bedroom_impanzee_bed"   			 			value="A bed designed for impanzees only."/>
+		<translation id="bedroom_knight_bed_headline"   			 	value="Knight Bed"/>
+		<translation id="bedroom_knight_bed"   			 				value="A bed for a knight."/>
+		<translation id="bedroom_orc_bed_headline"   			 		value="Orc Bed"/>
+		<translation id="bedroom_orc_bed"   			 				value="A bed designed for orcs only."/>
+		<translation id="bedroom_piggeh_bed_headline"   			 	value="Piggeh Bed"/>
+		<translation id="bedroom_piggeh_bed"   			 				value="A bed designed for the piggeh only."/>
+		<translation id="bedroom_rogue_bed_headline"   			 		value="Rogue Bed"/>
+		<translation id="bedroom_rogue_bed"   			 				value="A bed for a rogue."/>
+		<translation id="bush_headline"   			 					value="Bush"/>
+		<translation id="bush"   			 							value="A bush."/>
+		<translation id="camp_fire_headline"   			 				value="Campfire"/>
+		<translation id="camp_fire"   			 						value="A campfire."/>
+		<translation id="catacombs_room_sarcophagus_headline"   		value="Sarcophagus"/>
+		<translation id="catacombs_room_sarcophagus"   			 		value="Restingplace for the dead."/>
+		<translation id="fireplate_headline"   			 				value="Fireplate"/>
+		<translation id="fireplate"   			 						value="Let there be light."/>
+		<translation id="glowing_mushrooms_headline"   			 		value="Glowing mushrooms"/>
+		<translation id="glowing_mushrooms"   			 				value="A patch of magical glowing mushrooms."/>
+		<translation id="grass_tuft_headline"   			 			value="Flowers"/>
+		<translation id="grass_tuft"   			 						value="A group of flowers"/>
+		<translation id="house_bed_headline"   			 				value="House Bed"/>
+		<translation id="house_bed"   			 						value="A bed for humans."/>
+		<translation id="house_inside_headline"   			 			value="House Inside"/>
+		<translation id="house_inside"   			 					value="Inside a house."/>
+		<translation id="house_table_headline"   			 			value="House Table"/>
+		<translation id="house_table"   			 					value="A table for humans."/>
+		<translation id="insignia_headline"   			 				value="Insignia"/>
+		<translation id="insignia"   			 						value="An war insignia made for increasing the creatures moral in the dungeon."/>
+		<translation id="mine_headline"   			 					value="Mine"/>
+		<translation id="mine"   			 							value="Build on a mineral vein to extract more minerals but during a longer timespan."/>
+		<translation id="outside_rogue_bed_headline"   		 			value="Rogue Bed"/>
+		<translation id="outside_rogue_bed"   				 			value="A bed for a rogue"/>
+		<translation id="painting_headline"   			 				value="Painting"/>
+		<translation id="painting"   			 						value="A colorful painting that can decorate one of your dungeon walls."/>
+		<translation id="pine_tree_headline"   			 				value="Pine tree"/>
+		<translation id="pine_tree"   			 						value="A pine tree that can be chopped down to get wood."/>
+		<translation id="rock_pile_headline"   			 				value="Rock Pile"/>
+		<translation id="rock_pile"   			 						value="An ordinary rock pile."/>
+		<translation id="rock_pile_moss_headline"   			 		value="Mossy rock pile"/>
+		<translation id="rock_pile_moss"   			 					value="An mossy rock pile."/>
+		<translation id="stone_fence_headline"   			 			value="Stone Fence"/>
+		<translation id="stone_fence"   			 					value="A solid fence designed to keep intruders at bay."/>
+		<translation id="training_room_dart_board_headline"   			value="Dart Board"/>
+		<translation id="training_room_dart_board"   			 		value="A dart board for training ranged fighters."/>
+		<translation id="tree_headline"   			 					value="Tree"/>
+		<translation id="tree"   			 							value="Ordinary trees that can be chopped down to get wood."/>
+		<translation id="wall_lantern_headline"   			 			value="Wall Lantern"/>
+		<translation id="wall_lantern"   			 					value="An ordinary wall lantern that lights up your dungeon."/>		
+	</namespace>
+</localization>
