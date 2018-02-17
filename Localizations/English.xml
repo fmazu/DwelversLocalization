@@ -519,7 +519,7 @@
 
 	<namespace id = "creature">
 		<namespace id = "skills">
-			<translation id = "required_level" 			value = "Req. Level: "/>
+			<translation id = "required_level" 			value = "Req. Level: %s1"/>
 		</namespace>
 
 		<namespace id = "menu_stats">
