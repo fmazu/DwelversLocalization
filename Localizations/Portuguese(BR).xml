@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<localization name="Portuguese(BR)" extension="" typeface="Georgia">
+<localization name="Portuguese(BR)" extension="PT-BR" typeface="Georgia">
 	<namespace id ="menu">
 		<namespace id ="general">
 			<namespace id ="create_game">
-				<translation id = "map_seed" 					value = "Map Seed"/>
-				<translation id = "map_width" 					value = "Map Width"/>
-				<translation id = "map_height" 					value = "Map Height"/>
-				<translation id = "map_size_unit" 				value = "Blocks"/>
-				<translation id = "num_portals" 				value = "Number of Portals"/>
-				<translation id = "dark_mother_location_x" 		value = "Dark Mother Location X"/>
-				<translation id = "dark_mother_location_y" 		value = "Dark Mother Location Y"/>
-				<translation id = "dark_mother_location_height" value = "Dark Mother Location Height"/>
+				<translation id = "map_seed" 					value = "Semente de Geração do Mapa"/>
+				<translation id = "map_width" 					value = "Largura do Mapa"/>
+				<translation id = "map_height" 					value = "Altura do Mapa"/>
+				<translation id = "map_size_unit" 				value = "Blocos"/>
+				<translation id = "num_portals" 				value = "Número de Portais"/>
+				<translation id = "dark_mother_location_x" 		value = "Localização da Matrona Sombria, X"/>
+				<translation id = "dark_mother_location_y" 		value = "Localização da Matrona Sombria, Y"/>
+				<translation id = "dark_mother_location_height" value = "Localização da Matrona Sombria, Altura"/>
 
-				<translation id = "no_creatures" 				value = "No Creatures"/>
-				<translation id = "game_difficulty" 			value = "Game Difficulty"/>
-				<translation id = "new_creative_game" 			value = "Creative Game"/>
-				<translation id = "new_easy_game" 				value = "Easy Game"/>
-				<translation id = "new_normal_game" 			value = "Normal Game"/>
-				<translation id = "new_hard_game" 				value = "Hard Game"/>
-				<translation id = "new_impossible_game" 		value = "Impossible Game"/>
-				<translation id = "enable_endless_flow_mode" 	value = "Enable Endless Flow Mode"/>
-				<translation id = "enable_pause" 				value = "Enable Pause"/>
-				<translation id = "enable_progression_mode" 	value = "Enable Progression Mode"/>
-				<translation id = "enable_cyclotaur_maze" 		value = "Enable Cyclotaur Maze"/>
-				<translation id = "cheating_mode_enabled" 		value = "Cheating Mode Enabled"/>
+				<translation id = "no_creatures" 				value = "Nenhuma Criatura"/>
+				<translation id = "game_difficulty" 			value = "Dificuldade"/>
+				<translation id = "new_creative_game" 			value = "Modo Criativo"/>
+				<translation id = "new_easy_game" 				value = "Modo Fácil"/>
+				<translation id = "new_normal_game" 			value = "Modo Normal"/>
+				<translation id = "new_hard_game" 				value = "Modo Difícil"/>
+				<translation id = "new_impossible_game" 		value = "Modo Impossível"/>
+				<translation id = "enable_endless_flow_mode" 	value = "Habilitar modo de fluxo infinito"/>
+				<translation id = "enable_pause" 				value = "Habilitar Pausa"/>
+				<translation id = "enable_progression_mode" 	value = "Habilitar Modo de Progressão"/>
+				<translation id = "enable_cyclotaur_maze" 		value = "Habilitar Labirinto do Cyclotauro"/>
+				<translation id = "cheating_mode_enabled" 		value = "Modo Trapaça Habilitado"/>
 
-				<translation id = "creature_level_min" 			value = "Minimum Creature Level"/>
-				<translation id = "creature_level_max" 			value = "Maximum Creature Level"/>
-				<translation id = "water_amount" 				value = "Water Amount"/>
-				<translation id = "lava_amount" 				value = "Lava Amount"/>
-				<translation id = "make_plain_level" 			value = "Make Plain Level"/>
+				<translation id = "creature_level_min" 			value = "Nível Mínimo das Criaturas"/>
+				<translation id = "creature_level_max" 			value = "Nível Máximo das Criaturas"/>
+				<translation id = "water_amount" 				value = "Quantidade de água"/>
+				<translation id = "lava_amount" 				value = "Quantidade de lava"/>
+				<translation id = "make_plain_level" 			value = "Criar Mapa Plano"/>
 			</namespace>
 
-			<translation id = "leave_level" 					value = "Leave This Level"/>
-			<translation id = "leave_level_confirm" 			value = "Yes, I want to leave this level."/>
-			<translation id = "main_menu" 						value = "Main Menu"/>
-			<translation id = "start_game" 						value = "Start Game"/>
-			<translation id = "resume_game" 					value = "Resume Game"/>
-			<translation id = "quit_game" 						value = "Quit Game"/>
-			<translation id = "confirm_quit_game" 				value = "Yes, I want to quit."/>
+			<translation id = "leave_level" 					value = "Sair da Fase"/>
+			<translation id = "leave_level_confirm" 			value = "Sim, eu quero sair da fase"/>
+			<translation id = "main_menu" 						value = "Menu Principal"/>
+			<translation id = "start_game" 						value = "Começar o jogo"/>
+			<translation id = "resume_game" 					value = "Retornar ao jogo"/>
+			<translation id = "quit_game" 						value = "Sair do Jogo"/>
+			<translation id = "confirm_quit_game" 				value = "Sim, eu quero sair do jogo"/>
 		</namespace>
 
 		<namespace id ="main">
