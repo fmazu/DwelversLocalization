@@ -66,12 +66,12 @@
 		<namespace id ="editor">
 			<translation id = "title" 				value = "Editor"/>
 			<namespace id ="new_map">
-				<translation id = "title" 			value = "Create New Map"/>
-				<translation id = "create_map" 		value = "Create Map"/>
+				<translation id = "title" 			value = "Criar Novo Mapa"/>
+				<translation id = "create_map" 		value = "Criar Mapa"/>
 			</namespace>
 
 			<namespace id ="load_map">
-				<translation id = "title" 			value = "Load Map"/>
+				<translation id = "title" 			value = "Carregar Mapa"/>
 			</namespace>
 		</namespace>
 
