@@ -108,15 +108,15 @@
 		</namespace>
 
 		<namespace id ="graphics">
-			<translation id = "shadows_environment_enabled" value = "Environment shadows"/>
-			<translation id = "shadows_creature_enabled" 	value = "Creature shadows"/>
-			<translation id = "viewing_distance" 			value = "Viewing distance"/>
-			<translation id = "viewing_distance_unit" 		value = "blocks"/>
+			<translation id = "shadows_environment_enabled" value = "Umgebungs-Schatten"/>
+			<translation id = "shadows_creature_enabled" 	value = "Kreaturen-Schatten"/>
+			<translation id = "viewing_distance" 			value = "Weitsicht"/>
+			<translation id = "viewing_distance_unit" 		value = "Blöcke"/>
 			<translation id = "fps_limit" 					value = "FPS limit"/>
-			<translation id = "fps_limit_unfocused" 		value = "FPS limit when game is not in focus"/>
-			<translation id = "brightness" 					value = "Brightness"/>
+			<translation id = "fps_limit_unfocused" 		value = "FPS limit wenn das Spiel im Hintergrund läuft"/>
+			<translation id = "brightness" 					value = "Helligkeit"/>
 			<translation id = "brightness_unit" 			value = "%"/>
-			<translation id = "particles" 					value = "Particles"/>
+			<translation id = "particles" 					value = "Partikel"/>
 			<translation id = "particles_unit" 				value = "%"/>
 		</namespace>
 
@@ -190,12 +190,12 @@
 		 
 		 <namespace id = "job">
 			<namespace id = "build">
-				<translation id = "name" 			value = "Building site"/>
-				<translation id = "building" 		value = "Building"/>
-				<translation id = "items_delivered" value = "Items delivered"/>
+				<translation id = "name" 			value = "Baustelle"/>
+				<translation id = "building" 		value = "Wird gebaut"/>
+				<translation id = "items_delivered" value = "Gelieferte Gegenstände"/>
 			</namespace>
 			
-			<translation id = "repairing" 			value = "Repairing"/>
+			<translation id = "repairing" 			value = "Repariert"/>
 			<translation id = "guarding" 			value = "Guarding"/>
 			
 			<namespace id = "drop_liquid">
@@ -255,8 +255,8 @@
 		 </namespace>
 		 
 		 <namespace id ="minerals">
-			<translation id = "contains" 			value = "Contains minerals"/>
-			<translation id = "explain" 			value = "Either build a mine or dig in this area to obtain minerals."/>
+			<translation id = "contains" 			value = "Enthält Mineralien"/>
+			<translation id = "explain" 			value = "Baue entweder eine Mine oder grabe in diesem Gebiet, um Mineralien zu gewinnen.."/>
 		 </namespace>	
 		 
 		 <namespace id ="trade">	
@@ -289,8 +289,8 @@
 		<translation id = "remove_creature" 				value = "Removes a creature."/>
 		<translation id = "room_flag_headline" 				value = "Room flag"/>
 		<translation id = "room_flag" 						value = "Sets the room's dropping point."/>
-		<translation id = "link_rooms_headline" 			value = "Link rooms"/>
-		<translation id = "link_rooms" 						value = "Link or unlink rooms to change their delivery paths."/>
+		<translation id = "link_rooms_headline" 			value = "Räume verbinden"/>
+		<translation id = "link_rooms" 						value = "Verbinde Räume um die Lieferwege anzupassen."/>
 		<translation id = "activate_headline" 				value = "Toggle activation"/>
 		<translation id = "activate" 						value = "Manually activates or deactivates a building."/>
 
@@ -341,16 +341,16 @@
 		
 		<namespace id = "road">
 			<translation id = "build_headline" 		value = "Straße bauen"/>
-			<translation id = "build" 				value = "Build a road to connect your rooms and increase your creatures' travel speed."/>
+			<translation id = "build" 				value = "Baue Wege um Räume zu verbinden und die Laufgeschwindigkeit der Kreaturen zu verbessern."/>
 			<translation id = "upgrade_headline" 	value = "Straße verbessern"/>
-			<translation id = "upgrade" 			value = "Upgrade a road to increase your creatures' travel speed."/>
+			<translation id = "upgrade" 			value = "Verbessere eine Straße um die Laufgeschwindigkeit deiner Kreaturen zu verbessern."/>
 		</namespace>
 		
 		<namespace id = "menu">
-			<translation id = "creature_headline" 	value = "Creature details"/>
-			<translation id = "creature" 			value = "Show details about the selected creature."/>
-			<translation id = "room_headline" 		value = "Room details"/>
-			<translation id = "room" 				value = "Show details about the selected room."/>
+			<translation id = "creature_headline" 	value = "Kreatur Informationen"/>
+			<translation id = "creature" 			value = "Zeigt Informationen über die ausgewählte Kreatur."/>
+			<translation id = "room_headline" 		value = "Raum Informationen"/>
+			<translation id = "room" 				value = "Zeigt Informationen über den ausgewählten Raum."/>
 		</namespace>		
 		
 		<namespace id = "hydraulics">
@@ -398,13 +398,13 @@
 		</namespace>
 		
 		<namespace id = "items">
-			<translation id = "left_click_to_zoom_in" 		value = "(Left-click to zoom in)"/>
+			<translation id = "left_click_to_zoom_in" 		value = "(Links-Klick zum ranzoomen)"/>
 			<translation id = "crafting_change_amount" 		value = "(Click the +/- buttons to craft)"/>
 			<translation id = "trading_headline" 			value = "Trading %s1"/>
 			<translation id = "trading_description" 		value = "Trading will take place between trading rooms and claimed portals. The more portals owned, the more trading options will be available."/>
 			<translation id = "trading_explain_buy_sell" 	value = "Click the (+/-) button to set the trading condition."/>
 			<translation id = "trading_explain_zoom_in" 	value = "Left-click to zoom in on active trades."/>
-			<translation id = "trading_locked_headline" 	value = "Trade locked"/>
+			<translation id = "trading_locked_headline" 	value = "Handel gesperrt"/>
 			<translation id = "trading_locked_description" 	value = "This trade is locked! Unlock trade routes by claiming portals to the surface world."/>
 			<translation id = "trading_condition_headline" 	value = "Current trading condition"/>
 			<translation id = "trading_condition_sell" 		value = "If more than %s2 units of %s1 are stored, then start selling %s1 for gold."/>
@@ -412,7 +412,7 @@
 			<translation id = "trading_condition_none" 		value = "No trading conditions have been set for %s1."/>		
 			<translation id = "trading_current_buy_if" 		value = "Buy if less than %s1"/>
 			<translation id = "trading_current_sell_if" 	value = "Sell if more than %s1"/>
-			<translation id = "trading_current_no_if" 		value = "No trade"/>
+			<translation id = "trading_current_no_if" 		value = "Kein Handel"/>
 		</namespace>
 	</namespace>
 	
@@ -550,9 +550,9 @@
 			</namespace>
 			
 			<namespace id = "defense">
-				<translation id = "headline" 			value = "Defense"/>
+				<translation id = "headline" 			value = "Verteidigung"/>
 				<translation id = "desc" 				value = "Shows the defense this creature currently has. A high defense will help the creature withstand physical attacks."/>
-				<translation id = "value" 				value = "Defense: %s1"/>
+				<translation id = "value" 				value = "Verteidigung: %s1"/>
 			</namespace>
 			
 			<namespace id = "resistance">
@@ -568,9 +568,9 @@
 			</namespace>
 			
 			<namespace id = "rest">
-				<translation id = "headline" 			value = "Rest"/>
+				<translation id = "headline" 			value = "Erholung"/>
 				<translation id = "desc" 				value = "Shows how well-rested this creature currently is. If rest value gets too low, the creature's efficiency will be affected and finally make the creature turn against you."/>
-				<translation id = "value" 				value = "Rest: %s1"/>
+				<translation id = "value" 				value = "Erholung: %s1"/>
 			</namespace>
 			
 			<namespace id = "food">
@@ -596,8 +596,8 @@
 	</namespace>
 
 	<namespace id = "skills">
-		<translation id = "passive_skill_desc" 		value = "Passive skill"/>
-		<translation id = "active_skill_desc" 		value = "Active skill"/>
+		<translation id = "passive_skill_desc" 		value = "Passive Fähigkeiten"/>
+		<translation id = "active_skill_desc" 		value = "Aktive Fähigkeiten"/>
 		<translation id = "cooldown_time_desc" 		value = "Cooldown: %.2f sec"/>
 	</namespace>
 
@@ -609,9 +609,9 @@
 		</namespace>
 
 		<namespace id = "skills"> 
-			<translation id = "headline" 	value = "Skills"/>
-			<translation id = "passive" 	value = "Passive skills"/>
-			<translation id = "active" 		value = "Active skills"/> 
+			<translation id = "headline" 	value = "Fähigkeiten"/>
+			<translation id = "passive" 	value = "Passive Fähigkeiten"/>
+			<translation id = "active" 		value = "Aktive Fähigkeiten"/> 
 		</namespace>
 		
 		<translation id = "character" 		value = "Char"/>
@@ -657,7 +657,7 @@
 				<translation id = "attacked" 						value = "Gebäude wird angegriffen"/>
 				<translation id = "slow_production"					value = "Langsame Produktion"/>
 				<translation id = "blocked" 						value = "Gebäude ist blockiert"/>
-				<translation id = "no_path_to_portal"				value = "No path to portal"/>
+				<translation id = "no_path_to_portal"				value = "Kein Pfad zum Portal"/>
 				<translation id = "cave_in" 						value = "Cave-in triggered"/>
 			</namespace>
 			<translation id = "mission_complete" 				value = "Mission erfolgreich..."/>
@@ -676,14 +676,14 @@
 
 		
 	<namespace id = "credits">	
-		<translation id = "lead_programmer_and_game_designer" 	value = "Lead programmer and game designer"/>
+		<translation id = "lead_programmer_and_game_designer" 	value = "Leitender Programmierer und Spieleautor"/>
 		<translation id = "presents" 							value = "Presents"/>
 		<translation id = "co-executive_producers" 				value = "Co-Executive Producers"/>
-		<translation id = "game_and_graphics_designer" 			value = "Game and graphics designer"/>
-		<translation id = "creatures_3D_artist" 				value = "Creatures 3D artist"/>
-		<translation id = "music" 								value = "Music"/>
+		<translation id = "game_and_graphics_designer" 			value = "Spiel und Grafik Designer"/>
+		<translation id = "creatures_3D_artist" 				value = "Kreaturen 3D Artist"/>
+		<translation id = "music" 								value = "Musik"/>
 		<translation id = "contributor" 						value = "Contributors"/>
-		<translation id = "special_thanks" 						value = "Special thanks"/>
+		<translation id = "special_thanks" 						value = "Besonderen Dank"/>
 		<translation id = "lead_voice_actor" 					value = "Lead voice actor"/>
 	</namespace>	
 		
@@ -693,37 +693,37 @@
 			<translation id = "dark_mother_health_desc"				value = "Here you see the Dark Mother health, if it drops below zero you will loose the game!"/>
 			<translation id = "dark_mother_health_status"			value = "Health: %s1%"/>
 			<translation id = "evil_meter_headline" 				value = "Evilmeter"/>
-			<translation id = "evil_meter_desc" 					value = "Destroying human buildings on the surface world will feed the evil meter."/>
+			<translation id = "evil_meter_desc" 					value = "Das zerstören menschlicher Gebäude an der Oberfläche steigert deine Boshaftigkeit!"/>
 			<translation id = "evil_meter_status" 					value = "Power: %s1%"/>
 			<translation id = "evil_meter_human_aggression"			value = "Human aggression: %s1%"/>
 			<translation id = "evil_meter_experience_multiplier"	value = "Experience multiplier: %s1%"/>
 			
-			<translation id = "creature_health_headline"			value = "Creature health"/>
-			<translation id = "creature_health_desc"				value = "This shows the avarage health of all your creatures."/>
-			<translation id = "creature_health_status"				value = "Avarage health: %s1%"/>
+			<translation id = "creature_health_headline"			value = "Gesundheit deiner Kreaturen"/>
+			<translation id = "creature_health_desc"				value = "Dies zeigt die durchschnitliche Gesundheit all deiner Kreaturen."/>
+			<translation id = "creature_health_status"				value = "Gesundheit: %s1%"/>
 			
-			<translation id = "creature_needs_headline"				value = "Creature needs"/>
-			<translation id = "creature_needs_desc"					value = "This shows the avarage mood of all your creatures which is based on the fulfillment of thier needs."/>
-			<translation id = "creature_needs_status"				value = "Avarage happiness: %s1%"/>
-			<translation id = "creature_needs_status_food"			value = "Avarage food: %s1%"/>
-			<translation id = "creature_needs_status_drink"			value = "Avarage drink: %s1%"/>
-			<translation id = "creature_needs_status_sleep"			value = "Avarage sleep: %s1%"/>
+			<translation id = "creature_needs_headline"				value = "Bedürfnisse deiner Kreaturen"/>
+			<translation id = "creature_needs_desc"					value = "Dies zeigt die durchschnittliche Stimmung all deiner Kreaturen, die auf der Erfüllung ihrer Bedürfnisse basiert."/>
+			<translation id = "creature_needs_status"				value = "Zufriedenheit: %s1%"/>
+			<translation id = "creature_needs_status_food"			value = "Essen: %s1%"/>
+			<translation id = "creature_needs_status_drink"			value = "Trinken: %s1%"/>
+			<translation id = "creature_needs_status_sleep"			value = "Schlafen: %s1%"/>
 			
-			<translation id = "storage_headline"					value = "Storage available"/>
+			<translation id = "storage_headline"					value = "Verfügbarer Lagerplatz"/>
 			<translation id = "storage_desc"						value = "This shows how much storage you have available."/>
 			<translation id = "storage_status"						value = "Verfügbar: %s1%"/>
 
-			<translation id = "productivity_headline"				value = "Productivity"/>
-			<translation id = "productivity_desc"					value = "This shows your avarage productivity in the dungeon."/>
-			<translation id = "productivity_status"					value = "Avarage productivity: %s1%"/>
+			<translation id = "productivity_headline"				value = "Produktivität"/>
+			<translation id = "productivity_desc"					value = "Dies zeigt deine durchschnittliche Produktivität im Verlies an."/>
+			<translation id = "productivity_status"					value = "Produktivität: %s1%"/>
 		</namespace>
 		<namespace id ="buttons">
 			<translation id = "creature_menu"						value = "Öffne Kreaturen Übersicht"/>
 		</namespace>
 		<namespace id ="wave_timer">
 			<translation id = "wave_next"							value = "Nächste Welle: %s1"/>
-			<translation id = "wave_desc"							value = "Time left until the next enemy wave decends through the portals."/>
-			<translation id = "wave_next_time"						value = "Time left until next wave: %s1:%s2"/>			
+			<translation id = "wave_desc"							value = "Die verbleibende Zeit bis zur nächsten feindlichen Welle Feinde, die durch die Portale kommen."/>
+			<translation id = "wave_next_time"						value = "Zeit bis zur nächsten Welle: %s1:%s2"/>			
 		</namespace>
 		<namespace id ="creature_icon">
 			<translation id = "idle_headline"				value = "Idle creatures"/>
@@ -734,9 +734,9 @@
 			<translation id = "resting_desc"				value = "Shows how many creatures of this type that are resting."/>
 			<translation id = "resting_status"				value = "Resting creatures: %s1"/>
 
-			<translation id = "working_headline"			value = "Working creatures"/>
+			<translation id = "working_headline"			value = "Arbeitende Kreaturen"/>
 			<translation id = "working_desc"				value = "Shows how many creatures of this type that are working."/>
-			<translation id = "working_status"				value = "Working creatures: %s1"/>
+			<translation id = "working_status"				value = "Arbeitende Kreaturen: %s1"/>
 
 			<translation id = "fighting_headline"			value = "Fighting creatures"/>
 			<translation id = "fighting_desc"				value = "Shows how many creatures of this type that are fighting."/>
@@ -1168,10 +1168,10 @@
 		<translation id="catacombs_room"  								value="Resting place for the undead."/>
 		<translation id="claimed_path_headline"  						value="Road"/>
 		<translation id="claimed_path"  								value="A road that enables faster transportation. It can be upgraded 3 times."/>
-		<translation id="claimed_wall_headline"  						value="Reinforced Wall"/>
-		<translation id="claimed_wall"  			 					value="A reinforced wall that takes a long time to dig through."/>
-		<translation id="cookery_room_headline"  						value="Cookery Room"/>
-		<translation id="cookery_room"  								value="A room where food and drinks are made."/>
+		<translation id="claimed_wall_headline"  						value="Verstärkte Wand"/>
+		<translation id="claimed_wall"  			 					value="Eine verstärkte Wand benötigt mehr Schaden um zerstört zu werden."/>
+		<translation id="cookery_room_headline"  						value="Küche"/>
+		<translation id="cookery_room"  								value="In der Küche wird Essen und Trinken hergestellt."/>
 		<translation id="farm_room_headline"  							value="Farm Room"/>
 		<translation id="farm_room"  			 						value="Here is where the farming takes place."/>
 		<translation id="grass_headline"  			 					value="Grass"/>
