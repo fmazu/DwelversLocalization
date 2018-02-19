@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <localization name="English" extension="" typeface="Georgia">
 	<namespace id ="menu">
@@ -410,8 +410,8 @@
 			<translation id = "trading_condition_sell" 		value = "If more than %s2 units of %s1 are stored, then start selling %s1 for gold."/>
 			<translation id = "trading_condition_buy" 		value = "If less than %s2 units of %s1 are stored, then start buying %s1 for gold."/>
 			<translation id = "trading_condition_none" 		value = "No trading conditions have been set for %s1."/>
-			<translation id = "trading_current_buy_if" 		value = "Buy if less than %s1"/>
-			<translation id = "trading_current_sell_if" 	value = "Sell if more than %s1"/>
+			<translation id = "trading_current_buy_if" 		value = "Buy if &lt; %s1"/>
+			<translation id = "trading_current_sell_if" 	value = "Sell if &gt; %s1"/>
 			<translation id = "trading_current_no_if" 		value = "No trade"/>
 		</namespace>
 	</namespace>
@@ -508,8 +508,8 @@
 
 		<namespace id = "crafting">
 			<translation id = "click_to_add_or_remove" 		value = "Click below to add or remove crafting orders."/>
-			<translation id = "missing_forge_and_anvil"		value = "Not craftable without a 'Forge and Anvil'!"/>
-			<translation id = "missing_sewing_machine" 		value = "Not craftable without a 'Sewing Machine'!"/>
+			<translation id = "missing_forge_and_anvil"		value = "Not craftable without a Forge and Anvil!"/>
+			<translation id = "missing_sewing_machine" 		value = "Not craftable without a Sewing Machine!"/>
 		</namespace>
 
 		<translation id = "items_quick_choice_info" 		value = "(Click the upper bar to switch quick-item)"/>
