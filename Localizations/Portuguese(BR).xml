@@ -52,15 +52,15 @@
 		</namespace>
 
 		<namespace id ="save_game">
-			<translation id = "create_new" 						value = "--- Create New Savegame ---"/>
-			<translation id = "create_new_editor" 				value = "--- Create New Editor Map ---"/>
-			<translation id = "name_savegame" 					value = "Name your savegame."/>
-			<translation id = "saving_game"						value = "Saving game..."/>
-			<translation id = "loading_game" 					value = "Loading game..."/>
-			<translation id = "couldnt_save_game" 				value = "Game could not be saved!"/>
-			<translation id = "confirm_delete_save_game" 		value = "Yes, I want to delete this savegame."/>
-			<translation id = "delete_save_game" 				value = "Delete Savegame"/>
-			<translation id = "confirm_load_game"	 			value = "Yes, I want to load a previously saved game."/>
+			<translation id = "create_new" 						value = "--- Criar Jogo Novo---"/>
+			<translation id = "create_new_editor" 				value = "--- Criar Mapa Novo ---"/>
+			<translation id = "name_savegame" 					value = "Nomeie o jogo novo"/>
+			<translation id = "saving_game"						value = "Salvando jogo..."/>
+			<translation id = "loading_game" 					value = "Carregando jogo..."/>
+			<translation id = "couldnt_save_game" 				value = "Jogo não pôde ser salvo!"/>
+			<translation id = "confirm_delete_save_game" 		value = "Sim, eu quero deletar os dados deste jogo."/>
+			<translation id = "delete_save_game" 				value = "Deletar jogo salvo"/>
+			<translation id = "confirm_load_game"	 			value = "Sim, eu quero carregar um jogo previamente salvo."/>
 		</namespace>
 
 		<namespace id ="editor">
