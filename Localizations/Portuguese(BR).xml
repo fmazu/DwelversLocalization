@@ -43,12 +43,12 @@
 		</namespace>
 
 		<namespace id ="main">
-			<translation id = "load_game_editor" 	value = "Load Editor Map"/>
-			<translation id = "load_game" 			value = "Load Game"/>
-			<translation id = "load_game_demo" 		value = "Load Game (Unavailable in demo)"/>
-			<translation id = "save_game_editor" 	value = "Save Editor Map"/>
-			<translation id = "save_game" 			value = "Save Game"/>
-			<translation id = "save_game_demo" 		value = "Save Game (Unavailable in demo)"/>
+			<translation id = "load_game_editor" 	value = "Carregar Mapa"/>
+			<translation id = "load_game" 			value = "Carregar Jogo"/>
+			<translation id = "load_game_demo" 		value = "Carregar Jogo (Indisponível na versão demo)"/>
+			<translation id = "save_game_editor" 	value = "Salvar Mapa"/>
+			<translation id = "save_game" 			value = "Salvar Jogo"/>
+			<translation id = "save_game_demo" 		value = "Salvar Jogo (Indisponível na versão demo)"/>
 		</namespace>
 
 		<namespace id ="save_game">
