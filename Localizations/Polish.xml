@@ -192,7 +192,7 @@
 			<namespace id = "build">
 				<translation id = "name" 			value = "Plac budowy"/>
 				<translation id = "building" 		value = "Budowa"/>
-				<translation id = "items_delivered" value = "Przedmioty na stanowisku"/>
+				<translation id = "items_delivered" value = "Wymagane przedmioty"/>
 			</namespace>
 
 			<translation id = "repairing" 			value = "naprawia"/>
@@ -787,7 +787,7 @@
 		<translation id = "item_prio" 							value = "Priorytet"/>
 		<translation id = "auto" 								value = "Auto"/>
 		<translation id = "manual" 								value = "Ręcznie"/>
-		<translation id = "cost" 								value = "Koszt"/>
+		<translation id = "cost" 								value = "Koszt:"/>
 		<translation id = "true" 								value = "Tak"/>
 		<translation id = "false" 								value = "Nie"/>
 		<translation id = "objectives" 							value = "Zadania"/>
@@ -1170,7 +1170,7 @@
 		<translation id="claimed_wall_headline"  						value="Wzmocniona Ściana"/>
 		<translation id="claimed_wall"  			 					value="Dzięki niej trudniej jest przebić się do twoich włości. Pozwala również na zawieszanie na niej różnego rodzaju obiektów."/>
 		<translation id="cookery_room_headline"  						value="Kuchnia"/>
-		<translation id="cookery_room"  								value="To z tego miejsca wydobywają się zapachy, sprawiające niekończący się potok śliny wśród stworów. Wytwarza się tu jedzenie i picie."/>
+		<translation id="cookery_room"  								value="Wytwarza się tu jedzenie i picie, których zapach każdemu stworowi zapewnia obfity potok śliny."/>
 		<translation id="farm_room_headline"  							value="Farma"/>
 		<translation id="farm_room"  			 						value="Miejsce, w którym zbiera się plony."/>
 		<translation id="grass_headline"  			 					value="Trawa"/>
@@ -1386,7 +1386,7 @@
 				<translation id = "bar_room_finished"			value = "Dobra robota! Od teraz twoje stwory będą miały gdzie napychać sobie gęby."/>
 
 				<translation id = "build_farm_room"				value = "W ten sposób utrzymasz swoje stwory dopóki starczy pożywienia w magazynie. Żeby jednak stworzyć go więcej zbuduj Pole Mrówkorzeni. Pozyskasz z niego niezbędne składniki potrzebne do produkcji jedzenia. Do dzieła!"/>
-				<translation id = "build_mill"					value = "A zatem mamy już farmę, na której możemy hodować mrówkorzenie. Nie nadają się one do bezpośredniego spożycia, dlatego następnym zadaniem będzie zbudowanie Młyna, z którego uzyskasz mąkę."/>
+				<translation id = "build_mill"					value = "A zatem mamy już miejsce, w którym możemy hodować mrówkorzenie. Nie nadają się one do bezpośredniego spożycia, dlatego następnym zadaniem będzie zbudowanie Młyna, z którego uzyskasz mąkę."/>
 				<translation id = "no_water"					value = "Jak zapewne zauważyłeś na farmie nie wyrósł ani jeden mrówkorzeń, a to dlatego, że nikt im nie dostarczył wody."/>
 				<translation id = "build_well"					value = "Wodę możesz pozyskać budując Studnię, najlepiej gdzieś blisko twojej Farmy. Sprzedaj jedno należące do niej pole i wybuduj na nim studnię."/>
 				<translation id = "build_mouse_trap"			value = "A cóż to? Nieopodal Farmy, którą dopiero co zbudowałeś pojawiły się gryzonie! Stanowią one bogate źródło białka i stanowią przysmak Chochlików. Wybuduj Pułapkę na Gryzonie, by nakazać Chochlikom pozostawienie w niej mrówkorzenia stanowiącego przynętę."/>
@@ -1405,30 +1405,30 @@
 			</namespace>
 			<translation id = "headline_build_bar_dig"			value = "Pierwsze Wykopy"/>
 			<translation id = "message_build_bar_dig" 			value = "Przekop się przez zaznaczony na żółto obszar przyciskając lewy przycisk myszy (LPM) i przeciągnij nią po nim."/>
-			<translation id = "headline_build_bar_room"			value = "Zbuduj Bar"/>
+			<translation id = "headline_build_bar_room"			value = "Budowa Baru"/>
 			<translation id = "message_build_bar_room" 			value = "Kliknij prawym przyciskiem myszy (PPM) na wolne pole, aby otworzyć w ten sposób menu kołowe. Znajdź ikonę Baru i postaw go w miejscu zaznaczonym na żółto, tak jak wcześniej zaznaczyłeś miejsce do wykopalisk."/>
 			<translation id = "headline_build_bar_table"		value = "Postaw Stół Barowy"/>
 			<translation id = "message_build_bar_table" 		value = "Klikając PPM na podłodze Baru otwórz menu kołowe i wybierz Stół Barowy. Postaw go w wyznaczonym miejscu."/>
-			<translation id = "headline_dig_and_build_farm_room"	value = "Zbuduj a Farmę"/>
+			<translation id = "headline_dig_and_build_farm_room"	value = "Budowa Farmy"/>
 			<translation id = "message_dig_and_build_farm_room" 	value = "Przekop się przez zaznaczone miejsce i zbuduj w tym miejscu Farmę."/>
-			<translation id = "headline_build_farm_land"		value = "Postaw Pole Mrówkorzeni"/>
+			<translation id = "headline_build_farm_land"		value = "Stawianie Pola Mrówkorzeni"/>
 			<translation id = "message_build_farm_land" 		value = "Klikając PPM na podłodze Farmy otwórz menu kołowe i wybierz Pole Mrówkorzeni. Skonstruuj je w wyznaczonym miejscu."/>
-			<translation id = "headline_build_mill"				value = "Postaw Mill"/>
+			<translation id = "headline_build_mill"				value = "Stawianie Młyna"/>
 			<translation id = "message_build_mill" 				value = "Postaw Młyn w wyznaczonym miejscu."/>
-			<translation id = "headline_build_well"				value = "Zrób miejsce na budowę Studni"/>
+			<translation id = "headline_build_well"				value = "Budowa Studni"/>
 			<translation id = "message_build_well" 				value = "Otwórz menu kołowe i sprzedaj pole Farmy zaznaczone na żółto. W miejscu tego pola wybuduj Studnię."/>
-			<translation id = "headline_build_mouse_trap"		value = "Postaw a Pułapkę na Gryzonie"/>
+			<translation id = "headline_build_mouse_trap"		value = "Stawianie Pułapki na Gryzonie"/>
 			<translation id = "message_build_mouse_trap" 		value = "Postaw Pułapkę na Gryzonie w wyznaczonym miejscu."/>
-			<translation id = "headline_build_bed_room"			value = "Zbuduj Sypialnię"/>
-			<translation id = "message_build_bed_room" 			value = "Przekop się przez zaznaczone na żółto miejsce i wybuduj tam Sypialnię."/>
-			<translation id = "headline_build_farm_land_gate"	value = "Postaw Bramę na Polu Mrówkorzeni"/>
+			<translation id = "headline_build_bed_room"			value = "Budowa Sypialni"/>
+			<translation id = "message_build_bed_room" 			value = "Przekop się przez zaznaczone na żółto miejsce i zybuduj tam Sypialnię."/>
+			<translation id = "headline_build_farm_land_gate"	value = "Drzwi do Sypialni"/>
 			<translation id = "message_build_farm_land_gate" 	value = "Otwórz menu kołowe Pola mrówkorzeni i wybierz Bramę. Postaw ją w wyznaczonym miejscu."/>
-			<translation id = "headline_build_beds"				value = "Postaw Leża"/>
+			<translation id = "headline_build_beds"				value = "Stawianie Leży"/>
 			<translation id = "message_build_beds" 				value = "W Sypialni postaw 3 leża dla Chochlików i 3 leża dla Świnioków."/>
 			<translation id = "headline_build_a_cookery_room"	value = "Zbuduj Kuchnię"/>
-			<translation id = "message_build_a_cookery_room" 	value = "Przekop się przez zaznaczone na żółto miejsce i wybuduj tam Sypialnię."/>
-			<translation id = "headline_build_cookery_room_buildings"	value = "Zacznij Produkcję Żywności"/>
-			<translation id = "message_build_cookery_room_buildings" 	value = "Postaw w nowo wybudowanej Kuchni: Stół Piekarski, Ruszt oraz Warzelnię."/>
+			<translation id = "message_build_a_cookery_room" 	value = "Przekop się przez zaznaczone na żółto miejsce i zybuduj tam Kuchnię."/>
+			<translation id = "headline_build_cookery_room_buildings"	value = "Rozpocznij produkcję Żywności"/>
+			<translation id = "message_build_cookery_room_buildings" 	value = "Postaw w nowo zbudowanej Kuchni: Stół Piekarski, Ruszt oraz Warzelnię."/>
 		</namespace>
 	</namespace>
 </localization>
