@@ -36,9 +36,9 @@
 			<translation id = "leave_level" 					value = "Sair da Fase"/>
 			<translation id = "leave_level_confirm" 			value = "Sim, eu quero sair da fase"/>
 			<translation id = "main_menu" 						value = "Menu Principal"/>
-			<translation id = "start_game" 						value = "Começar o jogo"/>
+			<translation id = "start_game" 						value = "Iniciar jogo"/>
 			<translation id = "resume_game" 					value = "Retornar ao jogo"/>
-			<translation id = "quit_game" 						value = "Sair do Jogo"/>
+			<translation id = "quit_game" 						value = "Encerrar Jogo"/>
 			<translation id = "confirm_quit_game" 				value = "Sim, eu quero sair do jogo"/>
 		</namespace>
 
