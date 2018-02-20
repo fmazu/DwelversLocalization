@@ -1086,9 +1086,9 @@
 		<translation id = "pitchfork_headline"					value = "Widły"/>
 		<translation id = "pitchfork"  							value="Narzędzie służący Wieśniakom do przygotowywania gleby na Polach Zboża. Może być również wykorzystywana jako broń jeśli niczego lepszego nie ma się pod ręką."/>
 		<translation id = "roasted_fish_headline"				value = "Pieczona Ryba"/>
-		<translation id = "roasted_fish"  						value="Chrupiąca strawa z podsmażonej ryby. Serwowana w Barze potrafi wykraść głód niejednemu stworowi."/>
-		<translation id = "roasted_mouse_headline"				value = "Roasted Mouse"/>
-		<translation id = "roasted_mouse"  						value="Chrupiąca strawa z usmażonej na wolnym ogniu myszy. Serwowana w Barze potrai wykraść głód niejednemu stworowi."/>
+		<translation id = "roasted_fish"  						value="Chrupiąca strawa z upieczonej ryby. Serwowana w Barze potrafi wykraść głód niejednemu stworowi."/>
+		<translation id = "roasted_mouse_headline"				value = "Pieczona Mysz"/>
+		<translation id = "roasted_mouse"  						value="Chrupiąca strawa z upieczonej myszy. Serwowana w Barze potrai wykraść głód niejednemu stworowi."/>
 		<translation id = "rock_headline"						value = "Skała"/>
 		<translation id = "rock"  								value="Cały podziemny świat zbudowany jest ze skał. Podczas robienia różnego rodzaju wykopalisk upewnij się, że masz wystarczając dużo miejsca by pomieścić zebrane skały w swoich magazynach. Służy jako materiał budowlany dla budowy kamiennych struktur lub jako towar na wymianę."/>
 		<translation id = "rope_headline"						value = "Lina"/>
@@ -1097,6 +1097,7 @@
 		<translation id = "spiked_gauntlet"  					value="Pomimo swojego, wydawałoby się zwyczajnego wyglądu potrafi być skuteczną bronią w rękach wprawnego wojownika. Wytwarza się ją z drewna, lin i stali."/>
 		<translation id = "water_headline"						value = "Woda"/>
 		<translation id = "water"  								value="Głęboko pod skorupą wody znajdują się złoża wody gruntowej. Budując studnie możesz zapewnić sobie niekończący się jej zapas. Świeża woda wykorzystywana jest w hodowli roślin oraz podczas wytwarzania przedmiotów."/>
+		<translation id = "water_block_headline"				value = "Blok Wody"/>
 		<translation id = "water_block"  						value="Blok życiodajnej wody."/>
 		<translation id = "wood_headline"						value = "Drewno"/>
 		<translation id = "wood"  								value="Mówi się, że próżno szukać drewna w podziemiach. Jak się okazuje, niektóre korzenie wielkich drzew rosnących na powierzchni potrafią sięgać wgłąb ziemi. Służy jako materiał mający zastosowanie praktycznie we wszystkim."/>
