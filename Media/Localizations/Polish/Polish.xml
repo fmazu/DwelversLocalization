@@ -15,7 +15,7 @@
 
 				<translation id = "no_creatures" 				value = "Nie generuj stworów na mapie"/>
 				<translation id = "game_difficulty" 			value = "Tryb"/>
-				<translation id = "new_creative_game" 			value = "Twórcza gra"/>
+				<translation id = "new_creative_game" 			rev="2" value = "Twórcza gra"/>
 				<translation id = "new_easy_game" 				value = "Łatwa gra"/>
 				<translation id = "new_normal_game" 			value = "Normalna gra"/>
 				<translation id = "new_hard_game" 				value = "Trudna gra"/>
@@ -171,12 +171,12 @@
 			<translation id = "job" 						value = "Zajęcie"/>
 			<translation id = "efficiency" 					value = "Wydajność"/>
 			<translation id = "mood" 						value = "Nastrój"/>
-			<translation id = "mood_angry" 					value = "wściekły"/>
-			<translation id = "mood_unhappy" 				value = "zdenerwowany"/>
-			<translation id = "mood_happy" 					value = "zadowolony"/>
-			<translation id = "mood_super_happy" 			value = "euforyczny"/>
-			<translation id = "mood_unconscious" 			value = "nieprzytomny"/>
-			<translation id = "mood_dead" 					value = "wącha kwiatki od spodu"/>
+			<translation id = "mood_angry" 					rev="2" value = "wściekły"/>
+			<translation id = "mood_unhappy" 				rev="2" value = "zdenerwowany"/>
+			<translation id = "mood_happy" 					rev="2" value = "zadowolony"/>
+			<translation id = "mood_super_happy" 			rev="2" value = "euforyczny"/>
+			<translation id = "mood_unconscious" 			rev="2" value = "nieprzytomny"/>
+			<translation id = "mood_dead" 					rev="2" value = "wącha kwiatki od spodu"/>
 			<translation id = "mood_explain_sleepy" 		value = "Ten stwór jest śpiący. Sprawdź, czy w Sypialni jest wystarczająco dużo łóżek do spania."/>
 			<translation id = "mood_explain_hungry" 		value = "Ten stwór jest głodny. Sprawdź, czy w Barze podano wystarczająco dużo pożywienia."/>
 			<translation id = "mood_explain_thirsty" 		value = "Ten stwór jest spragniony. Sprawdź, czy w Barze podano wystarczająco dużo piwa."/>
@@ -298,25 +298,25 @@
 			<translation id = "rooms_headline" 				value = "Komnaty"/>
 			<translation id = "rooms" 						value = "Menu komnat."/>
 			<translation id = "bar_room_headline" 			value = "Struktury Baru"/>
-			<translation id = "bar_room" 					value = "Menu ze strukturami Baru."/>
+			<translation id = "bar_room" 					rev="2" value = "Menu ze strukturami Baru."/>
 			<translation id = "bed_room_headline" 			value = "Struktury Sypialni"/>
-			<translation id = "bed_room" 					value = "Menu ze strukturami Sypialni."/>
+			<translation id = "bed_room" 					rev="2" value = "Menu ze strukturami Sypialni."/>
 			<translation id = "cookery_room_headline" 		value = "Struktury Kuchni"/>
-			<translation id = "cookery_room" 				value = "Menu ze strukturami Kuchni."/>
+			<translation id = "cookery_room" 				rev="2" value = "Menu ze strukturami Kuchni."/>
 			<translation id = "catacombs_room_headline" 	value = "Struktury Katakumb"/>
-			<translation id = "catacombs_room" 				value = "Menu ze strukturami Katakumb."/>
+			<translation id = "catacombs_room" 				rev="2" value = "Menu ze strukturami Katakumb."/>
 			<translation id = "farm_room_headline" 			value = "Struktury Farmy"/>
-			<translation id = "farm_room" 					value = "Menu ze strukturami Farmy."/>
+			<translation id = "farm_room" 					rev="2" value = "Menu ze strukturami Farmy."/>
 			<translation id = "metalworks_room_headline" 	value = "Struktury Zakładu Rzemieślniczego"/>
-			<translation id = "metalworks_room" 			value = "Menu ze strukturami Zakładu Rzemieślniczego."/>
+			<translation id = "metalworks_room" 			rev="2" value = "Menu ze strukturami Zakładu Rzemieślniczego."/>
 			<translation id = "prison_room_headline" 		value = "Struktury Więzienia"/>
-			<translation id = "prison_room" 				value = "Menu ze strukturami Więzienia."/>
+			<translation id = "prison_room" 				rev="2" value = "Menu ze strukturami Więzienia."/>
 			<translation id = "storage_room_headline" 		value = "Struktury Magazynu"/>
-			<translation id = "storage_room" 				value = "Menu ze strukturami Magazynu."/>
+			<translation id = "storage_room" 				rev="2" value = "Menu ze strukturami Magazynu."/>
 			<translation id = "training_room_headline" 		value = "Struktury Sali Ćwiczeń"/>
-			<translation id = "training_room" 				value = "Menu ze strukturami Sali Ćwiczeń."/>
+			<translation id = "training_room" 				rev="2" value = "Menu ze strukturami Sali Ćwiczeń."/>
 			<translation id = "trading_room_headline" 		value = "Struktury Faktorii"/>
-			<translation id = "trading_room" 				value = "Menu ze strukturami Faktorii."/>
+			<translation id = "trading_room" 				rev="2" value = "Menu ze strukturami Faktorii."/>
 		</namespace>
 
 		<namespace id = "spells">
@@ -417,7 +417,7 @@
 	</namespace>
 
 	<namespace id = "achievements">
-		<translation id = "first_cyclotaur" 				value = "Spuścić ze smyczy byki wojny!"/>
+		<translation id = "first_cyclotaur" 				rev="2" value = "Spuścić ze smyczy byki wojny!"/>
 		<translation id = "first_cyclotaur_description" 	value = "Stwórz Cyklotaura."/>
 
 		<translation id = "conquer_all_portals"				value = "Ku powierzchni!"/>
