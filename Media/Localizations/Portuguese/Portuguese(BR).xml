@@ -15,7 +15,7 @@
 
 				<translation id = "no_creatures" 				value = "Nenhuma Criatura"/>
 				<translation id = "game_difficulty" 			value = "Dificuldade"/>
-				<translation id = "new_creative_game" 			value = "Modo Criativo"/>
+				<translation id = "new_creative_game" 			value = "Modo Pacífico"/>
 				<translation id = "new_easy_game" 				value = "Modo Fácil"/>
 				<translation id = "new_normal_game" 			value = "Modo Normal"/>
 				<translation id = "new_hard_game" 				value = "Modo Difícil"/>
