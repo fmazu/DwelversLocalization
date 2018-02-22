@@ -76,23 +76,23 @@
 		</namespace>
 
 		<namespace id = "set_keys">
-			<translation id = "scroll_camera_forward" 			value = "Scroll Camera Forward"/>
-			<translation id = "scroll_camera_backward" 			value = "Scroll Camera Backward"/>
-			<translation id = "scroll_camera_left" 				value = "Scroll Camera Left"/>
-			<translation id = "scroll_camera_right" 			value = "Scroll Camera Right"/>
-			<translation id = "rotate_camera_left" 				value = "Rotate Camera Left"/>
-			<translation id = "rotate_camera_right" 			value = "Rotate Camera Right"/>
-			<translation id = "tilt_camera_forward" 			value = "Tilt Camera Forward"/>
-			<translation id = "tilt_camera_backward" 			value = "Tilt Camera Backward"/>
-			<translation id = "zoom_in_on_headquarters" 		value = "Focus Camera on the Dark Mother"/>
-			<translation id = "zoom_in_camera" 					value = "Zoom In Camera"/>
-			<translation id = "zoom_out_camera" 				value = "Zoom Out Camera"/>
-			<translation id = "open_radial_menu" 				value = "Open Radial Menu"/>
-			<translation id = "toggle_map_view" 				value = "Toggle Map View"/>
-			<translation id = "increase_game_speed" 			value = "Increase Game Speed"/>
-			<translation id = "decrease_game_speed" 			value = "Decrease Game Speed"/>
-			<translation id = "editor_switch_owner" 			value = "Editor Switch Owner"/>
-			<translation id = "editor_change_creature_level" 	value = "Editor Change Creature Level"/>
+			<translation id = "scroll_camera_forward" 			value = "Mover Câmera para a Frente"/>
+			<translation id = "scroll_camera_backward" 			value = "Mover Câmera para Trás"/>
+			<translation id = "scroll_camera_left" 				value = "Mover Câmera para a Esquerda"/>
+			<translation id = "scroll_camera_right" 			value = "Mover Câmera para a Direita"/>
+			<translation id = "rotate_camera_left" 				value = "Rodar a Câmera para a Esquerda"/>
+			<translation id = "rotate_camera_right" 			value = "Rodar a Câmera para a Direita"/>
+			<translation id = "tilt_camera_forward" 			value = "Inclinar Câmera para a Frente"/>
+			<translation id = "tilt_camera_backward" 			value = "Inclinar Câmera para Trás"/>
+			<translation id = "zoom_in_on_headquarters" 		value = "Focar Câmera na Matrona Sombria"/>
+			<translation id = "zoom_in_camera" 					value = "Aumentar o Zoom da Câmera"/>
+			<translation id = "zoom_out_camera" 				value = "Reduzir o Zoom da Câmera"/>
+			<translation id = "open_radial_menu" 				value = "Abrir Menu Radial"/>
+			<translation id = "toggle_map_view" 				value = "Alternar Visão do Mapa"/>
+			<translation id = "increase_game_speed" 			value = "Aumentar Velocidade do Jogo"/>
+			<translation id = "decrease_game_speed" 			value = "Reduzir Velocidade do jogo"/>
+			<translation id = "editor_switch_owner" 			value = "Mudar Dono"/>
+			<translation id = "editor_change_creature_level" 	value = "Mudar Nível das Criaturas"/>
 		</namespace>
 
 		<namespace id ="sound">
