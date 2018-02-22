@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<localization name="Polski" extension="Polish" typeface="Georgia">
+	<namespace id ="menu">
+		<namespace id ="general">
+			<namespace id ="create_game">
+				<translation id = "map_seed" 					value = "Ziarno generatora mapy:"/>
+				<translation id = "map_width" 					value = "Szerokość mapy:"/>
+				<translation id = "map_height" 					value = "Wysokość mapy:"/>
+				<translation id = "map_size_unit" 				value = "blok(i/ów)"/>
+				<translation id = "num_portals" 				value = "Liczba Portali:"/>
+				<translation id = "dark_mother_location_x" 		value = "Położenie Mrocznej Matki w osi X:"/>
+				<translation id = "dark_mother_location_y" 		value = "Położenie Mrocznej Matki w osi Y:"/>
+				<translation id = "dark_mother_location_height"		value = "Położenie Mrocznej Matki w osi Z:"/>
+
+				<translation id = "no_creatures" 				value = "Nie generuj stworów na mapie"/>
+				<translation id = "game_difficulty" 			value = "Tryb"/>
+				<translation id = "new_creative_game" 			rev="2" value = "Twórcza gra"/>
+				<translation id = "new_easy_game" 				value = "Łatwa gra"/>
+				<translation id = "new_normal_game" 			value = "Normalna gra"/>
+				<translation id = "new_hard_game" 				value = "Trudna gra"/>
+				<translation id = "new_impossible_game" 		value = "Niemożliwa gra"/>
+				<translation id = "enable_endless_flow_mode" 	value = "Narastająca siła przeciwników"/>
+				<translation id = "enable_pause" 				value = "Aktywna pauza"/>
+				<translation id = "enable_progression_mode" 	value = "Blokada postępu"/>
+				<translation id = "enable_cyclotaur_maze" 		value = "Labirynt Cyklotaurów"/>
+				<translation id = "cheating_mode_enabled" 		value = "Oszustwa"/>
+
+				<translation id = "creature_level_min" 			value = "Najniższy poziom stworów"/>
+				<translation id = "creature_level_max" 			value = "Najwyższy poziom stworów"/>
+				<translation id = "water_amount" 				value = "Liczba bloków wody:"/>
+				<translation id = "lava_amount" 				value = "Liczba bloków lawy:"/>
+				<translation id = "make_plain_level" 			value = "Stwórz całkowicie płaski teren"/>
+			</namespace>
+
+			<translation id = "leave_level" 					value = "Zakończ grę"/>
+			<translation id = "leave_level_confirm" 			value = "Tak, chcę zakończyć grę i przejść do menu głównego."/>
+			<translation id = "main_menu" 						value = "Menu główne"/>
+			<translation id = "start_game" 						value = "Rozpocznij grę"/>
+			<translation id = "resume_game" 					value = "Wznów grę"/>
+			<translation id = "quit_game" 						value = "Wyjdź z gry"/>
+			<translation id = "confirm_quit_game" 				value = "Tak, chcę wyjść z gry."/>
+		</namespace>
+
+		<namespace id ="main">
+			<translation id = "load_game_editor" 	value = "Wczytaj poziom"/>
+			<translation id = "load_game" 			value = "Wczytaj grę"/>
+			<translation id = "load_game_demo" 		value = "Wczytaj grę (niedostępne w wersji demo)"/>
+			<translation id = "save_game_editor" 	value = "Zapisz poziom"/>
+			<translation id = "save_game" 			value = "Zapisz grę"/>
+			<translation id = "save_game_demo" 		value = "Zapisz grę (niedostępne w wersji demo)"/>
+		</namespace>
+
+		<namespace id ="save_game">
+			<translation id = "create_new" 						value = "--- Stwórz nowy zapis gry ---"/>
+			<translation id = "create_new_editor" 				value = "--- Stwórz nową mapę w edytorze ---"/>
+			<translation id = "name_savegame" 					value = "Nazwij zapis gry."/>
+			<translation id = "saving_game"						value = "Zapisywanie..."/>
+			<translation id = "loading_game" 					value = "Wczytywanie..."/>
+			<translation id = "couldnt_save_game" 				value = "Gra nie może zostać zapisana!"/>
+			<translation id = "confirm_delete_save_game" 		value = "Tak, chcę usunąć ten zapis gry."/>
+			<translation id = "delete_save_game" 				value = "Usuń zapis gry"/>
+			<translation id = "confirm_load_game"	 			value = "Tak, chcę wczytać wcześniej zapisaną grę."/>
+		</namespace>
+
+		<namespace id ="editor">
+			<translation id = "title" 				value = "Edytor poziomów"/>
+			<namespace id ="new_map">
+				<translation id = "title" 			value = "Stwórz nowy poziom"/>
+				<translation id = "create_map" 		value = "Wygeneruj poziom z tymi ustawieniami"/>
+			</namespace>
+
+			<namespace id ="load_map">
+				<translation id = "title" 			value = "Wczytaj poziom"/>
+			</namespace>
+		</namespace>
+
+		<namespace id = "set_keys">
+			<translation id = "scroll_camera_forward" 			value = "Przewiń kamerę do góry"/>
+			<translation id = "scroll_camera_backward" 			value = "Przewiń kamerę w dół"/>
+			<translation id = "scroll_camera_left" 				value = "Przewiń kamerę w lewo"/>
+			<translation id = "scroll_camera_right" 			value = "Przewiń kamerę w prawo"/>
+			<translation id = "rotate_camera_left" 				value = "Obróć kamerę w lewo"/>
+			<translation id = "rotate_camera_right" 			value = "Obróć kamerę w prawo"/>
+			<translation id = "tilt_camera_forward" 			value = "Przechyl kamerę w przód"/>
+			<translation id = "tilt_camera_backward" 			value = "Przechyl kamerę w tył"/>
+			<translation id = "zoom_in_on_headquarters" 		value = "Zbliż kamerę na Mroczną Matkę"/>
+			<translation id = "zoom_in_camera" 					value = "Zbliż kamerę"/>
+			<translation id = "zoom_out_camera" 				value = "Oddal kamerę"/>
+			<translation id = "open_radial_menu" 				value = "Otwórz menu kołowe"/>
+			<translation id = "toggle_map_view" 				value = "Przełącz widok mapy"/>
+			<translation id = "increase_game_speed" 			value = "Zwiększ prędkość gry"/>
+			<translation id = "decrease_game_speed" 			value = "Zmniejsz prędkość gry"/>
+			<translation id = "editor_switch_owner" 			value = "Zmień posiadacza"/>
+			<translation id = "editor_change_creature_level" 	value = "Zmień poziom stwora"/>
+		</namespace>
+
+		<namespace id ="sound">
+			<translation id = "soundfx_enabled" 			value = "Efekty dźwiękowe"/>
+			<translation id = "soundfx_volume" 				value = "Głośność efektów dźwiękowych:"/>
+			<translation id = "soundfx_volume_unit" 		value = "%"/>
+			<translation id = "music_enabled" 				value = "Muzyka"/>
+			<translation id = "music_volume" 				value = "Głośność muzyki:"/>
+			<translation id = "music_volume_unit" 			value = "%"/>
+			<translation id = "dark_mother_enabled" 		value = "Mowa Mrocznej Matki"/>
+			<translation id = "dark_mother_volume" 			value = "Głośność mowy Mrocznej Matki:"/>
+			<translation id = "dark_mother_volume_unit" 	value = "%"/>
+		</namespace>
+
+		<namespace id ="graphics">
+			<translation id = "shadows_environment_enabled" value = "Cienie środowiska"/>
+			<translation id = "shadows_creature_enabled" 	value = "Cienie stworów"/>
+			<translation id = "viewing_distance" 			value = "Zasięg widoku:"/>
+			<translation id = "viewing_distance_unit" 		value = "blok(i/ów)"/>
+			<translation id = "fps_limit" 					value = "Limit klatek na sekundę:"/>
+			<translation id = "fps_limit_unfocused" 		value = "Limit klatek na sekundę kiedy gra działa w tle:"/>
+			<translation id = "brightness" 					value = "Jasność:"/>
+			<translation id = "brightness_unit" 			value = "%"/>
+			<translation id = "particles" 					value = "Jakość efektu cząsteczek:"/>
+			<translation id = "particles_unit" 				value = "%"/>
+		</namespace>
+
+		<namespace id ="set_keys">
+			<translation id = "key_already_assigned" 				value = "Ten klucz został już przydzielony."/>
+		</namespace>
+
+		<namespace id ="achievements">
+			<translation id = "title" 								value = "Osiągnięcia"/>
+			<translation id = "new_achievement_unlocked" 			value = "Osiągnięcie odblokowane"/>
+			<translation id = "difficulty_easy" 					value = "Stopień trudności: Łatwy"/>
+			<translation id = "difficulty_medium" 					value = "Stopień trudności: Średni"/>
+			<translation id = "difficulty_hard" 					value = "Stopień trudności: Trudny"/>
+			<translation id = "lock_all_achievements" 				value = "Usuń wszystkie osiągnięcia"/>
+			<translation id = "lock_all_achievements_confirm" 		value = "Tak, chcę usunąć wszystkie osiągnięcia."/>
+		</namespace>
+
+		<namespace id = "options">
+			<translation id = "headline" 							value = "Ustawienia"/>
+			<translation id = "graphics" 							value = "Grafika"/>
+			<translation id = "sounds" 								value = "Dźwięk"/>
+			<translation id = "controls" 							value = "Sterowanie"/>
+			<translation id = "misc" 								value = "Inne"/>
+			<translation id = "set_keys" 							value = "Skróty klawiszowe"/>
+			<translation id = "reset_keys"	 						value = "Usuń skróty"/>
+			<translation id = "enter_key" 							value = "Wpisz znak skrótu"/>
+			<translation id = "map_scroll_speed" 					value = "Czułość przewijania mapy za pomocą klawiatury:"/>
+			<translation id = "keyboard_map_rotation_speed" 		value = "Czułość obrotu mapy za pomocą klawiatury:"/>
+			<translation id = "keyboard_rotation_hand_axis" 		value = "Obrót wokół Ręki za pomocą klawiatury"/>
+			<translation id = "mouse_rotation_hand_axis" 			value = "Obrót wokół Ręki za pomocą myszy"/>
+			<translation id = "invert_mouse_x" 						value = "Odwróć działanie myszy w osi X"/>
+			<translation id = "invert_mouse_y" 						value = "Odwróć działanie myszy w osi Y"/>
+			<translation id = "screen_edge_map_scroll" 				value = "Przewijanie mapy za krawędź ekranu"/>
+			<translation id = "screen_edge_map_scroll_speed" 		value = "Czułość przewijania mapy na krawędzi ekranu"/>
+			<translation id = "lock_camera_rotation" 				value = "Zablokuj obrót kamerą"/>
+			<translation id = "possession_turn_sensitivity" 		value = "Czułość obrotu w trybie kontroli nad stworem:"/>
+			<translation id = "possession_invert_mouse_x" 			value = "Odwróć mysz w osi X w trybie kontroli nad stworem"/>
+		</namespace>
+
+
+		<namespace id ="misc">
+			<translation id = "enable_cursor_clipping" 				value = "Zablokowanie kursora w oknie (dostępne tylko w trybie okiennym)"/>
+			<translation id = "enter_menu_when_game_not_in_focus" 	value = "Gra ma przejść do menu głównego kiedy działa w tle"/>
+			<translation id = "show_full_creature_health_bars" 		value = "Pokaż pełny pasek poziomu zdrowia stworów"/>
+		</namespace>
+	</namespace>
+
+	<namespace id = "info_bar">
+		<namespace id = "creature">
+			<translation id = "enemy" 						value = "To jest stwór wroga. Brak szczegółów na jego temat."/>
+			<translation id = "health" 						value = "Zdrowie"/>
+			<translation id = "job" 						value = "Zajęcie"/>
+			<translation id = "efficiency" 					value = "Wydajność"/>
+			<translation id = "mood" 						value = "Nastrój"/>
+			<translation id = "mood_angry" 					rev="2" value = "wściekły"/>
+			<translation id = "mood_unhappy" 				rev="2" value = "zdenerwowany"/>
+			<translation id = "mood_happy" 					rev="2" value = "zadowolony"/>
+			<translation id = "mood_super_happy" 			rev="2" value = "euforyczny"/>
+			<translation id = "mood_unconscious" 			rev="2" value = "nieprzytomny"/>
+			<translation id = "mood_dead" 					rev="2" value = "wącha kwiatki od spodu"/>
+			<translation id = "mood_explain_sleepy" 		value = "Ten stwór jest śpiący. Sprawdź, czy w Sypialni jest wystarczająco dużo łóżek do spania."/>
+			<translation id = "mood_explain_hungry" 		value = "Ten stwór jest głodny. Sprawdź, czy w Barze podano wystarczająco dużo pożywienia."/>
+			<translation id = "mood_explain_thirsty" 		value = "Ten stwór jest spragniony. Sprawdź, czy w Barze podano wystarczająco dużo piwa."/>
+			<translation id = "mood_explain_unconscious" 	value = "Ten stwór jest nieprzytomny! Upewnij się, że istnieje przynajmniej jedno wolne leże, w którym stwór mógłby odzyskać siły."/>
+			<translation id = "mood_explain_dead" 			value = "Ten stwór padł na śmierć! Zabierając jego ciało do Grobowca możesz przywołać jego ducha."/>
+		 </namespace>
+
+		 <namespace id = "building">
+			<translation id = "enemy" 						value = "To jest struktura wroga. Brak szczegółów na jej temat."/>
+		 </namespace>
+
+		 <namespace id = "job">
+			<namespace id = "build">
+				<translation id = "name" 			value = "Plac budowy"/>
+				<translation id = "building" 		value = "Budowa"/>
+				<translation id = "items_delivered" value = "Wymagane przedmioty"/>
+			</namespace>
+
+			<translation id = "repairing" 			value = "naprawia"/>
+			<translation id = "guarding" 			value = "strzeże"/>
+
+			<namespace id = "drop_liquid">
+				<translation id = "name_water" 		value = "Znacznik pozyskania bloku wody"/>
+				<translation id = "name_lava" 		value = "Znacznik pozyskania bloku lawy"/>
+			</namespace>
+
+			<namespace id = "fetch_liquid">
+				<translation id = "name_water" 		value = "Pozyskaj blok z wodą"/>
+				<translation id = "name_lava" 		value = "Pozyskaj blok z lawą"/>
+			</namespace>
+
+			<namespace id = "deliver_liquid">
+				<translation id = "name_water" 		value = "Dostarczanie bloku z wodą"/>
+				<translation id = "name_lava" 		value = "Dostarczanie bloku z lawą"/>
+			</namespace>
+
+			<translation id = "walk_to_portal" 		value = "zmierza w kierunku portalu"/>
+			<translation id = "barbecuing" 			value = "piecze na ruszcie"/>
+			<translation id = "fishing" 			value = "łowi ryby"/>
+			<translation id = "going_to_bed" 		value = "idzie spać"/>
+			<translation id = "baking" 				value = "piecze"/>
+			<translation id = "brewing" 			value = "warzy piwo"/>
+			<translation id = "farming" 			value = "uprawia pole"/>
+			<translation id = "grinding" 			value = "mieli"/>
+			<translation id = "feeding" 			value = "karmi"/>
+			<translation id = "fetching_water" 		value = "pozyskuje wodę"/>
+			<translation id = "crafting" 			value = "Do wytworzenia potrzeba"/>
+			<translation id = "fleeing" 			value = "ucieka gdzie pieprz rośnie"/>
+			<translation id = "engage_battle" 		value = "bierze udział w walce"/>
+			<translation id = "extracting" 			value = "wydobywa"/>
+			<translation id = "fetching_trade_cart" value = "załadowuje wóz handlowy"/>
+			<translation id = "preparing_trade" 	value = "przygotowuje się do wymiany"/>
+			<translation id = "building" 			value = "buduje"/>
+			<translation id = "resting" 			value = "odpoczywa"/>
+			<translation id = "eating_and_drinking" value = "je lub pije"/>
+			<translation id = "training" 			value = "ćwiczy"/>
+			<translation id = "transporting_cart" 	value = "przenosi wóz"/>
+			<translation id = "returning_to_room" 	value = "wraca do komnaty"/>
+			<translation id = "reinforcing_walls" 	value = "umacnia mury"/>
+			<translation id = "idle" 				value = "obija się"/>
+			<translation id = "expanding_territory" value = "poszerza terytorium"/>
+			<translation id = "fetching_item" 		value = "przenosi przedmiot"/>
+			<translation id = "digging" 			value = "kopie"/>
+			<translation id = "imprison_enemies" 	value = "więzi wroga"/>
+			<translation id = "bury_enemies" 		value = "grzebie zmarłego"/>
+			<translation id = "open_chest" 			value = "otwiera skrzynie"/>
+			<translation id = "sewing" 				value = "szyje"/>
+			<translation id = "set_bait" 			value = "zakłada przynętę"/>
+			<translation id = "rally_flag" 			value = "zbiera się pod sztandarem"/>
+		 </namespace>
+
+		 <namespace id ="liquid">
+			<translation id = "explain" 			value = "Postaw most w tym miejscu by pozwolić stworom przejść lub pozyskaj stąd płyn."/>
+			<translation id = "fetch_not_possible" 	value = "Nie można pozyskać stąd płynu."/>
+			<translation id = "fetch_possible" 		value = "Klikając w tym miejscu możesz wydać rozkaz do pozyskania stąd płynu."/>
+		 </namespace>
+
+		 <namespace id ="minerals">
+			<translation id = "contains" 			value = "Zawiera"/>
+			<translation id = "explain" 			value = "Wykop ten blok lub zbuduj na nim kopalnię w celu pozyskania z niego surowców."/>
+		 </namespace>
+
+		 <namespace id ="trade">
+			<translation id = "preparing" 			value = "Przygotowywanie: "/>
+			<translation id = "in_progress" 		value = "Wymiana w toku: "/>
+		 </namespace>
+	</namespace>
+
+	<namespace id = "radial_menu">
+		<translation id = "build" 							value = "%s1"/>
+		<translation id = "reinforce_walls_headline" 		value = "Umocnij ściany"/>
+		<translation id = "reinforce_walls" 				value = "Umocnienie ścian utrudni wrogom prześlizgnięcie się przez nie."/>
+		<translation id = "rotate_headline" 				value = "Obróć"/>
+		<translation id = "rotate" 							value = "Przeciągnij Ręką w dowolną stronę by obrócić obiekt."/>
+		<translation id = "sell_headline" 					value = "Sprzedaj"/>
+		<translation id = "sell" 							value = "Sprzedaj obiekt, by usunąć go i odzyskać z niego część zasobów."/>
+		<translation id = "wall_constructions_headline" 	value = "Struktury naścienne"/>
+		<translation id = "wall_constructions" 				value = "Menu ze strukturami naściennymi."/>
+		<translation id = "floor_constructions_headline" 	value = "Struktury podłogowe"/>
+		<translation id = "floor_constructions" 			value = "Menu ze strukturami podłogowymi."/>
+		<translation id = "nature_objects_headline" 		value = "Obiekty naturalne"/>
+		<translation id = "nature_objects" 					value = "Menu obiektów naturalnych."/>
+		<translation id = "add_minerals_headline" 			value = "Dodaj surowce"/>
+		<translation id = "add_minerals" 					value = "Menu z surowcami, które można dodać."/>
+		<translation id = "remove_minerals_headline" 		value = "Usuń surowce"/>
+		<translation id = "remove_minerals" 				value = "Menu z surowcami, które można usunąć."/>
+		<translation id = "add_creature_headline" 			value = "Dodaj stwory"/>
+		<translation id = "add_creature" 					value = "Menu ze stworami, które można dodać."/>
+		<translation id = "remove_creature_headline" 		value = "Usuń stwory"/>
+		<translation id = "remove_creature" 				value = "Menu ze stworami, które można usunąć."/>
+		<translation id = "room_flag_headline" 				value = "Sztandar komnaty"/>
+		<translation id = "room_flag" 						value = "Pozwala ustalić miejsce na sztandar komnaty, w którym zbierane są przedmioty dostarczone z innych komnat."/>
+		<translation id = "link_rooms_headline" 			value = "Połącz komnaty"/>
+		<translation id = "link_rooms" 						value = "Przełącza ścieżki dostaw łączących komnaty."/>
+		<translation id = "activate_headline" 				value = "Włącz/Wyłącz obiekt"/>
+		<translation id = "activate" 						value = "Pozwala na ręczne włączenie lub wyłączeniu działania obiektu."/>
+
+		<namespace id = "rooms">
+			<translation id = "rooms_headline" 				value = "Komnaty"/>
+			<translation id = "rooms" 						value = "Menu komnat."/>
+			<translation id = "bar_room_headline" 			value = "Struktury Baru"/>
+			<translation id = "bar_room" 					rev="2" value = "Menu ze strukturami Baru."/>
+			<translation id = "bed_room_headline" 			value = "Struktury Sypialni"/>
+			<translation id = "bed_room" 					rev="2" value = "Menu ze strukturami Sypialni."/>
+			<translation id = "cookery_room_headline" 		value = "Struktury Kuchni"/>
+			<translation id = "cookery_room" 				rev="2" value = "Menu ze strukturami Kuchni."/>
+			<translation id = "catacombs_room_headline" 	value = "Struktury Katakumb"/>
+			<translation id = "catacombs_room" 				rev="2" value = "Menu ze strukturami Katakumb."/>
+			<translation id = "farm_room_headline" 			value = "Struktury Farmy"/>
+			<translation id = "farm_room" 					rev="2" value = "Menu ze strukturami Farmy."/>
+			<translation id = "metalworks_room_headline" 	value = "Struktury Zakładu Rzemieślniczego"/>
+			<translation id = "metalworks_room" 			rev="2" value = "Menu ze strukturami Zakładu Rzemieślniczego."/>
+			<translation id = "prison_room_headline" 		value = "Struktury Więzienia"/>
+			<translation id = "prison_room" 				rev="2" value = "Menu ze strukturami Więzienia."/>
+			<translation id = "storage_room_headline" 		value = "Struktury Magazynu"/>
+			<translation id = "storage_room" 				rev="2" value = "Menu ze strukturami Magazynu."/>
+			<translation id = "training_room_headline" 		value = "Struktury Sali Ćwiczeń"/>
+			<translation id = "training_room" 				rev="2" value = "Menu ze strukturami Sali Ćwiczeń."/>
+			<translation id = "trading_room_headline" 		value = "Struktury Faktorii"/>
+			<translation id = "trading_room" 				rev="2" value = "Menu ze strukturami Faktorii."/>
+		</namespace>
+
+		<namespace id = "spells">
+			<translation id = "spells_headline" 	value = "Zaklęcia"/>
+			<translation id = "spells" 				value = "Menu z zaklęciami."/>
+			<translation id = "possess_headline" 	value = "Opętanie"/>
+			<translation id = "possess" 			value = "Przejmuje kontrolę nad stworem."/>
+			<translation id = "reveal_headline" 	value = "Odkrycie"/>
+			<translation id = "reveal" 				value = "Tymczasowo odkrywa wcześniej nieodkryty obszar."/>
+		</namespace>
+
+		<namespace id = "liquid">
+			<translation id = "liquid_headline" 		value = "Płyny"/>
+			<translation id = "liquid" 					value = "Menu czynności związanych z płynami."/>
+			<translation id = "drop_water_headline" 	value = "Zrzuć blok wody"/>
+			<translation id = "drop_water" 				value = "Daje rozkaz do zrzucenia bloku wody w oznaczonym miejscu."/>
+			<translation id = "drop_lava_headline" 		value = "Zrzuć blok lawy"/>
+			<translation id = "drop_lava" 				value = "Daje rozkaz do zrzucenia bloku wody w oznaczonym miejscu."/>
+			<translation id = "fetch_liquid_headline" 	value = "Pozyskaj płyn"/>
+			<translation id = "fetch_liquid" 			value = "Daje rozkaz do pozyskania płynu w oznaczonym miejscu."/>
+		</namespace>
+
+		<namespace id = "road">
+			<translation id = "build_headline" 		value = "Drogi"/>
+			<translation id = "build" 				value = "Drogi umożliwiają łączenie ze sobą komnat, przejęcie komnat wroga oraz zwiększają prędkość poruszania się stworów."/>
+			<translation id = "upgrade_headline" 	value = "Ulepsz drogi"/>
+			<translation id = "upgrade" 			value = "Ulepszanie dróg zwiększa prędkość poruszania się przechodzących po nich stworów."/>
+		</namespace>
+
+		<namespace id = "menu">
+			<translation id = "creature_headline" 	value = "Dane stwora"/>
+			<translation id = "creature" 			value = "Przedstawia szczegółowe informacje na temat tego stwora."/>
+			<translation id = "room_headline" 		value = "Dane komnaty"/>
+			<translation id = "room" 				value = "Przedstawia szczegółowe informacje na temat tej komnaty."/>
+		</namespace>
+
+		<namespace id = "hydraulics">
+			<translation id = "hydraulics_headline" value = "Hydraulika"/>
+			<translation id = "hydraulics" 			value = "Menu ze strukturami hydrauliki."/>
+			<translation id = "switches_headline" 	value = "Przełączniki hydrauliczne"/>
+			<translation id = "switches" 			value = "Menu przełączników hydraulicznych."/>
+			<translation id = "traps_headline" 		value = "Pułapki hydrauliczne"/>
+			<translation id = "traps" 				value = "Menu pułapek hydraulicznych."/>
+		</namespace>
+	</namespace>
+
+	<namespace id = "editor">
+		<translation id = "creating_player_owned_objects" 	value = "Posiadacz (%s1): Gracz 1 (człowiek)"/>
+		<translation id = "creating_enemy_owned_objects" 	value = "Posiadacz (%s1): Gracz 2 (komputer)"/>
+		<translation id = "creating_creature_level" 		value = "Umieszczanie stworów z poziomem (%s1): %s2"/>
+		<translation id = "selector_location" 				value = "Współrzędne selektora: %s1;%s2;%s3"/>
+		<translation id = "camera_location" 				value = "Współrzędne kamery: %s1;%s2;%s3"/>
+	</namespace>
+
+	<namespace id = "top_bar">
+		<namespace id = "categories">
+			<translation id = "basic_items" 								value = "Surowce naturalne"/>
+			<translation id = "basic_items_description" 					value = "Lista przedmiotów występująca w środowisku naturalnym i nie wytwarzana w łańcuchu produkcyjnym."/>
+			<translation id = "advanced_items" 								value = "Półfabrykaty"/>
+			<translation id = "advanced_items_description" 					value = "Lista przedmiotów przetworzonych w procesie produkcji i mające dalsze zastosowanie w łańcuchu produkcyjnym."/>
+			<translation id = "consumable_items" 							value = "Pożywienie"/>
+			<translation id = "consumable_items_description" 				value = "Lista przedmiotów znalezionych w naturze lub przetworzonych i stanowiących pożywienie dla stworów."/>
+			<translation id = "weapon_items" 								value = "Broń"/>
+			<translation id = "weapon_items_description" 					value = "Lista przedmiotów wytworzonych w procesie produkcji i umożliwiających zadawanie obrażeń."/>
+			<translation id = "armor_items" 								value = "Uzbrojenie"/>
+			<translation id = "armor_items_description" 					value = "Lista przedmiotów wytworzonych w procesie produkcji i umożliwiających obronę przed obrażeniami."/>
+			<translation id = "trading" 									value = "Szlaki handlowe"/>
+			<translation id = "trading_description" 						value = "Lista dostępnych szlaków handlowych pozwalających na wymianę surowców na złoto lub złoto na surowce."/>
+			<translation id = "room_buildings" 								value = "Komnaty"/>
+			<translation id = "room_buildings_description" 					value = "Posiadane komnaty."/>
+			<translation id = "floor_construction_buildings" 				value = "Struktury podłogowe"/>
+			<translation id = "floor_construction_buildings_description" 	value = "Posiadane struktury podłogowe."/>
+			<translation id = "wall_construction_buildings" 				value = "Struktury naściennie"/>
+			<translation id = "wall_construction_buildings_description" 	value = "Posiadane struktury naścienne."/>
+			<translation id = "hydraulics_buildings" 						value = "Struktury hydrauliczne"/>
+			<translation id = "hydraulics_buildings_description" 			value = "Posiadane struktury hydrauliczne."/>
+			<translation id = "liquid_buildings" 							value = "Konstrukcje związane z płynami"/>
+			<translation id = "liquid_buildings_description" 				value = "Lista struktur zbudowanych na płynach."/>
+		</namespace>
+
+		<namespace id = "items">
+			<translation id = "left_click_to_zoom_in" 		value = "(LPM by przybliżyć)"/>
+			<translation id = "crafting_change_amount" 		value = "(Naciśnij klawisz +/- by wytworzyć)"/>
+			<translation id = "trading_headline" 			value = "Szlak handlowy %s1"/>
+			<translation id = "trading_description" 		value = "Na szlaku handlowym dokonuje się wymiana danego przedmiotu pomiędzy Faktorią a przejętym Portalem. Wraz z przejmowaniem kolejnych Portali odblokowywane są nowe szlaki handlowe."/>
+			<translation id = "trading_explain_buy_sell" 	value = "Naciśnij +/- by kupić/sprzedać."/>
+			<translation id = "trading_explain_zoom_in" 	value = "LPM by przybliżyć do aktywnych wymian handlowych."/>
+			<translation id = "trading_locked_headline" 	value = "Szlak zablokowany"/>
+			<translation id = "trading_locked_description" 	value = "Ten szlak jest zablokowany! Odblokuj więcej szlaków handlowych przejmując kolejne Portale na powierzchnię."/>
+			<translation id = "trading_condition_headline" 	value = "Obecny status wymiany"/>
+			<translation id = "trading_condition_sell" 		value = "Jeśli więcej niż %s2 jednostek %s1 znajduje się w magazynach, zacznij sprzedawać %s1 za złoto."/>
+			<translation id = "trading_condition_buy" 		value = "Jeśli mniej niż %s2 jednostek %s1 znajduje się w magazynach, zacznij kupować %s1 za złoto."/>
+			<translation id = "trading_condition_none" 		value = "Nie ustalono warunków wymiany dla %s1."/>
+			<translation id = "trading_current_buy_if" 		value = "Kupuj kiedy &lt; %s1"/>
+			<translation id = "trading_current_sell_if" 	value = "Sprzedaj kiedy &gt; %s1"/>
+			<translation id = "trading_current_no_if" 		value = "Brak wymiany"/>
+		</namespace>
+	</namespace>
+
+	<namespace id = "achievements">
+		<translation id = "first_cyclotaur" 				rev="2" value = "Spuścić ze smyczy byki wojny!"/>
+		<translation id = "first_cyclotaur_description" 	value = "Stwórz Cyklotaura."/>
+
+		<translation id = "conquer_all_portals"				value = "Ku powierzchni!"/>
+		<translation id = "conquer_all_portals_description" value = "Przejmij wszystkie Portale znajdujące się w lochach."/>
+
+		<translation id = "catch_first_fish" 				value = "Przynęta!"/>
+		<translation id = "catch_first_fish_description" 	value = "Złap rybę."/>
+
+		<translation id = "build_all_rooms" 				value = "Pełna widownia."/>
+		<translation id = "build_all_rooms_description" 	value = "Odblokuj i postaw wszystkie komnaty."/>
+
+		<translation id = "first_trade" 					value = "Umowa stoi!"/>
+		<translation id = "first_trade_description" 		value = "Przeprowadź wymianę handlową z inną krainą."/>
+
+		<translation id = "imp_army" 						value = "Przewaga liczebna."/>
+		<translation id = "imp_army_description" 			value = "Bądź w posiadaniu 50 Chochlików."/>
+
+		<namespace id = "learn_creature_skills">
+			<translation id = "barrel_roll" 				value = "A teraz, turlaj się!"/>
+			<translation id = "barrel_roll_description" 	value = "Awansuj Płochlika do poziomu, w którym nauczy się Turlania."/>
+
+			<translation id = "bull_rush" 					value = "Rusz głową!"/>
+			<translation id = "bull_rush_description" 		value = "Awansuj Cyklotaura do poziomu, w którym nauczy się Byczej Szarży."/>
+
+			<translation id = "butchering" 					value = "Niczym owce na rzeź."/>
+			<translation id = "butchering_description" 		value = "Awansuj Świnioka do poziomu, w którym nauczy się Zarzynania."/>
+
+			<translation id = "frog_tongue" 				value = "Nie podchodź bliżej!"/>
+			<translation id = "frog_tongue_description" 	value = "Awansuj Ryboludzia do poziomu, w którym nauczy się Żabiego Jęzora."/>
+
+			<translation id = "hurricane" 					value = "Rozkołyszę cię jak huragan!"/>
+			<translation id = "hurricane_description" 		value = "Awansuj Rycerza do poziomu, w którym nauczy się Huraganu."/>
+
+			<translation id = "skill_steal" 				value = "Teraz to należy do mnie!"/>
+			<translation id = "skill_steal_description" 	value = "Awansuj Rycerza do poziomu, w którym nauczy się Kradzieży."/>
+
+			<translation id = "stunning_block" 				value = "Tego nie dotkniesz!"/>
+			<translation id = "stunning_block_description" 	value = "Awansuj Orka do poziomu, w którym nauczy się Ogłuszającej Blokady."/>
+
+			<translation id = "teleport" 					value = "Teleportuj mnie, Scotty."/>
+			<translation id = "teleport_description" 		value = "Awansuj Chochlika do poziomu, w którym nauczy się Błyskawicznego Przeniesienia."/>
+		</namespace>
+	</namespace>
+
+	<namespace id = "rally_flag">
+		<translation id = "remove" 					value = "Kliknij, aby odwołać sztandar."/>
+		<translation id = "headline_creature_flag" 	value = "Sztandar stwora."/>
+		<translation id = "tooltip_creature_flag" 	value = "Kliknięcie LPM na tą ikonę umożliwi postawienie sztandaru stwora na mapie w celu przywołania do niego stworów tego samego gatunku. Sztandar ten ma wyższy priorytet od Sztandaru Posłuszeństwa, ale niższy od Sztandaru Szwadronu."/>
+	</namespace>
+
+	<namespace id = "creature_equipment">
+		<translation id = "right_hand" 				value = "Prawa ręka"/>
+		<translation id = "left_hand" 				value = "Lewa ręka"/>
+		<translation id = "helmet" 					value = "Hełm"/>
+		<translation id = "body_armor" 				value = "Pancerz"/>
+		<translation id = "pants" 					value = "Spodnie"/>
+		<translation id = "shoes" 					value = "Buty"/>
+		<translation id = "shield" 					value = "Tarcza"/>
+
+		<translation id = "one_hand_weapon" value = "Broń Jednoręczna"/>
+		<translation id = "two_hand_weapon" value = "Broń Dwuręczna"/>
+
+		<translation id = "cant_equip" 				value = "Nie można założyć"/>
+		<translation id = "left_hand_equip" 		value = "Załóż na lewą rękę"/>
+		<translation id = "head_equip" 				value = "Załóż na głowę"/>
+		<translation id = "body_equip" 				value = "Załóż na tors"/>
+		<translation id = "legs_equip" 				value = "Załóż na nogi"/>
+		<translation id = "feet_equip" 				value = "Załóż na stopy"/>
+		<translation id = "right_hand_equip" 		value = "Załóż na prawą rękę"/>
+	</namespace>
+
+	<namespace id = "menu_production">
+		<namespace id = "options">
+			<namespace id = "reinforce_walls">
+				<translation id = "title" 			value = "Umocnij ściany"/>
+				<translation id = "disabled" 		value = "wyłączone"/>
+				<translation id = "rooms" 			value = "obok komnat"/>
+				<translation id = "roads_and_rooms" value = "obok komnat i dróg"/>
+				<translation id = "all" 			value = "obok zajętego przez siebie terytorium"/>
+			</namespace>
+
+			<namespace id = "expand_territory">
+				<translation id = "title" 			value = "Poszerz terytorium"/>
+				<translation id = "num_blocks" 		value = "blok(i/ów)"/>
+				<translation id = "disabled" 		value = "wyłączone"/>
+			</namespace>
+		</namespace>
+
+		<namespace id = "crafting">
+			<translation id = "click_to_add_or_remove" 		value = "Kliknij poniżej, by dodać lub usunąć rozkaz do wytworzenia przedmiotu."/>
+			<translation id = "missing_forge_and_anvil"		value = "Nie wykonalne bez 'Kuźni i Kowadła'!"/>
+			<translation id = "missing_sewing_machine" 		value = "Nie wykonalne bez 'Maszyny do Szycia'!"/>
+		</namespace>
+
+		<translation id = "items_quick_choice_info" 		value = "(Kliknij na górny pasek by zmienić szybki przedmiot)"/>
+		<translation id = "items_graph_history" 			value = "Historia"/>
+	</namespace>
+
+
+	<namespace id = "creature">
+		<namespace id = "skills">
+			<translation id = "required_level" 			value = "Wymagany poziom doświadczenia: %s1"/>
+		</namespace>
+
+		<namespace id = "menu_stats">
+			<namespace id = "race">
+				<translation id = "headline" 			value = "Gatunek"/>
+				<translation id = "desc" 				value = "Gatunek, do którego przynależy ten stwór."/>
+				<translation id = "value" 				value = "Gatunek: %s1"/>
+			</namespace>
+
+			<namespace id = "level">
+				<translation id = "headline" 			value = "Poziom"/>
+				<translation id = "desc" 				value = "Obecny poziom doświadczenia stwora oraz ilość doświadczenia potrzebnego do awansu na wyższy poziom."/>
+				<translation id = "value" 				value = "Poziom: %s1"/>
+				<translation id = "experience" 			value = "Doświadczenie: %s1"/>
+			</namespace>
+
+			<namespace id = "efficiency">
+				<translation id = "headline" 			value = "Wydajność"/>
+				<translation id = "desc" 				value = "Obecny poziom wydajności. Niższa wydajność to niższe zadawane przez stwora obrażenia, jego obrona i odporność. Zaspokajanie potrzeb stwora wpływa na jego wydajność."/>
+				<translation id = "value" 				value = "Wydajność: %s1"/>
+			</namespace>
+
+			<namespace id = "damage">
+				<translation id = "headline" 			value = "Siła"/>
+				<translation id = "desc" 				value = "Ilość obrażeń jakie stwór zadaje w pojedynczym ataku oraz ile ich zadaje na sekundę. Druga wartość ta przedstawia iloczyn prędkości ataku i zadawanych obrażeń."/>
+				<translation id = "value" 				value = "Obrażenia: %s1"/>
+				<translation id = "attacks_per_second"  value = "Obrażeń na sekundę"/>
+			</namespace>
+
+			<namespace id = "defense">
+				<translation id = "headline" 			value = "Obrona"/>
+				<translation id = "desc" 				value = "Ilość obrażeń jakie stwór jest w stanie przyjąć od ataków fizycznych bez utraty zdrowia. Wyższy wskaźnik obrony pomaga stworowi przetrwać silniejsze ataki fizyczne."/>
+				<translation id = "value" 				value = "Obrona: %s1"/>
+			</namespace>
+
+			<namespace id = "resistance">
+				<translation id = "headline" 			value = "Odporność"/>
+				<translation id = "desc" 				value = "Ilość obrażeń jakie stwór jest w stanie przyjąć od ataków żywiołu bez utraty zdrowia. Wyższy wskaźnik odporności pomaga stworowi przetrwać silniejsze ataki żywiołu."/>
+				<translation id = "value" 				value = "Odporność: %s1"/>
+			</namespace>
+
+			<namespace id = "health">
+				<translation id = "headline" 			value = "Zdrowie"/>
+				<translation id = "desc" 				value = "Obecny poziom zdrowia stwora. Jeśli wartość ta spadnie do zera stwór staje się nieprzytomny. Jeśli nie trafi w porę do łóżka to umrze."/>
+				<translation id = "value" 				value = "Poziom zdrowia: %s1"/>
+			</namespace>
+
+			<namespace id = "rest">
+				<translation id = "headline" 			value = "Świeżość"/>
+				<translation id = "desc" 				value = "Czynnik decydujący o tym jak bardzo stwór jest wypoczęty. Spadek tej wartości obniża wydajność stwora, a jeśli jego wartość tego wskaźnika spadnie wystarczająco dużo to stwór zacznie się denerwować."/>
+				<translation id = "value" 				value = "Świeżość: %s1"/>
+			</namespace>
+
+			<namespace id = "food">
+				<translation id = "headline" 			value = "Zaspokojenie głodu"/>
+				<translation id = "desc" 				value = "Czynnik decydujący o tym jak bardzo stwór jest najedzony. Głód obniża wydajność stwora, a jeśli jego wartość tego wskaźnika spadnie wystarczająco dużo to stwór zacznie się denerwować. Karmienie stwora jego ulubioną strawą sprawia natomiast, że jego wydajność znacznie się zwiększa."/>
+				<translation id = "favorite_none" 		value = "Ten stwór nie posiada swojej ulubionej potrawy."/>
+				<translation id = "favorite" 			value = "Przysmak"/>
+				<translation id = "value" 				value = "Zaspokojenie głodu: %s1"/>
+			</namespace>
+
+			<namespace id = "drink">
+				<translation id = "headline" 			value = "Zaspokojenie pragnienia"/>
+				<translation id = "desc" 				value = "Czynnik decydujący o tym jak bardzo stwór jest... pijany. Suchość w gardle obniża wydajność stwora, ostatecznie prowadząc do zbuntowania się go przeciwko tobie."/>
+				<translation id = "value" 				value = "Zaspokojenie pragnienia: %s1"/>
+			</namespace>
+
+			<namespace id = "doing">
+				<translation id = "headline" 			value = "Zajęcie"/>
+				<translation id = "desc" 				value = "Aktualne zajęcie stwora."/>
+				<translation id = "value" 				value = "Zajęcie: %s1"/>
+			</namespace>
+		</namespace>
+	</namespace>
+
+	<namespace id = "skills">
+		<translation id = "passive_skill_desc" 		value = "Umiejętność bierna"/>
+		<translation id = "active_skill_desc" 		value = "Umiejętność aktywna"/>
+		<translation id = "cooldown_time_desc" 		value = "Czas odnowienia: %.2f s"/>
+	</namespace>
+
+	<namespace id = "menuTab">
+		<namespace id = "items">
+			<translation id = "headline" 	value = "Przedmioty"/>
+			<translation id = "crafting" 	value = "Wytwarzanie"/>
+			<translation id = "options" 	value = "Ustawienia"/>
+		</namespace>
+
+		<namespace id = "skills">
+			<translation id = "headline" 	value = "Umiejętności"/>
+			<translation id = "passive" 	value = "Umiejętności bierne"/>
+			<translation id = "active" 		value = "Umiejętności aktywne"/>
+		</namespace>
+
+		<translation id = "character" 		value = "Postać"/>
+		<translation id = "task_order" 		value = "Zadania"/>
+		<translation id = "squads" 			value = "Szwadrony"/>
+		<translation id = "history" 		value = "Historia"/>
+		<translation id = "equipment" 		value = "Wyposażenie"/>
+		<translation id = "auto_equip" 		value = "Auto-zakładanie"/>
+	</namespace>
+
+	<namespace id = "messages">
+		<namespace id = "demo">
+			<translation id = "message_1" 						value = "Czas gry w wersję demo dobiegł końca."/>
+			<translation id = "message_2" 						value = "Mamy nadzieję, że gra Ci się spodobała i zachęcamy do wypróbowania pełnej wersji."/>
+			<translation id = "message_3" 						value = "Jeśli chciałbyś wesprzeć proces tworzenia gry lub zagrać"/>
+			<translation id = "message_4" 						value = "w nią w jej pełnym wydaniu odwiedź nas na www.dwelvers.com"/>
+			<translation id = "message_5" 						value = "w celu jej zamówienia."/>
+			<translation id = "message_6" 						value = "Dwelvers jest grą, którą staramy się aktualizować na bieżąco. Zamawiając grę otrzymasz dostęp"/>
+			<translation id = "message_7" 						value = "do przyszłych aktualizacji i wspomożesz nas w stworzeniu gry takiej na jaką każdy gracz zasługuje!"/>
+			<translation id = "demo_timer" 						value = "Pozostały czas gry w wersji demo"/>
+		</namespace>
+
+		<namespace id = "game">
+			<namespace id = "general">
+				<translation id = "game_speed_increased" 			value = "Przyśpieszono grę do x%s1"/>
+				<translation id = "game_speed_decreased" 			value = "Zwolniono grę do x%s1"/>
+			</namespace>
+			<namespace id = "room">
+				<translation id = "no_space_for_room_flag" 			value = "Brak miejsca na sztandar"/>
+			</namespace>
+			<namespace id = "item">
+				<translation id = "new_item_available" 				value = "%s1 dostępny"/>
+			</namespace>
+			<namespace id = "creature">
+				<translation id = "attacked" 						value = "Zaatakowano twoje stwory!"/>
+				<translation id = "spawned" 						value = "%s1 przyszedł na świat."/>
+				<translation id = "hungry" 							value = "Stwór jest głodny!"/>
+				<translation id = "thirsty" 						value = "Stwór jest spragniony!"/>
+				<translation id = "tired" 							value = "Stwór jest zmęczony!"/>
+				<translation id = "level_up"						value = "%s1 osiągnął poziom %s2."/>
+			</namespace>
+			<namespace id = "building">
+				<translation id = "attacked" 						value = "Struktura jest atakowana!"/>
+				<translation id = "slow_production"					value = "Spadek wydajności"/>
+				<translation id = "blocked" 						value = "Brakuje przejścia do obiektu."/>
+				<translation id = "no_path_to_portal"				value = "Brakuje przejścia do Portalu."/>
+				<translation id = "cave_in" 						value = "Zapadła się ziemia!"/>
+			</namespace>
+			<translation id = "mission_complete" 				value = "Misja ukończona..."/>
+			<translation id = "mission_failed" 					value = "Misja nie powiodła się..."/>
+			<translation id = "defeat_enemies" 					value = "Rzuciłeś na kolana wszystkich swoich wrogów!"/>
+			<translation id = "dark_mother_killed" 				value = "Mroczna Matka została zabita!"/>
+			<translation id = "creation_boost_increased" 		value = "Zwiększono prędkość tworzenia się stworów."/>
+			<translation id = "screenshot_saved" 				value = "Zapisano zrzut ekranu do:"/>
+			<translation id = "room_doesnt_need_workers" 		value = "Ta komnata nie potrzebuje robotników."/>
+			<translation id = "area_unexplored" 				value = "Ten obszar nie został jeszcze odkryty. Brak szczegółów na jego temat."/>
+			<translation id = "click_to_feed_dark_mother" 		value = "Kliknij na stwora by nakarmić nim Mroczną Matkę:"/>
+			<translation id = "click_swap_quickicon" 			value = "Kliknij na szybką ikonę by przestawić."/>
+			<translation id = "trigger_cave-in" 				value = "Ujawniło się zapadlisko!"/>
+		</namespace>
+	</namespace>
+
+
+	<namespace id = "credits">
+		<translation id = "lead_programmer_and_game_designer" 	value = "Główny Programista i Projektant Gry"/>
+		<translation id = "presents" 							value = "Przedstawia"/>
+		<translation id = "co-executive_producers" 				value = "Współtwórcy Gry"/>
+		<translation id = "game_and_graphics_designer" 			value = "Projektant Gry i Grafiki"/>
+		<translation id = "creatures_3D_artist" 				value = "Projektant Stworzeń w 3D"/>
+		<translation id = "music" 								value = "Muzyka"/>
+		<translation id = "contributor" 						value = "Projekt Wspomogli"/>
+		<translation id = "special_thanks" 						value = "Specjalne Podziękowania"/>
+		<translation id = "lead_voice_actor" 					value = "Główny Aktor Głosowy"/>
+	</namespace>
+
+	<namespace id = "ui">
+		<namespace id ="status">
+			<translation id = "dark_mother_health_headline"			value = "Zdrowie Mrocznej Matki"/>
+			<translation id = "dark_mother_health_desc"				value = "Poziom zdrowia Mrocznej Matki. Jeśli wskaźnik jej zdrowia spadnie do zera wtedy gra zakończy się porażką."/>
+			<translation id = "dark_mother_health_status"			value = "Zdrowie: %s1%"/>
+			<translation id = "evil_meter_headline" 				value = "Miernik Zła"/>
+			<translation id = "evil_meter_desc" 					value = "Im więcej zniszczysz struktur na powierzchni tym wyższa wartość prezencji zła zostanie odnotowana na Mierniku Zła. Im jest ona wyższa, tym bardziej agresywni staną się mieszkańcy powierzchni wobec ciebie, ale też więcej doświadczenia mogą pozyskać twoje stwory walcząc z nimi."/>
+			<translation id = "evil_meter_status" 					value = "Siła: %s1%"/>
+			<translation id = "evil_meter_human_aggression"			value = "Agresja ludzi: %s1%"/>
+			<translation id = "evil_meter_experience_multiplier"	value = "Mnożnik doświadczenia: %s1%"/>
+
+			<translation id = "creature_health_headline"			value = "Zdrowie stworów"/>
+			<translation id = "creature_health_desc"				value = "Przedstawia średnią wartość zdrowia wszystkich twoich stworów."/>
+			<translation id = "creature_health_status"				value = "Średni poziom zdrowia: %s1%"/>
+
+			<translation id = "creature_needs_headline"				value = "Potrzeby stworów"/>
+			<translation id = "creature_needs_desc"					value = "Przedstawia średni nastrój wszystkich twoich stworów zależący od poziomu zaspokojenia potrzeb wszystkich stworów."/>
+			<translation id = "creature_needs_status"				value = "Średni nastrój: %s1%"/>
+			<translation id = "creature_needs_status_food"			value = "Średni poziom zaspokojenia głodu: %s1%"/>
+			<translation id = "creature_needs_status_drink"			value = "Średni poziom zaspokojenia pragnienia: %s1%"/>
+			<translation id = "creature_needs_status_sleep"			value = "Średni poziom świeżości: %s1%"/>
+
+			<translation id = "storage_headline"					value = "Dostępne wolne miejsce w Magazynie"/>
+			<translation id = "storage_desc"						value = "Wskazuje jak dużo miejsca wolnego zostało w Magazynie."/>
+			<translation id = "storage_status"						value = "Dostępne: %s1%"/>
+
+			<translation id = "productivity_headline"				value = "Wydajność lochu"/>
+			<translation id = "productivity_desc"					value = "Wskazuje na ile wydajnie pracuje twój loch."/>
+			<translation id = "productivity_status"					value = "Średni poziom wydajności lochu: %s1%"/>
+		</namespace>
+		<namespace id ="buttons">
+			<translation id = "creature_menu"						value = "Menu stworów"/>
+		</namespace>
+		<namespace id ="wave_timer">
+			<translation id = "wave_next"							value = "Najbliższa fala wrogów: %s1"/>
+			<translation id = "wave_desc"							value = "Czas pozostały do pojawienia się najbliższej fali wrogich oddziałów."/>
+			<translation id = "wave_next_time"						value = "Pozostało: %s1:%s2"/>
+		</namespace>
+		<namespace id ="creature_icon">
+			<translation id = "idle_headline"				value = "Bezczynne stwory"/>
+			<translation id = "idle_desc"					value = "Przedstawia ilość stworów, które są bezczynne."/>
+			<translation id = "idle_status"					value = "Nic nie robi: %s1"/>
+
+			<translation id = "resting_headline"			value = "Odpoczywające stwory"/>
+			<translation id = "resting_desc"				value = "Przedstawia ilość stworów, które odpoczywają."/>
+			<translation id = "resting_status"				value = "Odpoczywa: %s1"/>
+
+			<translation id = "working_headline"			value = "Pracujące stwory"/>
+			<translation id = "working_desc"				value = "Przedstawia ilość stworów, które pracują."/>
+			<translation id = "working_status"				value = "Pracuje: %s1"/>
+
+			<translation id = "fighting_headline"			value = "Walczące stwory"/>
+			<translation id = "fighting_desc"				value = "Przedstawia ilość stworów, które biorą udział w walce."/>
+			<translation id = "fighting_status"				value = "Walczy: %s1"/>
+
+			<translation id = "unconscious_headline"		value = "Nieprzytomne stwory"/>
+			<translation id = "unconscious_desc"			value = "Przedstawia ilość stworów, które są nieprzytomne."/>
+			<translation id = "unconscious_status"			value = "Nieprzytomnych: %s1"/>
+
+			<translation id = "angry_headline"				value = "Wściekłe stwory"/>
+			<translation id = "angry_desc"					value = "Przedstawia ilość stworów, które są wściekłe."/>
+			<translation id = "angry_status"				value = "Wściekłych: %s1"/>
+
+			<translation id = "unhappy_headline"			value = "Niezadowolone stwory"/>
+			<translation id = "unhappy_desc"				value = "Przedstawia ilość stworów, które są niezadowolone."/>
+			<translation id = "unhappy_status"				value = "Niezadowolonych: %s1"/>
+
+			<translation id = "happy_headline"				value = "Zadowolone stwory"/>
+			<translation id = "happy_desc"					value = "Przedstawia ilość stworów, które są zadowolone."/>
+			<translation id = "happy_status"				value = "Zadowolonych: %s1"/>
+
+			<translation id = "spawning_headline"									value = "Postęp narodzin"/>
+			<translation id = "spawning_desc"										value = "Pasek ten wskazuje jakie wymagania muszą być spełnione do narodzin nowego stwora."/>
+			<translation id = "spawning_status_items_produced"						value = "Pozyskano %s1 do tej pory w ilości %s2/%s3"/>
+			<translation id = "spawning_status_items_produced_in_room"				value = "Wytworzono w %s1  do tej pory %s2/%s3 przedmiotów"/>
+			<translation id = "spawning_status_items_transported"					value = "Przeniesiono do tej pory %s1/%s2 przedmiotów"/>
+			<translation id = "spawning_status_items_consumed"						value = "Skonsumowano %s1/%s2 sztuk jedzenia"/>
+			<translation id = "spawning_status_enemies_killed"						value = "Zabito do tej pory %s1/%s2 przeciwników"/>
+
+			<translation id = "left_click_to_zoom_in" 		value = "(LPM by przybliżyć)"/>
+		</namespace>
+		<namespace id = "rally_flag">
+			<translation id = "standard_rally_flag" 		value = "Sztandar Przywołania"/>
+			<translation id = "standard_rally_flag_desc" 		value = "Postaw sztandar w miejscu, do którego chcesz aby udały się wszystkie twoje stwory"/>
+
+			<translation id = "creature_rally_flag" 		value = "Sztandar %s1"/>
+			<translation id = "creature_rally_flag_desc"	value = "Postaw sztandar w miejscu, do którego chcesz aby udały się wszystkie stwory tego gatunku."/>
+
+			<translation id = "squad_rally_flag" 			value = "Sztandar Szwadronu %s1"/>
+			<translation id = "squad_rally_flag_desc"		value = "Postaw sztandar w miejscu, do którego chcesz aby udały się wszystkie stwory należące do tego szwadronu."/>
+
+			<translation id = "left_click_to_rally" 		value = "(LPM by postawić)"/>
+			<translation id = "right_click_to_cancel" 		value = "(PPM by usunąć)"/>
+		</namespace>
+		<translation id = "storage" 							value = "Magazyn"/>
+		<translation id = "production" 							value = "Produkcja"/>
+		<translation id = "feeding_queue" 						value = "Stwory w kolejce do nakarmienia"/>
+		<translation id = "item_prio" 							value = "Priorytet"/>
+		<translation id = "auto" 								value = "Auto"/>
+		<translation id = "manual" 								value = "Ręcznie"/>
+		<translation id = "cost" 								value = "Koszt:"/>
+		<translation id = "true" 								value = "Tak"/>
+		<translation id = "false" 								value = "Nie"/>
+		<translation id = "objectives" 							value = "Zadania"/>
+		<translation id = "no_objectives" 						value = "Brak aktywnych zadań."/>
+		<translation id = "battles" 							value = "Bitwy"/>
+		<translation id = "productions" 						value = "Produkcje"/>
+		<translation id = "damage" 								value = "Siła: %s1"/>
+		<translation id = "attacks_per_second" 					value = "Obrażeń na sekundę: %s1"/>
+		<translation id = "defense" 							value = "Obrona: %s1"/>
+		<translation id = "resistance" 							value = "Odporność: %1"/>
+		<translation id = "health" 								value = "Zdrowie: %1"/>
+		<translation id = "timeShort-m-" 						value = "min"/>
+		<translation id = "time" 								value = "Czas"/>
+		<translation id = "creatures" 							value = "Stwory"/>
+		<translation id = "items" 								value = "Przedmioty"/>
+		<translation id = "substitutes" 						value = "Zamienniki"/>
+		<translation id = "workers" 							value = "Pracuje"/>
+		<translation id = "available" 							value = "Dostępnych"/>
+		<translation id = "miscellaneous" 						value = "Różne"/>
+		<translation id = "hydraulics" 							value = "Hydrauliczne"/>
+		<translation id = "consumable" 							value = "Jadalne"/>
+		<translation id = "units" 								value = "jednostek"/>
+		<translation id = "workload" 							value = "Obciążenie pracą:"/>
+		<translation id = "preparing" 							value = "(Przygotowywanie)"/>
+		<translation id = "in_progress" 						value = "(W toku)"/>
+		<translation id = "attracts" 							value = "Przyciąga"/>
+		<translation id = "selector_location" 					value = "Współrzędne selektora"/>
+		<translation id = "feed_enemies_to_dark_mother" 		value = "Nakarm stworami Mroczną Matkę."/>
+		<translation id = "block_chance" 						value = "Szansa na blok"/>
+		<translation id = "OK" 									value = "OK"/>
+	</namespace>
+
+	<namespace id = "evil_meter">
+		<translation id = "next_wave_endless_flow" 	value = "Pozostało do następnej fali (%d):"/>
+		<translation id = "next_wave_limited_flow" 	value = "Pozostało do następnej fali (%d / %d):"/>
+	</namespace>
+
+	<namespace id = "loading">
+		<translation id = "game_textures" 						value = "Wczytywanie tekstur..."/>
+		<translation id = "sound_manager" 						value = "Wczytywanie menadżera dźwięku..."/>
+		<translation id = "drawables" 							value = "Wczytywanie narzędzi..."/>
+		<translation id = "plain_models" 						value = "Wczytywanie płaskich modeli..."/>
+		<translation id = "lockhandler" 						value = "Wczytywanie obsługi blokad..."/>
+		<translation id = "deferred_models" 					value = "Wczytywanie modeli opóźnień	..."/>
+		<translation id = "skinned_models" 						value = "Wczytywanie modeli skórek..."/>
+		<translation id = "particle_manager" 					value = "Wczytywanie menadżera cząsteczek..."/>
+		<translation id = "dungeon_noise" 						value = "Wczytywanie odgłosów lochu..."/>
+		<translation id = "game_title_texture" 					value = "Wczytywanie tekstur bloków..."/>
+		<translation id = "items" 								value = "Wczytywanie przedmiotów..."/>
+		<translation id = "players" 							value = "Wczytywanie graczy..."/>
+		<translation id = "game_buildings" 						value = "Wczytywanie struktur..."/>
+		<translation id = "static_rendering" 					value = "Wczytywanie renderingu statycznego poziomów..."/>
+		<translation id = "hydraulics" 							value = "Wczytywanie hydrauliki..."/>
+		<translation id = "add-on_buildings" 					value = "Wczytywanie dodatków..."/>
+		<translation id = "minerals" 							value = "Wczytywanie minerałów..."/>
+		<translation id = "liquids" 							value = "Wczytywanie płynów..."/>
+		<translation id = "delivery_services" 					value = "Wczytywanie obsługi dostaw..."/>
+		<translation id = "projectiles" 						value = "Wczytywanie pocisków..."/>
+		<translation id = "jobs" 								value = "Wczytywanie zajęć..."/>
+		<translation id = "creatures" 							value = "Wczytywanie stworów..."/>
+		<translation id = "critters" 							value = "Wczytywanie dzikich stworzeń..."/>
+		<translation id = "creature_skills" 					value = "Wczytywanie umiejętności stworów..."/>
+		<translation id = "level_data" 							value = "Wczytywanie danych poziomu..."/>
+		<translation id = "carts" 								value = "Wczytywanie wozów handlowych..."/>
+		<translation id = "rooms" 								value = "Wczytywanie komnat..."/>
+		<translation id = "flags" 								value = "Wczytywanie flag..."/>
+		<translation id = "atlas_textures" 						value = "Wczytywanie mapowania tekstur..."/>
+		<translation id = "achievements" 						value = "Wczytywanie osiągnięć..."/>
+		<translation id = "misc" 								value = "Wczytywanie pozostałych..."/>
+		<translation id = "menu_system" 						value = "Wczytywanie systemu menu..."/>
+		<translation id = "ui" 									value = "Wczytywanie interfejsu użytkownika"/>
+		<translation id = "creating_game" 						value = "Tworzenie nowego świata..."/>
+		<translation id = "initializing" 						value = "Rozpoczynanie..."/>
+		<translation id = "precalculate_font_data" 				value = "Obliczanie danych czcionek (jednorazowo)"/>
+	</namespace>
+
+	<namespace id = "mouse">
+		<translation id = "LEFT_MOUSE_BUTTON" 					value = "LEWY PRZYCISK MYSZY"/>
+		<translation id = "RIGHT_MOUSE_BUTTON" 					value = "PRAWY PRZYCISK MYSZY"/>
+		<translation id = "MIDDLE_MOUSE_BUTTON" 				value = "ŚRODKOWY PRZYCISK MYSZY"/>
+	</namespace>
+
+	<namespace id = "keys">
+		<translation id = "CONTROL_BREAK" 						value = "CTRL+BREAK"/>
+		<translation id = "BACKSPACE" 							value = "BACKSPACE"/>
+		<translation id = "TAB" 								value = "TAB"/>
+		<translation id = "CLEAR" 								value = "CLEAR"/>
+		<translation id = "ENTER" 								value = "ENTER"/>
+		<translation id = "SHIFT" 								value = "SHIFT"/>
+		<translation id = "CTRL" 								value = "CTRL"/>
+		<translation id = "ALT" 								value = "ALT"/>
+		<translation id = "PAUSE" 								value = "PAUSE"/>
+		<translation id = "CAPS_LOCK" 							value = "CAPS LOCK"/>
+		<translation id = "ESC" 								value = "ESC"/>
+		<translation id = "SPACEBAR" 							value = "SPACJA"/>
+		<translation id = "PAGE_UP" 							value = "PAGE UP"/>
+		<translation id = "PAGE_DOWN" 							value = "PAGE DOWN"/>
+		<translation id = "END" 								value = "END"/>
+		<translation id = "HOME" 								value = "HOME"/>
+		<translation id = "LEFT_ARROW" 							value = "STRZAŁKA W DÓŁ"/>
+		<translation id = "UP_ARROW" 							value = "STRZAŁKA W GÓRĘ"/>
+		<translation id = "RIGHT_ARROW" 						value = "STRZAŁKA W PRAWO"/>
+		<translation id = "DOWN_ARROW" 							value = "STRZAŁKA W LEWO"/>
+		<translation id = "SELECT" 								value = "ZAZNACZ"/>
+		<translation id = "PRINT" 								value = "DRUKUJ"/>
+		<translation id = "EXECUTE" 							value = "ENTER"/>
+		<translation id = "PRINT_SCREEN" 						value = "PRINT SCREEN"/>
+		<translation id = "INS" 								value = "INS"/>
+		<translation id = "DEL" 								value = "DEL"/>
+		<translation id = "HELP" 								value = "POMOC"/>
+		<translation id = "0" 									value = "0"/>
+		<translation id = "1" 									value = "1"/>
+		<translation id = "2" 									value = "2"/>
+		<translation id = "3" 									value = "3"/>
+		<translation id = "4" 									value = "4"/>
+		<translation id = "5" 									value = "5"/>
+		<translation id = "6" 									value = "6"/>
+		<translation id = "7" 									value = "7"/>
+		<translation id = "8" 									value = "8"/>
+		<translation id = "9" 									value = "9"/>
+		<translation id = "A" 									value = "A"/>
+		<translation id = "B" 									value = "B"/>
+		<translation id = "C" 									value = "C"/>
+		<translation id = "D" 									value = "D"/>
+		<translation id = "E" 									value = "E"/>
+		<translation id = "F" 									value = "F"/>
+		<translation id = "G" 									value = "G"/>
+		<translation id = "H" 									value = "H"/>
+		<translation id = "I" 									value = "I"/>
+		<translation id = "J" 									value = "J"/>
+		<translation id = "K" 									value = "K"/>
+		<translation id = "L" 									value = "L"/>
+		<translation id = "M" 									value = "M"/>
+		<translation id = "N" 									value = "N"/>
+		<translation id = "O" 									value = "O"/>
+		<translation id = "P" 									value = "P"/>
+		<translation id = "Q" 									value = "Q"/>
+		<translation id = "R" 									value = "R"/>
+		<translation id = "S" 									value = "S"/>
+		<translation id = "T" 									value = "T"/>
+		<translation id = "U" 									value = "U"/>
+		<translation id = "V" 									value = "V"/>
+		<translation id = "W" 									value = "W"/>
+		<translation id = "X" 									value = "X"/>
+		<translation id = "Y" 									value = "Y"/>
+		<translation id = "Z" 									value = "Z"/>
+		<translation id = "+" 									value = "+"/>
+		<translation id = "-" 									value = "-"/>
+		<translation id = "," 									value = ","/>
+		<translation id = "/" 									value = "/"/>
+		<translation id = "NUMPAD_0" 							value = "NUMPAD 0"/>
+		<translation id = "NUMPAD_1" 							value = "NUMPAD 1"/>
+		<translation id = "NUMPAD_2" 							value = "NUMPAD 2"/>
+		<translation id = "NUMPAD_3" 							value = "NUMPAD 3"/>
+		<translation id = "NUMPAD_4" 							value = "NUMPAD 4"/>
+		<translation id = "NUMPAD_5" 							value = "NUMPAD 5"/>
+		<translation id = "NUMPAD_6" 							value = "NUMPAD 6"/>
+		<translation id = "NUMPAD_7" 							value = "NUMPAD 7"/>
+		<translation id = "NUMPAD_8" 							value = "NUMPAD 8"/>
+		<translation id = "NUMPAD_9" 							value = "NUMPAD 9"/>
+		<translation id = "SEPARATOR" 							value = "SEPARATOR"/>
+		<translation id = "F1" 									value = "F1"/>
+		<translation id = "F2" 									value = "F2"/>
+		<translation id = "F3" 									value = "F3"/>
+		<translation id = "F4" 									value = "F4"/>
+		<translation id = "F5" 									value = "F5"/>
+		<translation id = "F6" 									value = "F6"/>
+		<translation id = "F7" 									value = "F7"/>
+		<translation id = "F8" 									value = "F8"/>
+		<translation id = "F9" 									value = "F9"/>
+		<translation id = "F10" 								value = "F10"/>
+		<translation id = "F11" 								value = "F11"/>
+		<translation id = "F12" 								value = "F12"/>
+		<translation id = "NUM_LOCK" 							value = "NUM LOCK"/>
+		<translation id = "SCROLL_LOCK" 						value = "SCROLL LOCK"/>
+		<translation id = "LEFT_SHIFT" 							value = "LEWY SHIFT"/>
+		<translation id = "RIGHT_SHIFT" 						value = "PRAWY SHIFT"/>
+		<translation id = "LEFT_CONTROL" 						value = "LEWY CTRL"/>
+		<translation id = "RIGHT_CONTROL" 						value = "PRAWY CTRL"/>
+	</namespace>
+
+	<namespace id = "menu_task_history">
+		<translation id = "final_task_message" 					value = "Wiadomość dla ostatniego zadania"/>
+		<translation id = "job_ID" 								value = "ID zajęcia"/>
+		<translation id = "description_msg_translated" 			value = "Tłumaczenie wiadomości"/>
+	</namespace>
+
+	<namespace id = "task_order">
+		<translation id = "status_task_order" 					value = "Poziom priorytetu zadania #"/>
+		<translation id = "headline_working_in_room" 			value = "Praca w komnatach"/>
+		<translation id = "desc_working_in_room" 				value = "Priorytet przydzielania stwora do pracy w komnatach. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_training" 					value = "Ćwiczenia"/>
+		<translation id = "desc_training" 						value = "Priorytet stworów do robienia ćwiczeń. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_sleeping" 					value = "Spanie"/>
+		<translation id = "desc_sleeping" 						value = "Priorytet stworów do spania. Stworom zachciewa się spać za każdym razem gdy są zmęczone. Uwaga przestawienie tego priorytetu na wyższy poziom może uniemożliwić stworowi spanie czyniąc go nieszczęśliwym. Nie zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_dig" 						value = "Kopanie"/>
+		<translation id = "desc_dig" 							value = "Priorytet stworów do kopania. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_building" 					value = "Konstruowanie"/>
+		<translation id = "desc_building" 						value = "Priorytet stworów do konstruowania i przenoszenia przedmiotów w komnatach. Zależy od ilości stworów, które obecnie coś konstruują."/>
+		<translation id = "headline_claiming_paths" 			value = "Przejmowanie terytorium"/>
+		<translation id = "desc_claiming_paths" 				value = "Priorytet stworów do przejmowania obcego terytorium. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_store_items" 				value = "Składowanie przedmiotów"/>
+		<translation id = "desc_store_items" 					value = "Priorytet stworów do składowania przedmiotów znajdujących się poza komnatami. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_fetch_water_from_wells" 	value = "Pozyskiwanie wody ze Studni"/>
+		<translation id = "desc_fetch_water_from_wells" 		value = "Priorytet stworów do pozyskiwania wody ze Studni. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_fishing" 					value = "Łowienie ryb"/>
+		<translation id = "desc_fishing" 						value = "Priorytet stworów do łowienia ryb. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_transport_wounded" 			value = "Ratowanie rannych"/>
+		<translation id = "desc_transport_wounded" 				value = "Priorytet stworów do ratowania rannych towarzyszy broni. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_imprison_enemies" 			value = "Osadzanie wrogów w Więzieniu"/>
+		<translation id = "desc_imprison_enemies" 				value = "Priorytet stworów do osadzania wrogów w Więzieniu. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_feed_to_dark_mother" 		value = "Karmienie wrogami Mrocznej Matki"/>
+		<translation id = "desc_feed_to_dark_mother" 			value = "Priorytet stworów do karmienia wrogami Mrocznej Matki. Nie zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_eat_and_drink" 				value = "Jedzenie i picie"/>
+		<translation id = "desc_eat_and_drink" 					value = "Priorytet stworów do jedzenia i picia. Stwór zawsze będzie chciał jeść lub pić gdy będzie głodny lub spragniony. Uwaga przestawienie tego priorytetu na wyższy poziom może uniemożliwić stworowi jedzenie i picie czyniąc go nieszczęśliwym. Nie zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_maintain_traps" 			value = "Utrzymywanie zdatności pułapek"/>
+		<translation id = "desc_maintain_traps" 				value = "Priorytet stworów do utrzymywania właściwego stanu pułapek. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_equipping" 					value = "Wyposażanie się"/>
+		<translation id = "desc_equipping" 						value = "Priorytet stworów do wyposażania się w obecnie przydzieloną broń i pancerz. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_undefined" 					value = "Wykonywanie pozostałych zadań"/>
+		<translation id = "desc_undefined" 						value = "Priorytet stworów do wykonywania pozostałych zadań, których nie ma na liście. Opcja zastępcza i wyłączna we Wczesnym Dostępie gry."/>
+		<translation id = "headline_claim_walls" 				value = "Umacnianie ścian"/>
+		<translation id = "desc_claim_walls" 					value = "Priorytet stworów do umacniania ścian. Zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+		<translation id = "headline_rally_flag" 				value = "Zbiórka pod sztandarem"/>
+		<translation id = "desc_rally_flag" 					value = "Priorytet stworów do zbiórki pod sztandarem. Nie zależy od ilości obecnie zaangażowanych stworów w wykonywaniu tego zadania."/>
+	</namespace>
+
+	<namespace id = "game_messages">
+		<translation id = "iron_smelter_no_production_headline"		value = "Huta Żelaza - spadek wydajności"/>
+		<translation id = "iron_smelter_no_production"				value = "Nastąpił spadek wydajności produkcji sztabek stali. Dostarcz więcej drewna i/lub węgla, by zwiększyć wydajność ich produkcji."/>
+		<translation id = "mill_no_production_headline"				value = "Młyn - spadek wydajności"/>
+		<translation id = "mill_no_production"						value = "Nastąpił spadek wydajności produkcji mąki. Dostarcz więcej mrówkorzeni, by zwiększyć wydajność jej produkcji."/>
+		<translation id = "farm_land_no_production_headline"		value = "Pole Mrówkorzeni - spadek wydajności"/>
+		<translation id = "farm_land_no_production"					value = "Nastąpił spadek wydajności produkcji mrówkorzeni. Dostarcz więcej wody ze studni, by zwiększyć wydajność ich produkcji."/>
+		<translation id = "bewing_vat_no_production_headline"		value = "Warzelnia - spadek wydajności"/>
+		<translation id = "bewing_vat_no_production"				value = "Nastąpił spadek wydajności produkcji piwa. Dostarcz więcej wody i/lub mrówkorzeni, by zwiększyć wydajność jego produkcji."/>
+		<translation id = "baking_table_no_production_headline"		value = "Stół Piekarski - spadek wydajności"/>
+		<translation id = "baking_table_no_production"				value = "Nastąpił spadek wydajności produkcji chleba. Dostarcz więcej drewna i/lub mąki, by zwiększyć wydajność jego produkcji."/>
+		<translation id = "barbeque_no_production_headline"		value = "Ruszt - spadek wydajności"/>
+		<translation id = "barbeque_no_production"				value = "Nastąpił spadek wydajności produkcji jedzenia z rusztu. Dostarcz więcej drewna, myszy i/lub ryb, by zwiększyć wydajność produkcji jedzenia."/>
+	</namespace>
+
+	<namespace id = "items">
+		<translation id = "antroot_headline"					value = "Mrówkorzeń"/>
+		<translation id = "antroot" 							value="To pokręcone warzywo można uzyskać z plonów otrzymanych na Polu Mrówkorzeni. Świetnie rośnie w warunkach podziemnych, gdyż do wzrostu potrzebuje jedynie wody. Wykorzystywany jest do produkcji piwa oraz mąki na chleb."/>
+		<translation id = "barbarian_axe_headline"				value = "Topór Barbarzyńcy"/>
+		<translation id = "barbarian_axe" 						value="Standardowy toporek zbudowany z drewna i stali. Waży sporo, ale zadaje równie sporo obrażeń."/>
+		<translation id = "barbarian_shield_headline"			value = "Tarcza Barbarzyńcy"/>
+		<translation id = "barbarian_shield" 					value="Standardowa tarcza zbudowana z drewna, stali i kości. Cechuje się dużym jak na niewielki rozmiar ciężarem i zapewnia dużą szansę na udany blok przed obrażeniami."/>
+		<translation id = "barbarian_sword_headline"			value = "Miecz Barbarzyńcy"/>
+		<translation id = "barbarian_sword" 					value="Standardowy miecz zbudowany z drewna i stali. Jest lżejszy od toporka, ale zadaje również mniejsze obrażenia."/>
+		<translation id = "beer_headline"						value = "Piwo"/>
+		<translation id = "beer" 								value="Wytwarzane w Warzelniach dostępnych w Kuchni. To słodkie piwo wytwarzane jest z mrówkorzeni i wody. Serwowane w Barze z pewnością ucieszy najwybredniejszego stwora."/>
+		<translation id = "bent_sword_headline"					value = "Szabla"/>
+		<translation id = "bent_sword" 							value="Broń o zakrzywionym ostrzu potrafiąca zadać poważne obrażenia nawet najbardziej doświadczonemu wrogowi."/>
+		<translation id = "bone_headline"						value = "Kości"/>
+		<translation id = "bone" 								value="Niby zwykłe gnaty, które można pozyskać z trupa zwierza lub jakiegoś nieszczęśnika, a jednak przydatne w wytwarzaniu części do ekwipunku."/>
+		<translation id = "bone_armor_headline"					value = "Kościany Pancerz"/>
+		<translation id = "bone_armor" 							value="Pancerz ten wytwarzany jest z kości i lin. Jest jednocześnie w miarę elastyczny i bardzo trwały. Ze względu na swój wygląd wzbudza strach w sercach wrogów."/>
+		<translation id = "bone_axe_headline"					value = "Kościany Topór"/>
+		<translation id = "bone_axe" 							value="Topór ten wytwarzany jest z kości i lin. Niewielkie obrażenia jakie można nim zadać dowodzą, że kości nie nadają się do walki w bezpośrednim starciu."/>
+		<translation id = "bread_headline"						value = "Chleb"/>
+		<translation id = "bread" 								value="Pospolity na powierzchni stanowi swoisty rarytas dla mieszkańców lochów. Chleb produkowany jest z wody i mrówkorzeni na Stole Piekarskim w Kuchni. Serwowany w Barze zaspokoi apetyt każdego stwora, który z chęcią podda się każdej twojej woli po jego spożyciu."/>
+		<translation id = "cannonball_headline"					value = "Kula Armatnia"/>
+		<translation id = "cannonball" 							value="Stanowi amunicję dla Pułapek Armatnich. Może być niezwykle zabójcza jeśli tylko dobrze nią trafisz."/>
+		<translation id = "cleaver_headline"					value = "Tasak"/>
+		<translation id = "cleaver" 							value="Wykorzystywana wcześniej do zarzynania zwierząt, znalazł także zastosowanie w bezpośredniej walce."/>
+		<translation id = "coal_headline"						value = "Węgiel"/>
+		<translation id = "coal" 								value="Bryła skamieniałego węgla wykorzystywana jest głównie jako paliwo w Zakładzie Rzemieślniczym. Ten minerał jest dość często spotykany w podziemiach na każdym poziomie."/>
+		<translation id = "fish_headline"						value = "Ryba"/>
+		<translation id = "fish" 								value="Mając do dyspozycji Ryboczłeka możesz upolować ją w różnych akwenach wodnych w dużych ilościach. Zbuduj most obok ławicy ryb i czekaj aż Ryboczłek zabierze się za ich łowienie. Upieczona na Ruszcie i zaserwowana w Barze jest w stanie zaspokoić głód niejednego stwora. "/>
+		<translation id = "flour_headline"						value = "Mąka"/>
+		<translation id = "flour" 								value="Pozyskiwana w Młynie w postaci proszku substancja pochodząca z mrówkorzeni. Wykorzystuje się ją do pieczenia chleba."/>
+		<translation id = "gold_headline"						value = "Złoto"/>
+		<translation id = "gold" 								value="Gęsty, kowalny i ciągliwy metal. Przyciąga do siebie gapiów swym żółtawym kolorem i lśniącą powierzchnią, którą utrzymuje nawet poddany działaniu wody lub powietrza. Złoto spotykane jest najczęściej w najniższych partiach podziemi, jak również blisko naturalnych klifów."/>
+		<translation id = "hide_armor_headline"					value = "Zbroja Pikowana"/>
+		<translation id = "hide_armor" 							value="Zwykła zbroja zapewniająca ochronę przed lekkimi obrażeniami. Może być noszona przez niemal wszystkie stwory."/>
+		<translation id = "iron_headline"						value = "Żelazo"/>
+		<translation id = "iron" 								value="Wspólnie z węglem należy do jednego z najczęściej spotykanych pierwiastków w podziemiach. Rzadko spotykane na powierzchni dość często występuję w wyższych partiach lochów. Ponieważ po wydobyciu jest mocno zanieczyszczone przez piaski musi zostać oczyszczone w Hucie Żelaza przed wykorzystaniem go do dalszej obróbki."/>
+		<translation id = "steel_armor_headline"				value = "Stalowa Zbroja"/>
+		<translation id = "steel_armor" 						value="Zbroja wytworzona ze stali, lin i skóry. Posiada wysoką odporność na obrażenia, ale jest również bardzo ciężka. Tylko najsilniejsze stwory są w stanie czerpać z niej pełne korzyści."/>
+		<translation id = "steel_fist_headline"					value = "Stalowa Pięść"/>
+		<translation id = "steel_fist" 							value="Prosta broń zakładana na pięści. Wytwarzana się ją ze stali i drewna. Można nią zadać całkiem spore obrażenia jeśli obchodzi się z nią umiejętnie."/>
+		<translation id = "steel_ingot_headline"				value = "Sztabka Stali"/>
+		<translation id = "steel_ingot" 						value="Wykonuje się ją z żelaza i węgla. Formowana jest pod wysoką temperaturą do użytecznego kształtu, gdzie dalej służy jako materiał do wytwarzania broni i pancerzy."/>
+		<translation id = "knights_hammer_headline"				value = "Młot Rycerski"/>
+		<translation id = "knights_hammer" 						value="Potężna dwuręczna broń obuchowa wykorzystywana głównie przez Rycerzy. Potrafi skutecznie utrzymać na dystans niejednego stwora ze świata podziemi."/>
+		<translation id = "lava_block_headline"					value = "Blok Lawy"/>
+		<translation id = "lava_block" 							value="Blok gorejącej lawy."/>
+		<translation id = "leather_headline"					value = "Skóra"/>
+		<translation id = "leather"  							value="Kawałek skóry zdartej ze zwierząt lub stworów."/>
+		<translation id = "leather_armor_headline"				value = "Skórzany Pancerz"/>
+		<translation id = "leather_armor"  						value="Prosty pancerz zrobiony ze skóry zapewniający przeciętną ochronę przed obrażeniami. Może go nosić każdy ze stworów."/>
+		<translation id = "mouse_headline"						value = "Mysz"/>
+		<translation id = "mouse"  								value="Żywa może posłużyć za siłę napędową np. Młyna."/>
+		<translation id = "pitchfork_headline"					value = "Widły"/>
+		<translation id = "pitchfork"  							value="Narzędzie służący Wieśniakom do przygotowywania gleby na Polach Zboża. Może być również wykorzystywana jako broń jeśli niczego lepszego nie ma się pod ręką."/>
+		<translation id = "roasted_fish_headline"				value = "Pieczona Ryba"/>
+		<translation id = "roasted_fish"  						value="Chrupiąca strawa z upieczonej ryby. Serwowana w Barze potrafi wykraść głód niejednemu stworowi."/>
+		<translation id = "roasted_mouse_headline"				value = "Pieczona Mysz"/>
+		<translation id = "roasted_mouse"  						value="Chrupiąca strawa z upieczonej myszy. Serwowana w Barze potrai wykraść głód niejednemu stworowi."/>
+		<translation id = "rock_headline"						value = "Skała"/>
+		<translation id = "rock"  								value="Cały podziemny świat zbudowany jest ze skał. Podczas robienia różnego rodzaju wykopalisk upewnij się, że masz wystarczając dużo miejsca by pomieścić zebrane skały w swoich magazynach. Służy jako materiał budowlany dla budowy kamiennych struktur lub jako towar na wymianę."/>
+		<translation id = "rope_headline"						value = "Lina"/>
+		<translation id = "rope"  								value="Lina zrobiona jest wytrzymałych włókien pozyskanych z korzeni drzew. Służy głównie jako materiał do wytwarzania różnych rzeczy."/>
+		<translation id = "spiked_gauntlet_headline"			value = "Kolczasta Rękawica"/>
+		<translation id = "spiked_gauntlet"  					value="Pomimo swojego, wydawałoby się zwyczajnego wyglądu potrafi być skuteczną bronią w rękach wprawnego wojownika. Wytwarza się ją z drewna, lin i stali."/>
+		<translation id = "water_headline"						value = "Woda"/>
+		<translation id = "water"  								value="Głęboko pod skorupą wody znajdują się złoża wody gruntowej. Budując studnie możesz zapewnić sobie niekończący się jej zapas. Świeża woda wykorzystywana jest w hodowli roślin oraz podczas wytwarzania przedmiotów."/>
+		<translation id = "water_block_headline"				value = "Blok Wody"/>
+		<translation id = "water_block"  						value="Blok życiodajnej wody."/>
+		<translation id = "wood_headline"						value = "Drewno"/>
+		<translation id = "wood"  								value="Mówi się, że próżno szukać drewna w podziemiach. Jak się okazuje, niektóre korzenie wielkich drzew rosnących na powierzchni potrafią sięgać wgłąb ziemi. Służy jako materiał mający zastosowanie praktycznie we wszystkim."/>
+		<translation id = "wooden_club_headline"				value = "Drewniana Pałka"/>
+		<translation id = "wooden_club"  						value="Zwykły kamień na patyku. Prymitywne, lecz pożyteczne narzędzie."/>
+		<translation id = "wooden_shield_headline"				value = "Drewniana Tarcza"/>
+		<translation id = "wooden_shield"  						value="Zwyczajna tarcza z drewna dająca jej dzierżycielowi niewielką szansę na zablokowanie ataku przeciwnika. Jest tania w produkcji, ale może pomóc przetrwać w trudnej sytuacji."/>
+	</namespace>
+
+	<namespace id = "creatures">
+		<translation id = "bat_headline" 						value="Nietoperz"/>
+		<translation id = "bat" 								value="Tsst ts ts tsst..."/>
+		<translation id = "trogosaur_headline" 					value="Troglozaur"/>
+		<translation id = "trogosaur" 							value="Istota lubująca się w kopaniu tuneli w podziemiach. Wije swoje gniazda blisko skały macierzystej."/>
+		<translation id = "cyclotaur_headline" 					value="Cyklotaur"/>
+		<translation id = "cyclotaur" 							value="Mityczne stworzenie o sile byka i percepcji cyklopa."/>
+		<translation id = "dwarf_headline" 						value="Krasnolud"/>
+		<translation id = "dwarf" 								value="Doskonały grotołaz, zbierający minerały dla królestw na powierzchni."/>
+		<translation id = "fishman_headline" 					value="Ryboczłek"/>
+		<translation id = "fishman" 							value="Pół człowiek, pół ryba (oraz prawdopodobnie też i półmózg). Przebiegły stwór, który nie boi się niczego."/>
+		<translation id = "imp_headline" 						value="Chochlik"/>
+		<translation id = "imp" 								value="Mały, zielony ludzik, który sprawuje kontrolę nad właściwą pracą całego lochu."/>
+		<translation id = "impanzee_headline" 					value="Płochlik"/>
+		<translation id = "impanzee" 							value="Mały, lokalny mutant, o którym mówi się, że jest krzyżówką Chochlika i szympansa. Jest to dość płochliwa kreatura, która woli walczyć w dużej grupie niż sama, stąd bardziej jej do Chochlika niż do odważnego naczelnego."/>
+		<translation id = "knight_headline" 					value="Rycerz"/>
+		<translation id = "knight" 								value="Ludzki wojownik znajdujący się w szeregach pierwszej linii walki. Znany jest ze swojej wysokiej wytrzymałości i zamaszystych huknięć młotem. Jest również wyjątkowo wrażliwy na smród"/>
+		<translation id = "orc_headline" 						value="Ork"/>
+		<translation id = "orc" 								value="Zacięty wojownik, którego żądza krwi lejącej się strumieniami z trupów wroga jest równoznaczna z jego zapałem do pracy z metalem. Potrafi również przekopywać się przez skały."/>
+		<translation id = "peasant_headline" 					value="Wieśniak"/>
+		<translation id = "peasant" 							value="Wieśniak spędza każdy swój dzień na zbiorach żywności dla całego swojego królestwa."/>
+		<translation id = "piggeh_headline" 					value="Świniok"/>
+		<translation id = "piggeh" 								value="Potężny stwór, którego pasją jest gotowanie i jedzenie czego popadnie w dużych ilościach."/>
+		<translation id = "rogue_headline" 						value="Łotrzyk"/>
+		<translation id = "rogue" 								value="Swoją małą posturą nadrabia wielkim apetytem na skarby i żyłką do interesów. Uważaj tylko, by nie odwracać się do niego plecami na zbyt długo..."/>
+	</namespace>
+
+	<namespace id = "creature_skills">
+		<translation id = "barrel_roll_headline" 			value="Turlanie"/>
+		<translation id = "barrel_roll" 					value="Stwór zwija się w kulkę i ciska sobą w przeciwnika, dzięki czemu istnieje szansa, że ogłuszy tym wroga."/>
+		<translation id = "bull_rush_headline" 			value="Bycza Szarża"/>
+		<translation id = "bull_rush" 					value="Pozwala rozpędzić się niczym byk na korridzie i zmasakrować nieszczęśników stających na jego drodze. Raz rozpędzony nie zatrzyma się póki nie walnie w coś bardzo stabilnego."/>
+		<translation id = "butchering_headline" 		value="Zarzynanie"/>
+		<translation id = "butchering" 					value="Wykorzystuje nabyte umiejętności rzeźnicze, aby z całej siły huknąć w kopułę ofiary na krótkim dystansie."/>
+		<translation id = "frog_tongue_headline" 		value="Żabi Jęzor"/>
+		<translation id = "frog_tongue" 				value="Wystrzeliwuje z paszczy swój długi jęzor w celu przyciągnięcia do siebie swojej ofiary."/>
+		<translation id = "hurricane_headline" 			value="Huragan"/>
+		<translation id = "hurricane" 					value="Zarzuca za siebie swoją broń dwuręczną i wykonuje kilka obrotów raniąc w ten sposób całą grupę jednostek w zasięgu."/>
+		<translation id = "steal_headline" 				value="Kradzież"/>
+		<translation id = "steal" 						value="Za sprawą swoich zwinnych palców w mgnieniu oka pozbawia części ekwipunku swojego wroga."/>
+		<translation id = "stunning_block_headline" 	value="Ogłuszająca Blokada"/>
+		<translation id = "stunning_block" 				value="Zablokowany przez tego stwora napastnik zostaje oszołomiony na krótką chwilę."/>
+		<translation id = "teleport_headline" 			value="Błyskawiczne Przeniesienie"/>
+		<translation id = "teleport" 					value="Pozwala stworowi, który nie nosi ze sobą żadnego ładunku na chwilowe przeniesienie się do innego wymiaru sprawiając, że błyskawicznie znika i pojawia się w innym, nawet bardzo odległym obszarze."/>
+	</namespace>
+
+	<namespace id = "buildings">
+		<translation id="dark_mother_room_headline" 					value="Mroczna Matka"/>
+		<translation id="dark_mother_room"  							value="Mroczna Matka stanowi swojego rodzaju 'siedzibę główną' lochu. To z niej powstają różnego rodzaju kreatury."/>
+		<translation id="portal_headline"  								value="Portal"/>
+		<translation id="portal"  			 							value="Brama pozwalająca na przejście pomiędzy powierzchnią, a światem podziemi."/>
+		<translation id="well_headline"  								value="Studnia"/>
+		<translation id="well"  			 							value="Niewyczerpalne źródło wody."/>
+		<translation id="bar_room_headline"  							value="Bar"/>
+		<translation id="bar_room"  			 						value="Miejsce, w którym stwory mogą napełnić swoje brzuchy i nawilżyć gardła."/>
+		<translation id="bed_room_headline"  				 			value="Sypialnia"/>
+		<translation id="bed_room"  			 						value="Miejsce odpoczynku i regeneracji sił."/>
+		<translation id="catacombs_room_headline"  						value="Katakumby"/>
+		<translation id="catacombs_room"  								value="Miejsce wiecznego odpoczynku jak i przywoływania zmarłych."/>
+		<translation id="claimed_path_headline"  						value="Droga"/>
+		<translation id="claimed_path"  								value="Droga łączy ze sobą komnaty i przyśpiesza poruszanie się jednostek. Może zostać ulepszona do dwóch razy."/>
+		<translation id="claimed_wall_headline"  						value="Wzmocniona Ściana"/>
+		<translation id="claimed_wall"  			 					value="Dzięki niej trudniej jest przebić się do twoich włości. Pozwala również na zawieszanie na niej różnego rodzaju obiektów."/>
+		<translation id="cookery_room_headline"  						value="Kuchnia"/>
+		<translation id="cookery_room"  								value="Wytwarza się tu jedzenie i picie, których zapach każdemu stworowi zapewnia obfity potok śliny."/>
+		<translation id="farm_room_headline"  							value="Farma"/>
+		<translation id="farm_room"  			 						value="Miejsce, w którym zbiera się plony."/>
+		<translation id="grass_headline"  			 					value="Trawa"/>
+		<translation id="grass"  			 							value="Wyraziście zielona i wytrzymała roślina, którą można znaleźć wszędzie tam, gdzie dochodzi słońce."/>
+		<translation id="graveyard_room_headline"  						value="Cmentarz"/>
+		<translation id="graveyard_room"  								value="Miejsce pochówku zmarłych."/>
+		<translation id="guard_room_headline"  							value="Strażnica"/>
+		<translation id="guard_room"  			 						value="Skupia ze sobą stwory stające na straży w obrębie miejsca, w którym została postawiona."/>
+		<translation id="house_room_headline"  							value="Domostwo"/>
+		<translation id="house_room"  			 						value="Miejsce zamieszkania ludzi."/>
+		<translation id="impanzee_room_headline"  						value="Świątynia Płochlików"/>
+		<translation id="impanzee_room"  			 					value="Pozostałość po dawno opuszczonej komnacie, którą z jakiegoś powodu upodobały sobie Płochliki."/>
+		<translation id="maze_floor_headline"  			 				value="Podłoże Labiryntu"/>
+		<translation id="maze_floor"  			 						value="Zwyczajna, gładka posadzka wykorzystywana w labiryntach do zmylenia intruzów."/>
+		<translation id="maze_wall_headline"  					 		value="Ściana Labiryntu"/>
+		<translation id="maze_wall"  			 						value="Masywna ściana, przez którą nie można się przebić."/>
+		<translation id="metalworks_room_headline"  					value="Zakład Rzemieślniczy"/>
+		<translation id="metalworks_room"  								value="Komnata, w której wytwarza się wyroby z metalu i innych rzeczy."/>
+		<translation id="prison_room_headline"  						value="Więzienie"/>
+		<translation id="prison_room"  									value="Idealne miejsce do składowania przechwyconych wrogów."/>
+		<translation id="rock_headline"  			 					value="Skała"/>
+		<translation id="rock"  			 							value="Warstwa zbudowana ze żwirów i piasków."/>
+		<translation id="solid_rock_headline"  							value="Skała Macierzysta"/>
+		<translation id="solid_rock"  			 						value="Skała nie dająca się przebić znanymi metodami."/>
+		<translation id="statue_impanzee_headline"  					value="Statua Płochlika"/>
+		<translation id="statue_impanzee"  					 			value="Zbudowana w hołdzie żywiołowych Płochlików."/>
+		<translation id="statue_orc_headline"  							value="Statua Orka"/>
+		<translation id="statue_orc"  			 						value="Zbudowana w hołdzie nieustraszonych Orków."/>
+		<translation id="storage_room_headline" 			 			value="Magazyn"/>
+		<translation id="storage_room"  					 			value="Przechowalnia rzeczy, które złożone tu stają się twoją własnością."/>
+		<translation id="trading_room_headline"  						value="Faktoria"/>
+		<translation id="trading_room"  								value="Miejsce wymiany handlowej. Z tego miejsca wyruszają wyprawy handlowe do innych krain."/>
+		<translation id="training_room_headline"  						value="Sala Ćwiczeń"/>
+		<translation id="training_room"  								value="Miejsce, w którym stwory mogą nabrać doświadczenia w walce."/>
+		<translation id="arc_bridge_headline"  							value="Most Łukowy"/>
+		<translation id="arc_bridge"  									value="Most charakteryzujący się łukowym kształtem."/>
+		<translation id="bedroom_fireplace_headline"   		 			value="Kominek Sypialni"/>
+		<translation id="bedroom_fireplace"   			 				value="Specjalny kominek grzejący twoje stwory w Sypialni."/>
+		<translation id="chest_headline"   			 					value="Skrzynia"/>
+		<translation id="chest"   			 							value="Nigdy nie wiadomo kto ją tu postawił i co w niej ukrył... chyba że postanowisz ją otworzyć."/>
+		<translation id="cookery_room_baking_table_headline"   			value="Stół Piekarski"/>
+		<translation id="cookery_room_baking_table"   			 		value="Stół, na którym wyrabia się i piecze w nim chleb."/>
+		<translation id="cookery_room_barbeque_headline"   			 	value="Ruszt"/>
+		<translation id="cookery_room_barbeque"   			 			value="Służy do smażenia różnych zwierzątek."/>
+		<translation id="cookery_room_brewing_vat_headline"   			value="Warzelnia"/>
+		<translation id="cookery_room_brewing_vat"   			 		value="Służy do warzenia piwa."/>
+		<translation id="cookery_room_wall_barrels_headline"   			value="Beczki Ścienne"/>
+		<translation id="cookery_room_wall_barrels"   			 		value="Dekoracja przygotowana z myślą o Kuchni."/>
+		<translation id="wall_torch_headline"   			 			value="Pochodnia Ścienna"/>
+		<translation id="wall_torch"   			 						value="Rozświetla wokół czeluście lochów."/>
+		<translation id="maze_door_headline"   			 				value="Drzwi Labiryntu"/>
+		<translation id="maze_door"   			 						value="Drzwi prowadzące do tajemniczego labiryntu."/>
+		<translation id="wooden_door_headline"   			 			value="Drzwi Drewniane"/>
+		<translation id="wooden_door"   			 					value="Umożliwia zabezpieczenie się przed wścibskimi intruzami, przynajmniej do czasu aż nie zostaną zniszczone, o ile nie zostaną do tego czasu... przepędzeni."/>
+		<translation id="farm_room_farm_land_headline"   				value="Pole Mrówkorzeni"/>
+		<translation id="farm_room_farm_land"   			 			value="Służy do celów hodowli mrówkorzeni."/>
+		<translation id="farm_room_farm_land_gate_headline"   			value="Brama na Pole Mrówkorzeni"/>
+		<translation id="farm_room_farm_land_gate"   					value="Brama umożliwiająca przejście na Pola Mrówkorzeni."/>
+		<translation id="farm_room_mill_headline"   					value="Młyn"/>
+		<translation id="farm_room_mill"   			 					value="Skutecznie mieli mrówkorzenie na mąkę."/>
+		<translation id="fishes_headline"   			 				value="Ryba"/>
+		<translation id="fishes"   			 							value="Może zostać upieczona i zaserwowana w Barze jako przysmak."/>
+		<translation id="metalworks_room_forge_and_anvil_headline"   	value="Kuźnia z Kowadłem"/>
+		<translation id="metalworks_room_forge_and_anvil"   			value="Służy do wytwarzania uzbrojenia i broni wykorzystując do tego sztabki stali, wody, drewna i węgla."/>
+		<translation id="graveyard_room_land_headline"   			 	value="Ziemia Cmentarna"/>
+		<translation id="graveyard_room_land"   			 			value="Kawałek ziemi należącej do Cmentarza."/>
+		<translation id="graveyard_room_land_gate_headline"   			value="Brama Cmentarna"/>
+		<translation id="graveyard_room_land_gate"   			 		value="Brama umożliwiająca przejście na Cmentarz."/>
+		<translation id="dark_mother_room_barrel_headline"   			value="[]Beczka"/>
+		<translation id="dark_mother_room_barrel"   			 		value="Miejsce przechowywania rozmaitych rzeczy, np. kiszonej kapusty..."/>
+		<translation id="dark_mother_room_grate_storage_headline"   	value="[]Grate Storage"/>
+		<translation id="dark_mother_room_grate_storage"   			 	value=""/>
+		<translation id="house_inside_door_headline"   			 		value="Drzwi Domostwa"/>
+		<translation id="house_inside_door"   			 				value="Wrota umozliwiające przejście pomiędzy Domostwem a światem zewnętrznym."/>
+		<translation id="house_inside_window_headline"   			 	value="Okno Domostwa"/>
+		<translation id="house_inside_window"   			 			value="Szkło oprawione w ramę, chroni Domostwo przed zjawiskami atmosferycznymi."/>
+		<translation id="hydraulics_cannon_headline"   			 		value="Armata"/>
+		<translation id="hydraulics_cannon"   			 				value="Po dostarczeniu ćiśnienia i kul armatnich wystrzeliwuje płonący pocisk w kierunku, w którym jest zwrócona."/>
+		<translation id="hydraulics_counter_headline"   			 	value="Licznik Hydrauliczny"/>
+		<translation id="hydraulics_counter"   			 				value="Blokuje lub odblokowuje drogę przepływającego przez licznik ciśnienie, odpowiednio o tym sygnalizując."/>
+		<translation id="hydraulics_dynamite_headline"   			 	value="Dynamit"/>
+		<translation id="hydraulics_dynamite"   			 			value="Zadaje obrażenia wszelkim jednostkom i ścianom znajdującym się w zasięgu wybuchu. Przeładowuje się samoczynnie w krótkim czasie."/>
+		<translation id="hydraulics_inverter_headline"   			 	value="Pompa Hydrauliczna"/>
+		<translation id="hydraulics_inverter"   			 			value="Nieustannie pompuje ciśnienie w jednym kierunku, dopóki inne ciśnienie nie zostanie zadane z drugiej strony pompy."/>
+		<translation id="hydraulics_movable_wall_headline"   			value="Ruchoma Ściana"/>
+		<translation id="hydraulics_movable_wall"   			 		value="Pod wpływem ciśnienia przesuwa się o jeden blok do przodu uniemożliwiając przejście przez nią."/>
+		<translation id="hydraulics_pipes_headline"   			 		value="Przewód Hydrauliczny"/>
+		<translation id="hydraulics_pipes"   			 				value="Transportuje ciśnienie pomiędzy różnymi konstrukcjami hydraulicznymi."/>
+		<translation id="hydraulics_pressure_pad_headline"   			value="Zapadka Hydrauliczna"/>
+		<translation id="hydraulics_pressure_pad"   			 		value="Nacisk na nią powoduje wytworzenie ciśnienia."/>
+		<translation id="hydraulics_repeater_headline"   			 	value="Wtórnik Hydrauliczny"/>
+		<translation id="hydraulics_repeater"   			 			value="Pozwala na ciągłe zadawanie ciśnienia. Niezbędny do utworzenia pętli."/>
+		<translation id="hydraulics_switch_headline"   			 		value="Przełącznik Hydrauliczny"/>
+		<translation id="hydraulics_switch"   			 				value="W zależności od ustawienia pozwala na przepływ ciśnienia wzdłuż albo wszerz."/>
+		<translation id="metalworks_room_iron_smelter_headline"   		value="Huta Stali"/>
+		<translation id="metalworks_room_iron_smelter"   			 	value="Produkuje sztabki stali z węgla i rudy żelaza."/>
+		<translation id="mouse_trap_headline"   			 			value="Pułapka na Gryzonie"/>
+		<translation id="mouse_trap"   			 						value="Klatka z zapadką na gryzonie. Do działania wymaga wrzucenia do niej jednego mrówkorzenia."/>
+		<translation id="prison_room_prison_bars_headline"   			value="Więzienne Kraty"/>
+		<translation id="prison_room_prison_bars"   			 		value="Kraty niezbędne do przetrzymywania w nich więźniów."/>
+		<translation id="prison_room_prison_door_headline"   			value="Więzienne Wrota"/>
+		<translation id="prison_room_prison_door"   			 		value="Drzwi prowadzące do pomieszczenia za kratami."/>
+		<translation id="prison_room_hand_torch_headline"   			value="Ręczna Pochodnia"/>
+		<translation id="prison_room_hand_torch"   			 			value="Podłogowa dekoracja więzienna przypominającej część ręki zakończonej płomieniem wydobywającym się z dłoni."/>
+		<translation id="prison_room_wall_skull_headline"   			value="Przerażająca Czaszka"/>
+		<translation id="prison_room_wall_skull"   			 			value="Naścienna dekoracja więzienna w kształcie czaszki kryjącej wewnątrz pochodnie."/>
+		<translation id="training_room_punching_pig_headline"   		value="Świnia do Bicia"/>
+		<translation id="training_room_punching_pig"   			 		value="Atrapa stosowana do treningu stworów walczących wręcz."/>
+		<translation id="metalworks_room_sewing_machine_headline"   	value="Maszyna Tkacka"/>
+		<translation id="metalworks_room_sewing_machine"   			 	value="Produkuje części do ekwipunku z lin i skóry."/>
+		<translation id="stone_bridge_headline"   			 			value="Kamienny Most"/>
+		<translation id="stone_bridge"   			 					value="Pozwala na przejście po nim stworom. Jest odporny na wysoką temperaturę lawy."/>
+		<translation id="storage_room_corner_shelf_headline"   			value="Półka Narożna"/>
+		<translation id="storage_room_corner_shelf"   			 		value="Półka stawiana w narożniku Magazynu, służąca do przechowywania przedmiotów."/>
+		<translation id="storage_room_cross_table_headline"   			value="Stół Krzyżowy"/>
+		<translation id="storage_room_cross_table"   			 		value="Stół o krzyżowym kształcie, służący do przechowywania przedmiotów."/>
+		<translation id="storage_room_round_table_headline"   			value="Stół Okrągły"/>
+		<translation id="storage_room_round_table"   			 		value="Stół o kołowym kształcie, służący do przechowywania przedmiotów."/>
+		<translation id="storage_room_shelf_headline"   			 	value="Półka Naścienna"/>
+		<translation id="storage_room_shelf"   			 				value="Półka wieszana na ścianie Magazynu, służąca do przechowywania przedmiotów."/>
+		<translation id="storage_room_square_table_headline"   			value="Stół Kwadratowy"/>
+		<translation id="storage_room_square_table"   			 		value="Stół o kwadratowym kształcie, służący do przechowywania przedmiotów."/>
+		<translation id="storage_room_wall_shelf_headline"   			value="Półka z Regałami"/>
+		<translation id="storage_room_wall_shelf"   			 		value="Półka montowana na ścianie Magazynu, służąca do przechowywania przedmiotów."/>
+		<translation id="trading_room_loading_dock_headline"   			value="Stacja Załadunkowa"/>
+		<translation id="trading_room_loading_dock"   			 		value="Przechowuje wozy handlowe i stanowi punkt ich załadunku."/>
+		<translation id="water_lilies_headline"   			 			value="Lilie Wodne"/>
+		<translation id="water_lilies"   			 					value="Rośliny unoszące swoje liście na wodzie."/>
+		<translation id="wooden_bridge_headline"   			 			value="Drewniany Most"/>
+		<translation id="wooden_bridge"   			 					value="Zwykły most z drewna, który chroni stwory przed wpadnięciem do wody."/>
+		<translation id="wooden_ladder_headline"   			 			value="Drewniana Drabina"/>
+		<translation id="wooden_ladder"   			 					value="Pozwala na swobodne zejście lub wejście na duże wysokości."/>
+		<translation id="bar_room_chair_headline"   			 		value="Krzesło Barowe"/>
+		<translation id="bar_room_chair"   			 					value="Miejsce, na którym stwory mogą sobie przysiąść do stołu."/>
+		<translation id="bar_room_round_table_headline"   			 	value="Okrągły Stół Barowy"/>
+		<translation id="bar_room_round_table"   			 			value="Stół o kolistym kształcie, na którym serwowane są posiłki."/>
+		<translation id="bar_room_square_table_headline"   			 	value="Kwadratowy Stół Barowy"/>
+		<translation id="bar_room_square_table"   			 			value="Stół o kwadratowym kształcie, na którym serwowane są posiłki."/>
+		<translation id="bedroom_cyclotaur_bed_headline"   			 	value="Leże Cyklotaura"/>
+		<translation id="bedroom_cyclotaur_bed"   			 			value="Leże przeznaczone wyłącznie dla Cyklotaura."/>
+		<translation id="bedroom_fishman_bed_headline"   			 	value="Leże Ryboludzia"/>
+		<translation id="bedroom_fishman_bed"   			 			value="Leże przeznaczone wyłącznie dla Ryboludzia."/>
+		<translation id="bedroom_imp_bed_headline"   			 		value="Leże Chochlika"/>
+		<translation id="bedroom_imp_bed"   			 				value="Leże przeznaczone wyłącznie dla Chochlika."/>
+		<translation id="bedroom_impanzee_bed_headline"   			 	value="Leże Płochlika"/>
+		<translation id="bedroom_impanzee_bed"   			 			value="Leże przeznaczone wyłącznie dla Płochlika."/>
+		<translation id="bedroom_knight_bed_headline"   			 	value="Leże Rycerza"/>
+		<translation id="bedroom_knight_bed"   			 				value="Leże przeznaczone wyłącznie dla Rycerza."/>
+		<translation id="bedroom_orc_bed_headline"   			 		value="Leże Orka"/>
+		<translation id="bedroom_orc_bed"   			 				value="Leże przeznaczone wyłącznie dla Orka."/>
+		<translation id="bedroom_piggeh_bed_headline"   			 	value="Leże Świnioka"/>
+		<translation id="bedroom_piggeh_bed"   			 				value="Leże przeznaczone wyłącznie dla Świnioka."/>
+		<translation id="bedroom_rogue_bed_headline"   			 		value="Leże Łotrzyka"/>
+		<translation id="bedroom_rogue_bed"   			 				value="Leże przeznaczone wyłącznie dla Łotrzyka."/>
+		<translation id="bush_headline"   			 					value="Krzak"/>
+		<translation id="bush"   			 							value="Naturalne chaszcze."/>
+		<translation id="camp_fire_headline"   			 				value="Palenisko"/>
+		<translation id="camp_fire"   			 						value="Sterta kamieni i płonących patyków robiących za ognisko."/>
+		<translation id="catacombs_room_sarcophagus_headline"   		value="Trumna"/>
+		<translation id="catacombs_room_sarcophagus"   			 		value="Miejsce pochówku stwora."/>
+		<translation id="fireplate_headline"		 					value="Świecznik"/>
+		<translation id="fireplate"   		 							value="Pochodnia na piedestale."/>
+		<translation id="glowing_mushrooms_headline"   			 		value="Świecące Grzyby"/>
+		<translation id="glowing_mushrooms"   			 				value="Grzyby świecące w ciemności. Podobno mają jakieś magiczne właściwości."/>
+		<translation id="grass_tuft_headline"   			 			value="Kwiaty"/>
+		<translation id="grass_tuft"   			 						value="Polne kwiaty"/>
+		<translation id="house_bed_headline"   			 				value="Ludzkie Łóżko"/>
+		<translation id="house_bed"   			 						value="Miejsce do spania ludzi."/>
+		<translation id="house_inside_headline"   			 			value="Przestrzeń Domostwa"/>
+		<translation id="house_inside"   			 					value="Przestrzeń do życia w Domostwie"/>
+		<translation id="house_table_headline"   			 			value="Stolik Domostwa"/>
+		<translation id="house_table"   			 					value="Stolik wykorzystywany przez ludzi."/>
+		<translation id="insignia_headline"   			 				value="Wojenne Insygnia"/>
+		<translation id="insignia"   			 						value="Insygnia służące jako dekoracja lochu."/>
+		<translation id="mine_headline"   			 					value="Kopalnia"/>
+		<translation id="mine"   			 							value="Pozwala na wydobycie większej ilości minerałów z tego samego bloku. Wykopywanie ich zajmuje nieco czasu."/>
+		<translation id="outside_rogue_bed_headline"   		 			value="Łóżko Łotrzyka"/>
+		<translation id="outside_rogue_bed"   				 			value="Miejsce do spania Łotrzyków"/>
+		<translation id="painting_headline"   			 				value="Malowidło"/>
+		<translation id="painting"   			 						value="Kolorowe malowidło służące jako dekoracja ścian lochu."/>
+		<translation id="pine_tree_headline"   			 				value="Drzewo Iglaste"/>
+		<translation id="pine_tree"   			 						value="Po ścięciu zapewnia większą ilość drewna niż korzenie w podziemiach."/>
+		<translation id="rock_pile_headline"   			 				value="Sterta Kamieni"/>
+		<translation id="rock_pile"   			 						value="Sterta najzwyklejszych kamieni."/>
+		<translation id="rock_pile_moss_headline"   			 		value="Sterta Omszałych Kamieni"/>
+		<translation id="rock_pile_moss"   			 					value="Sterta kamieni porośnięta mchem."/>
+		<translation id="stone_fence_headline"   			 			value="Kamienne Ogrodzenie"/>
+		<translation id="stone_fence"   			 					value="Wytrzymałe ogrodzenie trzymające wrogów na dystans."/>
+		<translation id="training_room_dart_board_headline"   			value="Tarcza do Rzutek"/>
+		<translation id="training_room_dart_board"   			 		value="Tarcza do gry w rzutki. Służy bardziej jako dekoracja ścian w Sali Ćwiczeń."/>
+		<translation id="tree_headline"   			 					value="Drzewo Liściaste"/>
+		<translation id="tree"   			 							value="Po ścięciu zapewnia większą ilość drewna niż korzenie w podziemiach."/>
+		<translation id="wall_lantern_headline"   			 			value="Latarnia Naścienna"/>
+		<translation id="wall_lantern"   			 					value="Lampa zawieszana na ścianie pozwalająca nieco oświetlić czeluście lochu."/>
+		<translation id="wall_manacles_headline"   			 			value="Okowy Naścienne"/>
+		<translation id="wall_manacles"   			 					value="Ozdoba zrobiona z narzędzi tortur zawieszana na ścianę, przypominająca wszystkim kto tu jest szefem."/>
+	</namespace>
+
+	<namespace id = "campaign">
+		<namespace id = "bed_and_breakfast">
+			<namespace id = "subtitles">
+				<translation id = "glorious_morning_1"			value = "Ach... cóż za urocza, mała wioska, skąpana w radości i szczęściu... i ten słoneczny poranek powodujący szeroki uśmiech na twarzy jej mieszkańców..."/>
+				<translation id = "glorious_morning_2"			value = "Wrzodów można od tego dostać!"/>
+				<translation id = "glorious_morning_3"			value = "Pora wstać i coś z tym zrobić suwerenie! Użycz swej pomocnej dłoni i wskaż tym żyjącym w ciągłym błogostanie istotom jaki straszliwy błąd oni uczynili."/>
+
+				<translation id = "i_command_you"				value = "Nakazuję ci, byś utworzył armię i przyniósł zniszczenie tym, którzy stąpają ponad naszymi głowami, utwierdzeni w przekonaniu, że są dobrzy, sprawiedliwi i że władają całym tym światem."/>
+
+				<translation id = "presenting_creatures"		value = "Na początku będziesz miał do dyspozycji jedynie garstkę Chochlików i kilka Świnioków."/>
+				<translation id = "presenting_imps"				value = "Chochliki stanowią podstawową siłę roboczą lochu. Bez chwili zastanowienia wykonają każdą pracę jaką im zlecisz."/>
+				<translation id = "presenting_piggehs"			value = "Świnioki zaś to poczciwe stwory, których głównym zadaniem jest przyrządzanie strawy dla wygłodniałych wojowników. Możesz je również powołać do walki, choć prawdę mówiąc nie wydaje się, by śpieszno im było do robienia czegokolwiek."/>
+
+				<translation id = "build_bar_room"				value = "Pierwszą konstrukcją jaką musisz zbudować jest Bar. Żeby mieć gdzie go postawić, przekop się przez leżące nieopodal skały, a potem przystąp do jego budowy."/>
+				<translation id = "bar_room_finished"			value = "Dobra robota! Od teraz twoje stwory będą miały gdzie napychać sobie gęby."/>
+
+				<translation id = "build_farm_room"				value = "W ten sposób utrzymasz swoje stwory dopóki starczy pożywienia w magazynie. Żeby jednak stworzyć go więcej zbuduj Pole Mrówkorzeni. Pozyskasz z niego niezbędne składniki potrzebne do produkcji jedzenia. Do dzieła!"/>
+				<translation id = "build_mill"					value = "A zatem mamy już miejsce, w którym możemy hodować mrówkorzenie. Nie nadają się one do bezpośredniego spożycia, dlatego następnym zadaniem będzie zbudowanie Młyna, z którego uzyskasz mąkę."/>
+				<translation id = "no_water"					value = "Jak zapewne zauważyłeś na farmie nie wyrósł ani jeden mrówkorzeń, a to dlatego, że nikt im nie dostarczył wody."/>
+				<translation id = "build_well"					value = "Wodę możesz pozyskać budując Studnię, najlepiej gdzieś blisko twojej Farmy. Sprzedaj jedno należące do niej pole i wybuduj na nim studnię."/>
+				<translation id = "build_mouse_trap"			value = "A cóż to? Nieopodal Farmy, którą dopiero co zbudowałeś pojawiły się gryzonie! Stanowią one bogate źródło białka i stanowią przysmak Chochlików. Wybuduj Pułapkę na Gryzonie, by nakazać Chochlikom pozostawienie w niej mrówkorzenia stanowiącego przynętę."/>
+				<translation id = "farm_room_finished"			value = "Sprawnie, sprawnie. Opanowałeś sztukę hodowli mrówkorzeni, wyrabiania mąki, podlewania pól i łapania gryzoni. Pozyskując z nich odpowiednie składniki twoje Świnioki będą w stanie zacząć produkcję jedzenia w Kuchni."/>
+
+				<translation id = "build_bed_room"				value = "Teraz kiedy jesteś w stanie napchać brzuchy swoich stworów przyszedł czas na zbudowanie miejsca, w którym będą mogły odpocząć albo licz się z tym, że będą chciały urwać ci łeb. Wybuduj Sypialnię zanim zaczną rewoltę."/>
+				<translation id = "build_farm_land_gate"		value = "Wygląda na to, że płot blokuje przejście do pomieszczenia na Sypialnię. Nakaż budowę Bramy w miejscu, w którym ma zostać zrobione przejście."/>
+
+				<translation id = "build_creature_beds"			value = "Mając zbudowaną Sypialnię postaw po 3 leża dla każdego rodzaju stworów. Będą służyć nie tylko za miejsce odpoczynku, ale i regeneracji sił po walce."/>
+
+				<translation id = "build_cookery_room"			value = "Świetnie! Przyszedł czas na zbudowanie Kuchni."/>
+
+				<translation id = "build_cookery_room_buildings"			value = "Jedynie co zostało to wybudować Stół Piekarski, z którego będzie wyrabiany chleb; Ruszt, na którym będą smażone gryzonie oraz Warzelnia, z której uzyskasz piwo."/>
+
+				<translation id = "ready_for_the_next_step"		value = "Pokazałeś, że jesteś w stanie zapewnić stworom wikt i opierunek. Tylko nie pysznij się tym za bardzo, gdyż to dopiero początek. Pozostało jeszcze rozprawić się z ludźmi i wykazać się w walce..."/>
+			</namespace>
+			<translation id = "headline_build_bar_dig"			value = "Pierwsze Wykopy"/>
+			<translation id = "message_build_bar_dig" 			value = "Przekop się przez zaznaczony na żółto obszar przyciskając lewy przycisk myszy (LPM) i przeciągnij nią po nim."/>
+			<translation id = "headline_build_bar_room"			value = "Budowa Baru"/>
+			<translation id = "message_build_bar_room" 			value = "Kliknij prawym przyciskiem myszy (PPM) na wolne pole, aby otworzyć w ten sposób menu kołowe. Znajdź ikonę Baru i postaw go w miejscu zaznaczonym na żółto, tak jak wcześniej zaznaczyłeś miejsce do wykopalisk."/>
+			<translation id = "headline_build_bar_table"		value = "Postaw Stół Barowy"/>
+			<translation id = "message_build_bar_table" 		value = "Klikając PPM na podłodze Baru otwórz menu kołowe i wybierz Stół Barowy. Postaw go w wyznaczonym miejscu."/>
+			<translation id = "headline_dig_and_build_farm_room"	value = "Budowa Farmy"/>
+			<translation id = "message_dig_and_build_farm_room" 	value = "Przekop się przez zaznaczone miejsce i zbuduj w tym miejscu Farmę."/>
+			<translation id = "headline_build_farm_land"		value = "Stawianie Pola Mrówkorzeni"/>
+			<translation id = "message_build_farm_land" 		value = "Klikając PPM na podłodze Farmy otwórz menu kołowe i wybierz Pole Mrówkorzeni. Skonstruuj je w wyznaczonym miejscu."/>
+			<translation id = "headline_build_mill"				value = "Stawianie Młyna"/>
+			<translation id = "message_build_mill" 				value = "Postaw Młyn w wyznaczonym miejscu."/>
+			<translation id = "headline_build_well"				value = "Budowa Studni"/>
+			<translation id = "message_build_well" 				value = "Otwórz menu kołowe i sprzedaj pole Farmy zaznaczone na żółto. W miejscu tego pola wybuduj Studnię."/>
+			<translation id = "headline_build_mouse_trap"		value = "Stawianie Pułapki na Gryzonie"/>
+			<translation id = "message_build_mouse_trap" 		value = "Postaw Pułapkę na Gryzonie w wyznaczonym miejscu."/>
+			<translation id = "headline_build_bed_room"			value = "Budowa Sypialni"/>
+			<translation id = "message_build_bed_room" 			value = "Przekop się przez zaznaczone na żółto miejsce i zybuduj tam Sypialnię."/>
+			<translation id = "headline_build_farm_land_gate"	value = "Drzwi do Sypialni"/>
+			<translation id = "message_build_farm_land_gate" 	value = "Otwórz menu kołowe Pola mrówkorzeni i wybierz Bramę. Postaw ją w wyznaczonym miejscu."/>
+			<translation id = "headline_build_beds"				value = "Stawianie Leży"/>
+			<translation id = "message_build_beds" 				value = "W Sypialni postaw 3 leża dla Chochlików i 3 leża dla Świnioków."/>
+			<translation id = "headline_build_a_cookery_room"	value = "Zbuduj Kuchnię"/>
+			<translation id = "message_build_a_cookery_room" 	value = "Przekop się przez zaznaczone na żółto miejsce i zybuduj tam Kuchnię."/>
+			<translation id = "headline_build_cookery_room_buildings"	value = "Rozpocznij produkcję Żywności"/>
+			<translation id = "message_build_cookery_room_buildings" 	value = "Postaw w nowo zbudowanej Kuchni: Stół Piekarski, Ruszt oraz Warzelnię."/>
+		</namespace>
+	</namespace>
+</localization>

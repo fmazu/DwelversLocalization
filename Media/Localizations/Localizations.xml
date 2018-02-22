@@ -2,6 +2,8 @@
 
 <localizations>
   <localization name="English"/>
+  <localization name="Polish"/>
   <localization name="Swedish"/>
+  <localization name="German"/>
   <localization name="Portuguese(BR)"/>
 </localizations>
