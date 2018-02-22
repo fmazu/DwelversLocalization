@@ -96,14 +96,14 @@
 		</namespace>
 
 		<namespace id ="sound">
-			<translation id = "soundfx_enabled" 			value = "SoundFX"/>
-			<translation id = "soundfx_volume" 				value = "SoundFX Volume"/>
+			<translation id = "soundfx_enabled" 			value = "Efeitos Sonoros"/>
+			<translation id = "soundfx_volume" 				value = "Volume dos Efeitos Sonoros"/>
 			<translation id = "soundfx_volume_unit" 		value = "%"/>
-			<translation id = "music_enabled" 				value = "Music"/>
-			<translation id = "music_volume" 				value = "Music Volume"/>
+			<translation id = "music_enabled" 				value = "Música"/>
+			<translation id = "music_volume" 				value = "Volume da Música"/>
 			<translation id = "music_volume_unit" 			value = "%"/>
-			<translation id = "dark_mother_enabled" 		value = "Dark Mother Voice"/>
-			<translation id = "dark_mother_volume" 			value = "Dark Mother Voice Volume"/>
+			<translation id = "dark_mother_enabled" 		value = "Voz da Matrona Sombria"/>
+			<translation id = "dark_mother_volume" 			value = "Volume da Voz da Matrona Sombria"/>
 			<translation id = "dark_mother_volume_unit" 	value = "%"/>
 		</namespace>
 
