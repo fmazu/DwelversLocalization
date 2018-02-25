@@ -108,30 +108,30 @@
 		</namespace>
 
 		<namespace id ="graphics">
-			<translation id = "shadows_environment_enabled" value = "Environment Shadows"/>
-			<translation id = "shadows_creature_enabled" 	value = "Creature Shadows"/>
-			<translation id = "viewing_distance" 			value = "Viewing Distance"/>
-			<translation id = "viewing_distance_unit" 		value = "Blocks"/>
-			<translation id = "fps_limit" 					value = "FPS Limit"/>
-			<translation id = "fps_limit_unfocused" 		value = "FPS Limit When Game is not in Focus"/>
-			<translation id = "brightness" 					value = "Brightness"/>
+			<translation id = "shadows_environment_enabled" value = "Sombras de Ambiente"/>
+			<translation id = "shadows_creature_enabled" 	value = "Sombras de Criatura"/>
+			<translation id = "viewing_distance" 			value = "Distância de Visualização"/>
+			<translation id = "viewing_distance_unit" 		value = "Blocos"/>
+			<translation id = "fps_limit" 					value = "Limite de FPS"/>
+			<translation id = "fps_limit_unfocused" 		value = "Limite de FPS quando o jogo não está em foco "/>
+			<translation id = "brightness" 					value = "Brilho"/>
 			<translation id = "brightness_unit" 			value = "%"/>
-			<translation id = "particles" 					value = "Particles"/>
+			<translation id = "particles" 					value = "Partículas"/>
 			<translation id = "particles_unit" 				value = "%"/>
 		</namespace>
 
 		<namespace id ="set_keys">
-			<translation id = "key_already_assigned" 				value = "That key has already been assigned."/>
+			<translation id = "key_already_assigned" 				value = "Esas chave já foi atribuída"/>
 		</namespace>
 
 		<namespace id ="achievements">
-			<translation id = "title" 								value = "Achievements"/>
-			<translation id = "new_achievement_unlocked" 			value = "Achievement Unlocked"/>
-			<translation id = "difficulty_easy" 					value = "Difficulty: Easy"/>
-			<translation id = "difficulty_medium" 					value = "Difficulty: Medium"/>
-			<translation id = "difficulty_hard" 					value = "Difficulty: Hard"/>
-			<translation id = "lock_all_achievements" 				value = "Reset All Achievements"/>
-			<translation id = "lock_all_achievements_confirm" 		value = "Yes, reset all achievements!"/>
+			<translation id = "title" 								value = "Conquistas"/>
+			<translation id = "new_achievement_unlocked" 			value = "Conquistas Desbloqueadas"/>
+			<translation id = "difficulty_easy" 					value = "Dificuldade: Fácil"/>
+			<translation id = "difficulty_medium" 					value = "Dificuldade: Média"/>
+			<translation id = "difficulty_hard" 					value = "Dificuldade: Difícil"/>
+			<translation id = "lock_all_achievements" 				value = "Reiniciar Todas as Conquistas "/>
+			<translation id = "lock_all_achievements_confirm" 		value = "Sim, reinicie todas as conquistas!"/>
 		</namespace>
 
 		<namespace id = "options">
