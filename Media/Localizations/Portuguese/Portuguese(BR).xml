@@ -158,9 +158,9 @@
 
 
 		<namespace id ="misc">
-			<translation id = "enable_cursor_clipping" 				value = "Enable Cursor Clipping (Only available in Windowed Mode)"/>
-			<translation id = "enter_menu_when_game_not_in_focus" 	value = "Enter Menu When the Game is not in Focus"/>
-			<translation id = "show_full_creature_health_bars" 		value = "Show Full Creature Health Bars"/>
+			<translation id = "enable_cursor_clipping" 				value = "Limitar Área de Movimentação do Cursor (Disponível Somente em Modo Janela )"/>
+			<translation id = "enter_menu_when_game_not_in_focus" 	value = "Abrir o Menu quando o Jogo não está em Foco"/>
+			<translation id = "show_full_creature_health_bars" 		value = "Mostrar Barra de Vida Completa das Criaturas "/>
 		</namespace>
 	</namespace>
 
