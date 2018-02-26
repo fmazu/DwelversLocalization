@@ -166,22 +166,22 @@
 
 	<namespace id = "info_bar">
 		<namespace id = "creature">
-			<translation id = "enemy" 						value = "This is an enemy creature, but the details are unknown."/>
-			<translation id = "health" 						value = "Health"/>
-			<translation id = "job" 						value = "Job"/>
-			<translation id = "efficiency" 					value = "Efficiency"/>
-			<translation id = "mood" 						value = "Mood"/>
-			<translation id = "mood_angry" 					value = "Angry"/>
-			<translation id = "mood_unhappy" 				value = "Annoyed"/>
-			<translation id = "mood_happy" 					value = "Happy"/>
-			<translation id = "mood_super_happy" 			value = "Super Happy"/>
-			<translation id = "mood_unconscious" 			value = "Unconscious"/>
-			<translation id = "mood_dead" 					value = "Dead"/>
-			<translation id = "mood_explain_sleepy" 		value = "Your creature is sleepy. Make sure there are enough Beds available."/>
-			<translation id = "mood_explain_hungry" 		value = "Your creature is hungry. Make sure there is enough Food at the Bar."/>
-			<translation id = "mood_explain_thirsty" 		value = "Your creature is thirsty. Make sure there is enough Beer at the Bar."/>
-			<translation id = "mood_explain_unconscious" 	value = "Make sure there is an empty bed available where your creature can rest and regain health."/>
-			<translation id = "mood_explain_dead" 			value = "This creature is dead!"/>
+			<translation id = "enemy" 						value = "Esta é uma criatura inimiga. Detalhes sobre a mesma são desconhecidos"/>
+			<translation id = "health" 						value = "Vida"/>
+			<translation id = "job" 						value = "Profissão"/>
+			<translation id = "efficiency" 					value = "Eficiência"/>
+			<translation id = "mood" 						value = "Humor"/>
+			<translation id = "mood_angry" 					value = "Bravo"/>
+			<translation id = "mood_unhappy" 				value = "Irritado"/>
+			<translation id = "mood_happy" 					value = "Feliz"/>
+			<translation id = "mood_super_happy" 			value = "Super Feliz"/>
+			<translation id = "mood_unconscious" 			value = "Inconsciente"/>
+			<translation id = "mood_dead" 					value = "Mort"/>
+			<translation id = "mood_explain_sleepy" 		value = "Sua criatura está com sono. Garanta que há Camas suficientes disponíveis."/>
+			<translation id = "mood_explain_hungry" 		value = "Sua criatura está com fome. Garanta que há Comida suficiente no Bar."/>
+			<translation id = "mood_explain_thirsty" 		value = "Sua criatura está com sede. Garanta que há Cerveja suficiente no Bar."/>
+			<translation id = "mood_explain_unconscious" 	value = "Lembre de fornecar camas vazias onde suas criaturas podem descansar e recuperar pontos de vida."/>
+			<translation id = "mood_explain_dead" 			value = "Esta criatura está morta!"/>
 		 </namespace>
 
 		 <namespace id = "building">
