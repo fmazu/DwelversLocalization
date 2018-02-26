@@ -135,25 +135,25 @@
 		</namespace>
 
 		<namespace id = "options">
-			<translation id = "headline" 							value = "Options"/>
-			<translation id = "graphics" 							value = "Graphics"/>
-			<translation id = "sounds" 								value = "Sounds"/>
-			<translation id = "controls" 							value = "Controls"/>
-			<translation id = "misc" 								value = "Misc"/>
-			<translation id = "set_keys" 							value = "Set Keys"/>
-			<translation id = "reset_keys"	 						value = "Reset Keys"/>
-			<translation id = "enter_key" 							value = "Enter a Key"/>
-			<translation id = "map_scroll_speed" 					value = "Keyboard Map Scrolling Speed"/>
-			<translation id = "keyboard_map_rotation_speed" 		value = "Keyboard Map Rotation Speed"/>
-			<translation id = "keyboard_rotation_hand_axis" 		value = "Keyboard Rotation Around Hand Axis"/>
-			<translation id = "mouse_rotation_hand_axis" 			value = "Mouse Rotation Around Hand Axis"/>
-			<translation id = "invert_mouse_x" 						value = "Invert Mouse X-axis"/>
-			<translation id = "invert_mouse_y" 						value = "Invert Mouse Y-axis"/>
-			<translation id = "screen_edge_map_scroll" 				value = "Screen-edge Map Scrolling"/>
-			<translation id = "screen_edge_map_scroll_speed" 		value = "Screen-edge Map scrolling Speed"/>
-			<translation id = "lock_camera_rotation" 				value = "Lock camera rotation"/>
-			<translation id = "possession_turn_sensitivity" 		value = "Possession Turning Sensitivity"/>
-			<translation id = "possession_invert_mouse_x" 			value = "Possession Invert Mouse X-axis"/>
+			<translation id = "headline" 							value = "Opções"/>
+			<translation id = "graphics" 							value = "Gráficos"/>
+			<translation id = "sounds" 								value = "Sons"/>
+			<translation id = "controls" 							value = "Controles"/>
+			<translation id = "misc" 								value = "Variados"/>
+			<translation id = "set_keys" 							value = "Definir Chaves"/>
+			<translation id = "reset_keys"	 						value = "Reinicar Chaves"/>
+			<translation id = "enter_key" 							value = "Inserir uma chave"/>
+			<translation id = "map_scroll_speed" 					value = "Teclado: Velocidade de Rolagem do mapa"/>
+			<translation id = "keyboard_map_rotation_speed" 		value = "Teclado: Velocidade de Rotação do mapa"/>
+			<translation id = "keyboard_rotation_hand_axis" 		value = "Teclado: Rotação ao Redor de Eixo da Mão"/>
+			<translation id = "mouse_rotation_hand_axis" 			value = "Mouse: ao Redor de Eixo da Mão"/>
+			<translation id = "invert_mouse_x" 						value = "Mouse: Inverter Eixo X"/>
+			<translation id = "invert_mouse_y" 						value = "Mouse: Inverter Eixo Y"/>
+			<translation id = "screen_edge_map_scroll" 				value = "Rolagem de Mapa pela Borda da Tela"/>
+			<translation id = "screen_edge_map_scroll_speed" 		value = "Velocidade de Rolagem do Mapa pela Borda da Tela"/>
+			<translation id = "lock_camera_rotation" 				value = "Travar Rotação de Câmera"/>
+			<translation id = "possession_turn_sensitivity" 		value = "Possesão de Objeto: Sensibilidade de Rotação"/>
+			<translation id = "possession_invert_mouse_x" 			value = "Possesão de Objeto: Inverter Eixo X do Mouse"/>
 		</namespace>
 
 
