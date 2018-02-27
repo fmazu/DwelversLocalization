@@ -166,7 +166,7 @@
 
 	<namespace id = "info_bar">
 		<namespace id = "creature">
-			<translation id = "enemy" 						value = "Esta é uma criatura inimiga. Detalhes sobre a mesma são desconhecidos"/>
+			<translation id = "enemy" 						value = "Esta é uma criatura inimiga. Detalhes são desconhecidos"/>
 			<translation id = "health" 						value = "Vida"/>
 			<translation id = "job" 						value = "Profissão"/>
 			<translation id = "efficiency" 					value = "Eficiência"/>
