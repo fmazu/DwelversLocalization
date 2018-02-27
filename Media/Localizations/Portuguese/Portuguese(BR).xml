@@ -185,7 +185,7 @@
 		 </namespace>
 
 		 <namespace id = "building">
-			<translation id = "enemy" 						value = "This is an enemy building, but the details are unknown."/>
+			<translation id = "enemy" 						value = "Esta é uma construção inimiga. Detalhes são desconhecidos."/>
 		 </namespace>
 
 		 <namespace id = "job">
