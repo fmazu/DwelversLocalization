@@ -190,62 +190,62 @@
 
 		 <namespace id = "job">
 			<namespace id = "build">
-				<translation id = "name" 			value = "Building Site"/>
-				<translation id = "building" 		value = "Building"/>
-				<translation id = "items_delivered" value = "Items Delivered"/>
+				<translation id = "name" 			value = "Canteiro de Obras"/>
+				<translation id = "building" 		value = "Construção"/>
+				<translation id = "items_delivered" value = "Itens Entregues"/>
 			</namespace>
 
-			<translation id = "repairing" 			value = "Repairing"/>
-			<translation id = "guarding" 			value = "Guarding"/>
+			<translation id = "repairing" 			value = "Reparos"/>
+			<translation id = "guarding" 			value = "Defesa"/>
 
 			<namespace id = "drop_liquid">
-				<translation id = "name_water" 		value = "Deliver Water Block"/>
-				<translation id = "name_lava" 		value = "Deliver Lava Block"/>
+				<translation id = "name_water" 		value = "Entregar Bloco d'água"/>
+				<translation id = "name_lava" 		value = "Entregar Bloco de Lava"/>
 			</namespace>
 
 			<namespace id = "fetch_liquid">
-				<translation id = "name_water" 		value = "Fetching Water Block"/>
-				<translation id = "name_lava" 		value = "Fetching Lava Block"/>
+				<translation id = "name_water" 		value = "Buscar Bloco d'água"/>
+				<translation id = "name_lava" 		value = "Buscar Bloco de Lava"/>
 			</namespace>
 
 			<namespace id = "deliver_liquid">
-				<translation id = "name_water" 		value = "Delivering Water Block"/>
-				<translation id = "name_lava" 		value = "Delivering Lava Block"/>
+				<translation id = "name_water" 		value = "Entrega de Bloco d'água"/>
+				<translation id = "name_lava" 		value = "Entrega de Bloco de Lava"/>
 			</namespace>
 
-			<translation id = "walk_to_portal" 		value = "Walking towards portal"/>
-			<translation id = "barbecuing" 			value = "Barbecuing"/>
-			<translation id = "fishing" 			value = "Fishing"/>
-			<translation id = "going_to_bed" 		value = "Going to bed"/>
-			<translation id = "baking" 				value = "Baking"/>
-			<translation id = "brewing" 			value = "Brewing"/>
-			<translation id = "farming" 			value = "Farming"/>
-			<translation id = "grinding" 			value = "Grinding"/>
-			<translation id = "feeding" 			value = "Feeding"/>
-			<translation id = "fetching_water" 		value = "Fetching water"/>
-			<translation id = "crafting" 			value = "Crafting"/>
-			<translation id = "fleeing" 			value = "Fleeing"/>
-			<translation id = "engage_battle" 		value = "Engaging in battle"/>
-			<translation id = "extracting" 			value = "Extracting"/>
-			<translation id = "fetching_trade_cart" value = "Fetching trading cart"/>
-			<translation id = "preparing_trade" 	value = "Preparing trade"/>
-			<translation id = "building" 			value = "Building"/>
-			<translation id = "resting" 			value = "Resting"/>
-			<translation id = "eating_and_drinking" value = "Eating and drinking"/>
-			<translation id = "training" 			value = "Training"/>
-			<translation id = "transporting_cart" 	value = "Transporting cart"/>
-			<translation id = "returning_to_room" 	value = "Returning to room"/>
-			<translation id = "reinforcing_walls" 	value = "Reinforcing walls"/>
-			<translation id = "idle" 				value = "Idle"/>
-			<translation id = "expanding_territory" value = "Expanding territory"/>
-			<translation id = "fetching_item" 		value = "Fetching Item"/>
-			<translation id = "digging" 			value = "Digging"/>
-			<translation id = "imprison_enemies" 	value = "Imprisoning enemies"/>
-			<translation id = "bury_enemies" 		value = "Bury enemies"/>
-			<translation id = "open_chest" 			value = "Open chest"/>
-			<translation id = "sewing" 				value = "Sewing"/>
-			<translation id = "set_bait" 			value = "Planting bait"/>
-			<translation id = "rally_flag" 			value = "Rally Flag"/>
+			<translation id = "walk_to_portal" 		value = "Andando em Direção ao Portal"/>
+			<translation id = "barbecuing" 			value = "Churrasco"/>
+			<translation id = "fishing" 			value = "Pesca"/>
+			<translation id = "going_to_bed" 		value = "Dormir"/>
+			<translation id = "baking" 				value = "Cozinhar no Forno"/>
+			<translation id = "brewing" 			value = "Preparação de Cerveja"/>
+			<translation id = "farming" 			value = "Agricultura"/>
+			<translation id = "grinding" 			value = "Quebrar Pedra"/>
+			<translation id = "feeding" 			value = "Alimentação"/>
+			<translation id = "fetching_water" 		value = "Buscar Água"/>
+			<translation id = "crafting" 			value = "Habilidades Manuais"/>
+			<translation id = "fleeing" 			value = "Fuga"/>
+			<translation id = "engage_battle" 		value = "Participação em Combate"/>
+			<translation id = "extracting" 			value = "Extração"/>
+			<translation id = "fetching_trade_cart" value = "Buscar Carrinho de Comércio"/>
+			<translation id = "preparing_trade" 	value = "Preparo de Troca"/>
+			<translation id = "building" 			value = "Construção"/>
+			<translation id = "resting" 			value = "Descando"/>
+			<translation id = "eating_and_drinking" value = "Comer e Beber"/>
+			<translation id = "training" 			value = "Treinamento"/>
+			<translation id = "transporting_cart" 	value = "Transporte de Carrinho"/>
+			<translation id = "returning_to_room" 	value = "Retornar a Sala"/>
+			<translation id = "reinforcing_walls" 	value = "Reinforço de Paredes"/>
+			<translation id = "idle" 				value = "Ocioso"/>
+			<translation id = "expanding_territory" value = "Expansão de Território"/>
+			<translation id = "fetching_item" 		value = "Busca de Item"/>
+			<translation id = "digging" 			value = "Escavação"/>
+			<translation id = "imprison_enemies" 	value = "Aprisionar Inimigos"/>
+			<translation id = "bury_enemies" 		value = "Enterrar Inimigos"/>
+			<translation id = "open_chest" 			value = "Abrir Baú"/>
+			<translation id = "sewing" 				value = "Costura"/>
+			<translation id = "set_bait" 			value = "Plantar Isca"/>
+			<translation id = "rally_flag" 			value = "Bandeira de Reagrupamento"/>
 		 </namespace>
 
 		 <namespace id ="liquid">
