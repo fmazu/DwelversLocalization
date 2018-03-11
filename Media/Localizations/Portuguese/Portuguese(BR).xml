@@ -255,8 +255,8 @@
 		 </namespace>
 
 		 <namespace id ="minerals">
-			<translation id = "contains" 			value = "Contains Minerals"/>
-			<translation id = "explain" 			value = "Either build a mine or dig in this area to obtain minerals."/>
+			<translation id = "contains" 			value = "Contém Minerais"/>
+			<translation id = "explain" 			value = "Construa uma mina ou cave nesta área para obter minerais"/>
 		 </namespace>
 
 		 <namespace id ="trade">
