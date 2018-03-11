@@ -266,33 +266,33 @@
 	</namespace>
 
 	<namespace id = "radial_menu">
-		<translation id = "build" 							value = "Builds a %s1"/>
-		<translation id = "reinforce_walls_headline" 		value = "Reinforce Walls"/>
-		<translation id = "reinforce_walls" 				value = "Reinforce walls to make it harder for enemies to dig through them."/>
-		<translation id = "rotate_headline" 				value = "Rotate"/>
-		<translation id = "rotate" 							value = "Rotates a building."/>
-		<translation id = "sell_headline" 					value = "Sell"/>
-		<translation id = "sell" 							value = "Sells a building. You will only get some of the building materials back."/>
-		<translation id = "wall_constructions_headline" 	value = "Wall Constructions"/>
-		<translation id = "wall_constructions" 				value = "Opens a menu with wall constructions to build."/>
-		<translation id = "floor_constructions_headline" 	value = "Floor Constructions"/>
-		<translation id = "floor_constructions" 			value = "Opens a menu with floor constructions to build."/>
-		<translation id = "nature_objects_headline" 		value = "Nature Objects"/>
-		<translation id = "nature_objects" 					value = "Opens a menu with nature objects to build."/>
-		<translation id = "add_minerals_headline" 			value = "Add Minerals"/>
-		<translation id = "add_minerals" 					value = "Opens a menu with minerals to add."/>
-		<translation id = "remove_minerals_headline" 		value = "Remove Minerals"/>
-		<translation id = "remove_minerals" 				value = "Opens a menu with minerals to remove."/>
-		<translation id = "add_creature_headline" 			value = "Add Creatures"/>
-		<translation id = "add_creature" 					value = "Opens a menu with creatures to add."/>
-		<translation id = "remove_creature_headline" 		value = "Remove Creature"/>
-		<translation id = "remove_creature" 				value = "Removes a creature."/>
-		<translation id = "room_flag_headline" 				value = "Room Flag"/>
-		<translation id = "room_flag" 						value = "Sets the room's dropping point."/>
-		<translation id = "link_rooms_headline" 			value = "Link Rooms"/>
-		<translation id = "link_rooms" 						value = "Link or unlink rooms to change their delivery paths."/>
-		<translation id = "activate_headline" 				value = "Toggle Activation"/>
-		<translation id = "activate" 						value = "Manually activates or deactivates a building."/>
+		<translation id = "build" 							value = "Constrói %s1"/>
+		<translation id = "reinforce_walls_headline" 		value = "Reinforçar parades"/>
+		<translation id = "reinforce_walls" 				value = "Reinforçar paredes para dificultar que inimigos que inimigos cavem através delas."/>
+		<translation id = "rotate_headline" 				value = "Rotacionar"/>
+		<translation id = "rotate" 							value = "Rotaciona uma construção."/>
+		<translation id = "sell_headline" 					value = "Vender"/>
+		<translation id = "sell" 							value = "Vende uma construção. Você recuperará alguns dos materias de construção utilizados. "/>
+		<translation id = "wall_constructions_headline" 	value = "Construção: Muralhas"/>
+		<translation id = "wall_constructions" 				value = "Abre um menu de construções do tipo Muralha."/>
+		<translation id = "floor_constructions_headline" 	value = "Construções: Piso"/>
+		<translation id = "floor_constructions" 			value = "Abre um menu de construções do tipo Piso."/>
+		<translation id = "nature_objects_headline" 		value = "Objetos da Natureza"/>
+		<translation id = "nature_objects" 					value = "Abre um menu de construções do tipo Objetos da Natureza."/>
+		<translation id = "add_minerals_headline" 			value = "Adicionar Minerais"/>
+		<translation id = "add_minerals" 					value = "Abre um menu com Minerais para adicionar."/>
+		<translation id = "remove_minerals_headline" 		value = "Remover Minerais"/>
+		<translation id = "remove_minerals" 				value = "Abre um menu com Minerais para remover."/>
+		<translation id = "add_creature_headline" 			value = "Adicionar Criaturas"/>
+		<translation id = "add_creature" 					value = "Abre um menu com Criaturas para adicionar."/>
+		<translation id = "remove_creature_headline" 		value = "Remover Criatura"/>
+		<translation id = "remove_creature" 				value = "Remove uma Criatura."/>
+		<translation id = "room_flag_headline" 				value = "Bandeira da Sala"/>
+		<translation id = "room_flag" 						value = "Define o ponto de coleta da sala."/>
+		<translation id = "link_rooms_headline" 			value = "Conectar Salas"/>
+		<translation id = "link_rooms" 						value = "Conecta ou desconecta salas para mudar suas rotas de entrega.."/>
+		<translation id = "activate_headline" 				value = "Ativação"/>
+		<translation id = "activate" 						value = "Ativa ou desativa manualmente uma construção."/>
 
 		<namespace id = "rooms">
 			<translation id = "rooms_headline" 				value = "Build Rooms Menu"/>
