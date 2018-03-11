@@ -235,7 +235,7 @@
 			<translation id = "training" 			value = "Treinamento"/>
 			<translation id = "transporting_cart" 	value = "Transporte de Carrinho"/>
 			<translation id = "returning_to_room" 	value = "Retornar a Sala"/>
-			<translation id = "reinforcing_walls" 	value = "Reinforço de Paredes"/>
+			<translation id = "reinforcing_walls" 	value = "Reinforço de Muralhas"/>
 			<translation id = "idle" 				value = "Ocioso"/>
 			<translation id = "expanding_territory" value = "Expansão de Território"/>
 			<translation id = "fetching_item" 		value = "Busca de Item"/>
@@ -267,8 +267,8 @@
 
 	<namespace id = "radial_menu">
 		<translation id = "build" 							value = "Constrói %s1"/>
-		<translation id = "reinforce_walls_headline" 		value = "Reinforçar parades"/>
-		<translation id = "reinforce_walls" 				value = "Reinforçar paredes para dificultar que inimigos que inimigos cavem através delas."/>
+		<translation id = "reinforce_walls_headline" 		value = "Reinforçar Muralhas"/>
+		<translation id = "reinforce_walls" 				value = "Reinforçar Muralhas para dificultar que inimigos que inimigos cavem através delas."/>
 		<translation id = "rotate_headline" 				value = "Rotacionar"/>
 		<translation id = "rotate" 							value = "Rotaciona uma construção."/>
 		<translation id = "sell_headline" 					value = "Vender"/>
