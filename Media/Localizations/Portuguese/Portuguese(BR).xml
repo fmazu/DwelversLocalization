@@ -260,8 +260,8 @@
 		 </namespace>
 
 		 <namespace id ="trade">
-			<translation id = "preparing" 			value = "Preparing trade: "/>
-			<translation id = "in_progress" 		value = "Trade in progress: "/>
+			<translation id = "preparing" 			value = "Preparando troca: "/>
+			<translation id = "in_progress" 		value = "Troca em progresso: "/>
 		 </namespace>
 	</namespace>
 
