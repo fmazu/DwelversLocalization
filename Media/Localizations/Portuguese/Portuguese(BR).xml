@@ -249,9 +249,9 @@
 		 </namespace>
 
 		 <namespace id ="liquid">
-			<translation id = "explain" 			value = "You can either fetch the liquid, or build a bridge over it."/>
-			<translation id = "fetch_not_possible" 	value = "You can't fetch liquid here."/>
-			<translation id = "fetch_possible" 		value = "Click on the liquid to order Imps to fetch it."/>
+			<translation id = "explain" 			value = "Você pode obter o líquido ou construir uma ponte sobre o mesmo."/>
+			<translation id = "fetch_not_possible" 	value = "Não é possível obter líquidos aqui."/>
+			<translation id = "fetch_possible" 		value = "Clique no líquido para ordernar que Imps o obtenham."/>
 		 </namespace>
 
 		 <namespace id ="minerals">
