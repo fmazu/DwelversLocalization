@@ -320,12 +320,12 @@
 		</namespace>
 
 		<namespace id = "spells">
-			<translation id = "spells_headline" 	value = "Spells Menu"/>
-			<translation id = "spells" 				value = "Opens a menu with spells to cast."/>
-			<translation id = "possess_headline" 	value = "Possess"/>
-			<translation id = "possess" 			value = "Take control of a creature."/>
-			<translation id = "reveal_headline" 	value = "Reveal"/>
-			<translation id = "reveal" 				value = "Temporarily reveals an undiscovered area."/>
+			<translation id = "spells_headline" 	value = "Menu de Magias"/>
+			<translation id = "spells" 				value = "Abre um menu com Magias para conjurar."/>
+			<translation id = "possess_headline" 	value = "Possessão"/>
+			<translation id = "possess" 			value = "Assume o controle de uma criatura."/>
+			<translation id = "reveal_headline" 	value = "Revelação"/>
+			<translation id = "reveal" 				value = "Temporariamente revela uma área não descoberta"/>
 		</namespace>
 
 		<namespace id = "liquid">
