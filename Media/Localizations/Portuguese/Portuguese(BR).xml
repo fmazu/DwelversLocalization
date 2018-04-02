@@ -295,28 +295,28 @@
 		<translation id = "activate" 						value = "Ativa ou desativa manualmente uma construção."/>
 
 		<namespace id = "rooms">
-			<translation id = "rooms_headline" 				value = "Build Rooms Menu"/>
-			<translation id = "rooms" 						value = "Opens a menu with rooms to build."/>
-			<translation id = "bar_room_headline" 			value = "Bar Room Menu"/>
-			<translation id = "bar_room" 					value = "Opens a menu with Bar Room constructions."/>
-			<translation id = "bed_room_headline" 			value = "Bedroom Menu"/>
-			<translation id = "bed_room" 					value = "Opens a menu with Bedroom constructions."/>
-			<translation id = "cookery_room_headline" 		value = "Cookery Room Menu"/>
-			<translation id = "cookery_room" 				value = "Opens a menu with Cookery Room constructions."/>
-			<translation id = "catacombs_room_headline" 	value = "Catacombs Room Menu"/>
-			<translation id = "catacombs_room" 				value = "Opens a menu with catacombs room constructions."/>
-			<translation id = "farm_room_headline" 			value = "Farm Room Menu"/>
-			<translation id = "farm_room" 					value = "Opens a menu with farm room constructions."/>
-			<translation id = "metalworks_room_headline" 	value = "Metalworks Room Menu"/>
-			<translation id = "metalworks_room" 			value = "Opens a menu with metalworks room constructions."/>
-			<translation id = "prison_room_headline" 		value = "Prison Room Menu"/>
-			<translation id = "prison_room" 				value = "Opens a menu with prison room constructions."/>
-			<translation id = "storage_room_headline" 		value = "Storage Room Menu"/>
-			<translation id = "storage_room" 				value = "Opens a menu with storage room constructions."/>
-			<translation id = "training_room_headline" 		value = "Training Room Menu"/>
-			<translation id = "training_room" 				value = "Opens a menu with training room constructions."/>
-			<translation id = "trading_room_headline" 		value = "Trading Room Menu"/>
-			<translation id = "trading_room" 				value = "Opens a menu with trading room constructions."/>
+			<translation id = "rooms_headline" 				value = "Menu de Construção de Salas"/>
+			<translation id = "rooms" 						value = "Abre um menu com salas para construir."/>
+			<translation id = "bar_room_headline" 			value = "Menu de Construções: Bar"/>
+			<translation id = "bar_room" 					value = "Abre um menu de construções do tipo Bar."/>
+			<translation id = "bed_room_headline" 			value = "Menu de Construções: Quarto"/>
+			<translation id = "bed_room" 					value = "Abre um menu de construções do tipo Quarto."/>
+			<translation id = "cookery_room_headline" 		value = "Menu de Construções: Cozinha"/>
+			<translation id = "cookery_room" 				value = "Abre um menu de construções do tipo Cozinha."/>
+			<translation id = "catacombs_room_headline" 	value = "Menu de Construções: Catacumba"/>
+			<translation id = "catacombs_room" 				value = "Abre um menu de construções do tipo Catacumba."/>
+			<translation id = "farm_room_headline" 			value = "Menu de Construções: Fazenda"/>
+			<translation id = "farm_room" 					value = "Abre um menu de construções do tipo Fazenda."/>
+			<translation id = "metalworks_room_headline" 	value = "Menu de Construções: Metalúrgica"/>
+			<translation id = "metalworks_room" 			value = "Abre um menu de construções do tipo Metalúrgica."/>
+			<translation id = "prison_room_headline" 		value = "Menu de Construções: Prisão"/>
+			<translation id = "prison_room" 				value = "Abre um menu de construções do tipo Prisão."/>
+			<translation id = "storage_room_headline" 		value = "Menu de Construções: Armazém"/>
+			<translation id = "storage_room" 				value = "Abre um menu de construções do tipo Armazém."/>
+			<translation id = "training_room_headline" 		value = "Menu de Construções: Sala de Treinamento"/>
+			<translation id = "training_room" 				value = "Abre um menu de construções do tipo Sala de Treinamento."/>
+			<translation id = "trading_room_headline" 		value = "Menu de Construções: Sala de Comércio"/>
+			<translation id = "trading_room" 				value = "Abre um menu de construções do tipo Sala de Comércio."/>
 		</namespace>
 
 		<namespace id = "spells">
