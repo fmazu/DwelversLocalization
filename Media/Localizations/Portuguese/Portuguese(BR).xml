@@ -347,10 +347,10 @@
 		</namespace>
 
 		<namespace id = "menu">
-			<translation id = "creature_headline" 	value = "Creature Details"/>
-			<translation id = "creature" 			value = "Shows details about the selected creature."/>
-			<translation id = "room_headline" 		value = "Room Details"/>
-			<translation id = "room" 				value = "Shows details about the selected room."/>
+			<translation id = "creature_headline" 	value = "Detalhes da Criatura"/>
+			<translation id = "creature" 			value = "Mostra detalhes sobre a criatura selecionada."/>
+			<translation id = "room_headline" 		value = "Detalhes da Sala"/>
+			<translation id = "room" 				value = "Mostra detalhes sobre a sala selecionada."/>
 		</namespace>
 
 		<namespace id = "hydraulics">
