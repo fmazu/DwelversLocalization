@@ -329,14 +329,14 @@
 		</namespace>
 
 		<namespace id = "liquid">
-			<translation id = "liquid_headline" 		value = "Liquids Menu"/>
-			<translation id = "liquid" 					value = "Opens a menu with actions to perform on liquids."/>
-			<translation id = "drop_water_headline" 	value = "Drop Water"/>
-			<translation id = "drop_water" 				value = "Order your Imps to drop a Water Block on a tile."/>
-			<translation id = "drop_lava_headline" 		value = "Drop Lava"/>
-			<translation id = "drop_lava" 				value = "Order your Imps to drop a Lava Block on a tile."/>
-			<translation id = "fetch_liquid_headline" 	value = "Fetch Liquids"/>
-			<translation id = "fetch_liquid" 			value = "Fetch a Water or Lava Block to place in storage."/>
+			<translation id = "liquid_headline" 		value = "Menu de Líquidos"/>
+			<translation id = "liquid" 					value = "Abre um menu de ações relacionadas a líquidos ."/>
+			<translation id = "drop_water_headline" 	value = "Largar Bloco d'água"/>
+			<translation id = "drop_water" 				value = "Ordena que seus Imps larguem um Bloco d'água no espaço selecionado."/>
+			<translation id = "drop_lava_headline" 		value = "Largar Bloco de Lava"/>
+			<translation id = "drop_lava" 				value = "Ordena que seus Imps larguem um Bloco de Lava no espaço selecionado."/>
+			<translation id = "fetch_liquid_headline" 	value = "Buscar Líquidos"/>
+			<translation id = "fetch_liquid" 			value = "Busca água ou lava para colocar no armazém."/>
 		</namespace>
 
 		<namespace id = "road">
