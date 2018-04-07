@@ -364,11 +364,11 @@
 	</namespace>
 
 	<namespace id = "editor">
-		<translation id = "creating_player_owned_objects" 	value = "Owner of Created Objects (%s1): Player"/>
-		<translation id = "creating_enemy_owned_objects" 	value = "Owner of Created Objects (%s1): Enemy"/>
-		<translation id = "creating_creature_level" 		value = "Creating Creatures with Level (%s1): %s2"/>
-		<translation id = "selector_location" 				value = "Selector Location: %s1;%s2;%s3"/>
-		<translation id = "camera_location" 				value = "Camera Location: %s1;%s2;%s3"/>
+		<translation id = "creating_player_owned_objects" 	value = "Dono dos Objetos Criados (%s1): Jogador"/>
+		<translation id = "creating_enemy_owned_objects" 	value = "Dono dos Objetos Criados (%s1): Inimigo"/>
+		<translation id = "creating_creature_level" 		value = "Criando Criaturas com Nível (%s1): %s2"/>
+		<translation id = "selector_location" 				value = "Localização do Seletor: %s1;%s2;%s3"/>
+		<translation id = "camera_location" 				value = "Localização da Câmera: %s1;%s2;%s3"/>
 	</namespace>
 
 	<namespace id = "top_bar">
