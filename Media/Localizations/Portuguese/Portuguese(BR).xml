@@ -398,21 +398,21 @@
 		</namespace>
 
 		<namespace id = "items">
-			<translation id = "left_click_to_zoom_in" 		value = "(Left-click to zoom in)"/>
-			<translation id = "crafting_change_amount" 		value = "(Click the +/- buttons to craft)"/>
-			<translation id = "trading_headline" 			value = "Trading %s1"/>
-			<translation id = "trading_description" 		value = "Trading will take place between trading rooms and claimed portals. The more portals owned, the more trading options will be available."/>
-			<translation id = "trading_explain_buy_sell" 	value = "Click the (+/-) button to set the trading condition."/>
-			<translation id = "trading_explain_zoom_in" 	value = "Left-click to zoom in on active trades."/>
-			<translation id = "trading_locked_headline" 	value = "Trade Locked"/>
-			<translation id = "trading_locked_description" 	value = "This trade is locked! Unlock trade routes by claiming additional portals to the surface world."/>
-			<translation id = "trading_condition_headline" 	value = "Current Trading Condition"/>
-			<translation id = "trading_condition_sell" 		value = "If more than %s2 units of %s1 are stored, then start selling %s1 for gold."/>
-			<translation id = "trading_condition_buy" 		value = "If less than %s2 units of %s1 are stored, then start buying %s1 for gold."/>
-			<translation id = "trading_condition_none" 		value = "No trading conditions have been set for %s1."/>
-			<translation id = "trading_current_buy_if" 		value = "Buy if less than %s1"/>
-			<translation id = "trading_current_sell_if" 	value = "Sell if more than %s1"/>
-			<translation id = "trading_current_no_if" 		value = "No trade"/>
+			<translation id = "left_click_to_zoom_in" 		value = "(Clique com o botão esquerdo do mouse para aumentar o zoom)"/>
+			<translation id = "crafting_change_amount" 		value = "(Clique os botões +/- para cosntruir)"/>
+			<translation id = "trading_headline" 			value = "Troca %s1"/>
+			<translation id = "trading_description" 		value = "Trocas ocorrerão entre Salas de Comércio e portais reivindicados. Quanto mais portais o jogador possuir, maiores serão as opções de troca."/>
+			<translation id = "trading_explain_buy_sell" 	value = "Clique no botão (+/-) para definir as condições de troca."/>
+			<translation id = "trading_explain_zoom_in" 	value = "Clique com o botão esquerdo do mouse para focalizar em trocas ativas."/>
+			<translation id = "trading_locked_headline" 	value = "Troca Bloqueada"/>
+			<translation id = "trading_locked_description" 	value = "Esta troca está bloqueada! Desbloqueie rotas de troca tomando posse de portais que levam à superfície."/>
+			<translation id = "trading_condition_headline" 	value = "Condições de Troca Atuais"/>
+			<translation id = "trading_condition_sell" 		value = "Se estiverem armazenadas mais que %s2 unidades de %s1, então comece a vender %s1 por ouro."/>
+			<translation id = "trading_condition_buy" 		value = "Se estiverem armazenadas menos que %s2 unidades de %s1, então comece a comprar %s1 por ouro."/>
+			<translation id = "trading_condition_none" 		value = "Nenhuma condição de troca foi definida para %s1."/>
+			<translation id = "trading_current_buy_if" 		value = "Comprar se menos de %s1"/>
+			<translation id = "trading_current_sell_if" 	value = "Vender se mais de %s1"/>
+			<translation id = "trading_current_no_if" 		value = "Não trocar"/>
 		</namespace>
 	</namespace>
 
