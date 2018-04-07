@@ -373,28 +373,28 @@
 
 	<namespace id = "top_bar">
 		<namespace id = "categories">
-			<translation id = "basic_items" 								value = "Basic Items"/>
-			<translation id = "basic_items_description" 					value = "Lists items that can be found naturally in the dungeon, and don't need to be created in a production chain."/>
-			<translation id = "advanced_items" 								value = "Advanced Items"/>
-			<translation id = "advanced_items_description" 					value = "Lists items that can only be produced by combining other items in a production chain."/>
-			<translation id = "consumable_items" 							value = "Consumables"/>
-			<translation id = "consumable_items_description" 				value = "Lists items that can be consumed by creatures."/>
-			<translation id = "weapon_items" 								value = "Weapons"/>
-			<translation id = "weapon_items_description" 					value = "Lists equipable weapons and other items that can be crafted and used for inflicting damage on enemies."/>
-			<translation id = "armor_items" 								value = "Armor"/>
-			<translation id = "armor_items_description" 					value = "Lists equipable armor and other items that can be crafted and used for defending against enemy attacks."/>
-			<translation id = "trading" 									value = "Trades"/>
-			<translation id = "trading_description" 						value = "Lists available trades that can be made in exchange for gold."/>
-			<translation id = "room_buildings" 								value = "Rooms"/>
-			<translation id = "room_buildings_description" 					value = "Lists owned rooms."/>
-			<translation id = "floor_construction_buildings" 				value = "Floor Constructions"/>
-			<translation id = "floor_construction_buildings_description" 	value = "Lists owned floor constructions."/>
-			<translation id = "wall_construction_buildings" 				value = "Wall Constructions"/>
-			<translation id = "wall_construction_buildings_description" 	value = "Lists owned wall constructions."/>
-			<translation id = "hydraulics_buildings" 						value = "Hydraulics"/>
-			<translation id = "hydraulics_buildings_description" 			value = "Lists owned hydraulics."/>
-			<translation id = "liquid_buildings" 							value = "Liquid-related Constructions"/>
-			<translation id = "liquid_buildings_description" 				value = "Lists buildings that can be built on different types of liquids."/>
+			<translation id = "basic_items" 								value = "Itens Básicos"/>
+			<translation id = "basic_items_description" 					value = "Lista de itens que podem ser encontrados naturalmente na masmorra e não precisam ser produzidos."/>
+			<translation id = "advanced_items" 								value = "Itens Avançados"/>
+			<translation id = "advanced_items_description" 					value = "Lista de itens que só podem ser produzidos através da combinação de outros itens."/>
+			<translation id = "consumable_items" 							value = "Consumíveis"/>
+			<translation id = "consumable_items_description" 				value = "Lista de itens que podem ser consumidos por criaturas."/>
+			<translation id = "weapon_items" 								value = "Armas"/>
+			<translation id = "weapon_items_description" 					value = "Lista de armas equipáveis e outros itens que podem ser construídos e usados para causar dano a inimigos."/>
+			<translation id = "armor_items" 								value = "Armaduras"/>
+			<translation id = "armor_items_description" 					value = "Lista de armaduras equipáveis e outros itens que podem ser construídos e usados para defender contra ataques inimigos."/>
+			<translation id = "trading" 									value = "Trocas"/>
+			<translation id = "trading_description" 						value = "Lista de trocas disponíveis que podem ser feitas para obter ouro."/>
+			<translation id = "room_buildings" 								value = "Salas"/>
+			<translation id = "room_buildings_description" 					value = "Lista das salas que o jogador possui."/>
+			<translation id = "floor_construction_buildings" 				value = "Construções: Piso"/>
+			<translation id = "floor_construction_buildings_description" 	value = "Lista das construções do tipo piso que o jogador possui."/>
+			<translation id = "wall_construction_buildings" 				value = "Construções: Muralhas"/>
+			<translation id = "wall_construction_buildings_description" 	value = "Lista das construções do tipo muralha que o jogador possui"/>
+			<translation id = "hydraulics_buildings" 						value = "Construções: Hidráulica"/>
+			<translation id = "hydraulics_buildings_description" 			value = "Lista das construções hidráulicas que o jogador possui"/>
+			<translation id = "liquid_buildings" 							value = "Construções relacionadas a líquidos"/>
+			<translation id = "liquid_buildings_description" 				value = "Lista de construções que podem ser feitas sobre diferentes tipos de líquidos."/>
 		</namespace>
 
 		<namespace id = "items">
