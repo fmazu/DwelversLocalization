@@ -340,10 +340,10 @@
 		</namespace>
 
 		<namespace id = "road">
-			<translation id = "build_headline" 		value = "Build Road"/>
-			<translation id = "build" 				value = "Builds a road to connect your rooms, and increase your creatures' travel speed."/>
-			<translation id = "upgrade_headline" 	value = "Upgrade Road"/>
-			<translation id = "upgrade" 			value = "Upgrade a road to increase your creatures' travel speed."/>
+			<translation id = "build_headline" 		value = "Construir Estrada"/>
+			<translation id = "build" 				value = "Constrói uma estrada que conecta suas salas e aumenta a velocidade de travessia de suas criaturas."/>
+			<translation id = "upgrade_headline" 	value = "Aprimorar Estrada"/>
+			<translation id = "upgrade" 			value = "Aprimora uma estrada para aumentar a velocidade de travessia de suas criaturas."/>
 		</namespace>
 
 		<namespace id = "menu">
