@@ -354,12 +354,12 @@
 		</namespace>
 
 		<namespace id = "hydraulics">
-			<translation id = "hydraulics_headline" value = "Hydraulics"/>
-			<translation id = "hydraulics" 			value = "Opens a menu with hydraulics to build."/>
-			<translation id = "switches_headline" 	value = "Hydraulic Switches"/>
-			<translation id = "switches" 			value = "Opens a menu with hydraulic switches to build."/>
-			<translation id = "traps_headline" 		value = "Hydraulic Traps"/>
-			<translation id = "traps" 				value = "Opens a menu with hydraulic traps to build."/>
+			<translation id = "hydraulics_headline" value = "Hidráulica"/>
+			<translation id = "hydraulics" 			value = "Abre um menu com construções hidráulicas."/>
+			<translation id = "switches_headline" 	value = "Interruptores Hidráulicos"/>
+			<translation id = "switches" 			value = "Abre um menu com interruptores hidráulicos para construir."/>
+			<translation id = "traps_headline" 		value = "Armadilhas Hidráulicas"/>
+			<translation id = "traps" 				value = "Abre um menu com armadilhas hidráulicas para construir."/>
 		</namespace>
 	</namespace>
 
