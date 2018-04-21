@@ -417,48 +417,48 @@
 	</namespace>
 
 	<namespace id = "achievements">
-		<translation id = "first_cyclotaur" 				value = "Let slip the bulls of war!"/>
-		<translation id = "first_cyclotaur_description" 	value = "Create a Cyclotaur creature."/>
+		<translation id = "first_cyclotaur" 				value = "Solte os touros de guerra!"/>
+		<translation id = "first_cyclotaur_description" 	value = "Crie uma criatura Ciclotauro."/>
 
-		<translation id = "conquer_all_portals"				value = "To the overworld!"/>
-		<translation id = "conquer_all_portals_description" value = "Conquer all the human-spawning portals in the dungeon."/>
+		<translation id = "conquer_all_portals"				value = "Para o mundo da superfície!"/>
+		<translation id = "conquer_all_portals_description" value = "Conquiste todos os portais humanos na masmorra."/>
 
-		<translation id = "catch_first_fish" 				value = "Bait!"/>
-		<translation id = "catch_first_fish_description" 	value = "Catch a fish by building a bridge out to a school of fish."/>
+		<translation id = "catch_first_fish" 				value = "Isca!"/>
+		<translation id = "catch_first_fish_description" 	value = "Capture um peixe construindo uma ponte até um cardume de peixes."/>
 
-		<translation id = "build_all_rooms" 				value = "Full House"/>
-		<translation id = "build_all_rooms_description" 	value = "Unlock and build all room types."/>
+		<translation id = "build_all_rooms" 				value = "Casa Cheia"/>
+		<translation id = "build_all_rooms_description" 	value = "Desbloqueie e construa todos os tipos de sala."/>
 
-		<translation id = "first_trade" 					value = "We have a deal."/>
-		<translation id = "first_trade_description" 		value = "Make a trade with another colony."/>
+		<translation id = "first_trade" 					value = "Trato feito."/>
+		<translation id = "first_trade_description" 		value = "Faça uma troca com outro colônia."/>
 
-		<translation id = "imp_army" 						value = "Power in Numbers"/>
-		<translation id = "imp_army_description" 			value = "Own 50 or more Imp creatures."/>
+		<translation id = "imp_army" 						value = "Força em Quantidade"/>
+		<translation id = "imp_army_description" 			value = "Tenha 50 ou mais criaturas Imp."/>
 
 		<namespace id = "learn_creature_skills">
 			<translation id = "barrel_roll" 				value = "Do a barrel roll!"/>
-			<translation id = "barrel_roll_description" 	value = "Level up an Impanzee to learn the creature skill Barrel Roll."/>
+			<translation id = "barrel_roll_description" 	value = "Aprenda a habilidade Pirueta com uma criatura Impanzé."/>
 
-			<translation id = "bull_rush" 					value = "Head First"/>
-			<translation id = "bull_rush_description" 		value = "Level up a Cyclotaur to learn the creature skill Bull Rush."/>
+			<translation id = "bull_rush" 					value = "Cai de Cabeça"/>
+			<translation id = "bull_rush_description" 		value = "Aprenda a habilidade Corrida de Touro com uma critaura Ciclotauro."/>
 
-			<translation id = "butchering" 					value = "Like lambs to the slaughter."/>
-			<translation id = "butchering_description" 		value = "Level up a Piggeh to learn the creature skill Butchering."/>
+			<translation id = "butchering" 					value = "Cordeiros ao Matadouro."/>
+			<translation id = "butchering_description" 		value = "Aprenda a habilidade Carnificina com uma critaura Piggeh."/>
 
-			<translation id = "frog_tongue" 				value = "That's close enough!"/>
-			<translation id = "frog_tongue_description" 	value = "Level up a Fishman to learn the creature skill Frog Tongue."/>
+			<translation id = "frog_tongue" 				value = "Não precisa se aproximar tanto!"/>
+			<translation id = "frog_tongue_description" 	value = "Aprenda a habilidade Língua de Sapo com uma critaura Homem-peixe."/>
 
-			<translation id = "hurricane" 					value = "Rock you like a hurricane!"/>
-			<translation id = "hurricane_description" 		value = "Level up a Knight to learn the creature skill Hurricane."/>
+			<translation id = "hurricane" 					value = "Chega como um furacão!"/>
+			<translation id = "hurricane_description" 		value = "Aprenda a habilidade Furacão com uma critaura Cavaleiro."/>
 
-			<translation id = "skill_steal" 				value = "This is mine now"/>
-			<translation id = "skill_steal_description" 	value = "Level up a Rogue to learn the creature skill Steal."/>
+			<translation id = "skill_steal" 				value = "Perdeu, é meu"/>
+			<translation id = "skill_steal_description" 	value = "Aprenda a habilidade Furto com uma critaura Arruaceiro."/>
 
-			<translation id = "stunning_block" 				value = "Can't touch this"/>
-			<translation id = "stunning_block_description" 	value = "Level up an Orc to learn the creature skill Stunning Block."/>
+			<translation id = "stunning_block" 				value = "Não me toque"/>
+			<translation id = "stunning_block_description" 	value = "Aprenda a habilidade Bloco Paralizante com uma critaura Orc."/>
 
-			<translation id = "teleport" 					value = "Beam me up."/>
-			<translation id = "teleport_description" 		value = "Level up an Imp to learn the creature skill Teleport."/>
+			<translation id = "teleport" 					value = "Teleporte-nos, Scottie."/>
+			<translation id = "teleport_description" 		value = "Aprenda a habilidade Teletransporte com uma critaura Imp."/>
 		</namespace>
 	</namespace>
 
