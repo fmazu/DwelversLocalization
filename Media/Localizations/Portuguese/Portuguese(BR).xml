@@ -463,9 +463,9 @@
 	</namespace>
 
 	<namespace id = "rally_flag">
-		<translation id = "remove" 					value = "Click to dismiss the flag."/>
-		<translation id = "headline_creature_flag" 	value = "Creature flag."/>
-		<translation id = "tooltip_creature_flag" 	value = "Left-clicking on this icon will give you the option to place a creature flag that all creature of this type will rally to. This flag has a higher priority than the Rally Flag, but it has a lower priority than the Squad Flag."/>
+		<translation id = "remove" 					value = "Clique para remover a bandeira."/>
+		<translation id = "headline_creature_flag" 	value = "Bandeira de Criaturas."/>
+		<translation id = "tooltip_creature_flag" 	value = "Clique com o botão esquerdo do mouse neste ícone para colocar uma bandeira que fará com que todas as criaturas deste tipo se reúnam neste ponto. Esta bandeira tem prioridade maior que a Bandeira de Manifestação, mas menos prioridade que a Bandeira de Esquadrão."/>
 	</namespace>
 
 	<namespace id = "creature_equipment">
