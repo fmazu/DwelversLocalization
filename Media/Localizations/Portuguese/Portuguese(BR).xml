@@ -492,17 +492,17 @@
 	<namespace id = "menu_production">
 		<namespace id = "options">
 			<namespace id = "reinforce_walls">
-				<translation id = "title" 			value = "Reinforce walls"/>
-				<translation id = "disabled" 		value = "Disabled"/>
-				<translation id = "rooms" 			value = "Next to rooms"/>
-				<translation id = "roads_and_rooms" value = "Next to roads and rooms"/>
-				<translation id = "all" 			value = "Next to all player-owned territory"/>
+				<translation id = "title" 			value = "Reinforçar paredes"/>
+				<translation id = "disabled" 		value = "Disabilitado"/>
+				<translation id = "rooms" 			value = "Próximas às salas"/>
+				<translation id = "roads_and_rooms" value = "Próximas às salas e estradas"/>
+				<translation id = "all" 			value = "Próximas a territórios de posse do jogador"/>
 			</namespace>
 
 			<namespace id = "expand_territory">
-				<translation id = "title" 			value = "Expand territory"/>
-				<translation id = "num_blocks" 		value = "block(s)"/>
-				<translation id = "disabled" 		value = "Disabled"/>
+				<translation id = "title" 			value = "Expandir território"/>
+				<translation id = "num_blocks" 		value = "Bloco(s)"/>
+				<translation id = "disabled" 		value = "Disabilitado"/>
 			</namespace>
 		</namespace>
 
