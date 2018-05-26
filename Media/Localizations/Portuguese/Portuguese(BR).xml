@@ -507,13 +507,13 @@
 		</namespace>
 
 		<namespace id = "crafting">
-			<translation id = "click_to_add_or_remove" 		value = "Click below to add or remove crafting orders."/>
-			<translation id = "missing_forge_and_anvil"		value = "Not craftable without a 'Forge and Anvil'!"/>
-			<translation id = "missing_sewing_machine" 		value = "Not craftable without a 'Sewing Machine'!"/>
+			<translation id = "click_to_add_or_remove" 		value = "Clique abaixo para adicionar ou remover ordens de criação de itens."/>
+			<translation id = "missing_forge_and_anvil"		value = "Não pode ser criado sem uma 'Forja e Bigorna'!"/>
+			<translation id = "missing_sewing_machine" 		value = "Não pode ser criado sem uma 'Máquina de Costura'!"/>
 		</namespace>
 
-		<translation id = "items_quick_choice_info" 		value = "(Click the upper bar to switch quick-item)"/>
-		<translation id = "items_graph_history" 			value = "History"/>
+		<translation id = "items_quick_choice_info" 		value = "(Clique na barra superior para mudar o item rápido)"/>
+		<translation id = "items_graph_history" 			value = "Histórico"/>
 	</namespace>
 
 
