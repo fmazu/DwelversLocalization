@@ -469,24 +469,24 @@
 	</namespace>
 
 	<namespace id = "creature_equipment">
-		<translation id = "right_hand" 				value = "Right Hand"/>
-		<translation id = "left_hand" 				value = "Left Hand"/>
-		<translation id = "helmet" 					value = "Helmet"/>
-		<translation id = "body_armor" 				value = "Body Armor"/>
-		<translation id = "pants" 					value = "Pants"/>
-		<translation id = "shoes" 					value = "Shoes"/>
-		<translation id = "shield" 					value = "Shield"/>
+		<translation id = "right_hand" 				value = "Mão Direita"/>
+		<translation id = "left_hand" 				value = "Mão Esquerda"/>
+		<translation id = "helmet" 					value = "Capacete"/>
+		<translation id = "body_armor" 				value = "Armadura"/>
+		<translation id = "pants" 					value = "Calças"/>
+		<translation id = "shoes" 					value = "Sapatos"/>
+		<translation id = "shield" 					value = "Escudo"/>
 
-		<translation id = "one_hand_weapon" value = "One-handed Weapon"/>
-		<translation id = "two_hand_weapon" value = "Two-handed Weapon"/>
+		<translation id = "one_hand_weapon" value = "Arma de uma Mão"/>
+		<translation id = "two_hand_weapon" value = "Arma de Duas Mãos"/>
 
-		<translation id = "cant_equip" 				value = "Can't Equip"/>
-		<translation id = "left_hand_equip" 		value = "Equip Left Hand"/>
-		<translation id = "head_equip" 				value = "Equip Head"/>
-		<translation id = "body_equip" 				value = "Equip Body"/>
-		<translation id = "legs_equip" 				value = "Equip Legs"/>
-		<translation id = "feet_equip" 				value = "Equip Feet"/>
-		<translation id = "right_hand_equip" 		value = "Equip Right Hand"/>
+		<translation id = "cant_equip" 				value = "Não é possível equipar"/>
+		<translation id = "left_hand_equip" 		value = "Equipar Mão Esquerda"/>
+		<translation id = "head_equip" 				value = "Equipar Cabeça"/>
+		<translation id = "body_equip" 				value = "Equipar Torso"/>
+		<translation id = "legs_equip" 				value = "Equipar Pernas"/>
+		<translation id = "feet_equip" 				value = "Equipar Pés"/>
+		<translation id = "right_hand_equip" 		value = "Equipar Mão Direita"/>
 	</namespace>
 
 	<namespace id = "menu_production">
